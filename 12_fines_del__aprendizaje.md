@@ -1,0 +1,10 @@
+
+# 1.2. Fines del  Aprendizaje
+
+La meta última del aprendizaje que los expertos están poniendo a consideración de los educadores es lo que se ha dado en llamar la **sabiduría** a la que es posible que lleguemos por una **asimilación integrada del conocimiento, de la inteligencia y de los valores**. Y la sabiduría tiene, entre otros, los siguientes componentes (Beltrán, 1998) :
+
+- **Pensamiento dialéctico**: El pensamiento dialéctico ilumina el misterio de la vida. Es un pensamiento flexible, ponderado, alejado del dogmatismo. Nos hace ver que no somos los únicos depositarios de la verdad; que los demás también tienen sus verdades; que las ideas pueden cambiar si cambian los contextos. Incluso nos hace entender que la gente pueda tener y vivir ideas y sentimientos contradictorios.
+- **Pensamiento pragmático**. Es importante resolver problemas. Pero es mucho más importante saber qué problemas merece la pena resolver. De qué nos vale conocer y dominar las técnicas de solución de problemas, si las aplicamos a problemas que no merecen la pena. Guiados por él, podemos identificar lo que importa en cualquier dominio de la vida, establecer prioridades de acción o diseñar jerarquías de valores en función de criterios o puntos de vista personales.
+- **Pensamiento conciliador**. Hace referencia al pensamiento que trata de conciliar nuestros deseos y los deseos de los demás. Dentro de la aldea global nuestros intereses pueden chocar con los intereses de los demás y nuestras opiniones con sus opiniones. El pensamiento conciliador nos ayuda a buscar siempre caminos de entendimiento, a acercar posiciones, y a utilizar estrategias de ganar-ganar en las que todos tengan la esperanza de obtener algún beneficio. Conseguiremos poco en la vida si nuestra estrategia, lejos de ser conciliadora, trata siempre de ganar, incluso de avasallar mientras se deja a los demás el triste papel de perder. Es mejor utilizar una estrategia de ganar-ganar, que acerque y no separe, que una y no divida. El deseo de toda persona conciliadora es que, cuando termine su vida, el mundo sea un poco mejor de lo que lo encontró. Es el secreto de la verdadera sabiduría.
+
+ 
