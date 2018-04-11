@@ -9,19 +9,19 @@ Hoy nuestro país se incorpora con fuerza a los movimientos de animación socioc
 
 La animación sociocultural surge en un contexto en el que puede destacarse el aumento del tiempo libre, la instauración del ocio y la reducción del tiempo de trabajo, junto a una reacción de lapersona a la pasividad y la soledad que fomenta una sociedad industrializada y urbana.
 
-**4.1. Concepto de animación sociocultural**
+### 4.1. Concepto de animación sociocultural
 
 La animación sociocultural no puede desligarse de un entorno cultural, educativo, social, político y económico. Podría entenderse como un estímulo que incita a la gente a iniciar una gama de experiencias basadas en una pedagogía participativa, como transformación social que lleva a los pueblos a la creación de su propia cultura y a la construcción crítica de su realidad.
 
-**4.2. Características de la animación sociocultural**
+### 4.2. Características de la animación sociocultural
 
 Las características que definen algunos autores son: es generadora de valores, supone un elemento transformador, se rige por un cauce de participación, promueve la vida asociativa e identifica la animación como proceso. Según esto, las personas pueden ser protagonistas y creadoras de su propia cultura con el fin de desarrollar sus propios valores.
 
-**4.3. Objetivos de la animación sociocultural**
+### 4.3. Objetivos de la animación sociocultural
 
 La animación sociocultural intenta, entre otros valores, favorecer a las personas que participen en la vida en grupo y de la sociedad, intentando la mejora permanente de la calidad de vida.
 
-**4.4. Valores que promueve la animación sociocultural**
+### 4.4. Valores que promueve la animación sociocultural
 
 - El pluralismo: tolerancia de multitud de opiniones.
 - La concientización: conocimiento crítico de la realidad social y disposición a la transformación de la misma.
@@ -29,7 +29,7 @@ La animación sociocultural intenta, entre otros valores, favorecer a las person
 - La democracia: desarrollo individual desde el medio social en el que vive el hombre.
 - Las relaciones humanas: entre iguales, buscando una mayor calidad de vida.
 
-**4.5. Relación de la animación sociocultural y conceptos afines**
+### 4.5. Relación de la animación sociocultural y conceptos afines
 
 **a) Animación sociocultural y educación permanente**
 

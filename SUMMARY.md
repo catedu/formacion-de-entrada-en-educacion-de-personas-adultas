@@ -3,9 +3,9 @@
 * [Introducción](README.md)
 
 ____
-### M1. Marco institucional de la EPA | M1. Marco institucional de la EPA 
+### 1. Marco institucional de la EPA 
 * [M1. Marco institucional de la EPA](index0.md)
-* [U1. La EPA: fundamentación](u1_la_epa_fundamentacin.md)
+* [U1. La EPA: fundamentación](u1_la_epa_fundamentacin.md)	
 	* [1.1. Concepto de adultez](11_concepto_de_adultez.md)
 	* [1.2. Conceptos básicos en EPA](12_conceptos_bsicos_en_epa.md)
 	* [1.3. Educación formal, no formal e informal.](13_educacin_formal_no_formal_e_informal.md)
@@ -19,6 +19,8 @@ ____
 	* [2.2. Los organismos internacionales](22_los_organismos_internacionales.md)
 	* [Resumen](resumen2.md)
 	* [Actividad](actividad2.md)
+
+<!--
 * [U3. La EPA en Aragón](u3_la_epa_en_aragn.md)
 	* [3.1. Destinatarios de la EPA](31_destinatarios_de_la_epa.md)
 	* [3.2. Oferta formativa](32_oferta_formativa.md)
@@ -37,6 +39,7 @@ ____
 	* [5.2. Instrucciones relacionadas con la formación para el empleo](52_instrucciones_relacionadas_con_la_formacin_para_el_empleo.md)
 	* [5.3. Instrucciones que regulan las pruebas libres y de acceso para personas adultas](53_instrucciones_que_regulan_las_pruebas_libres_y_de_acceso_para_personas_adultas.md)
 	* [Resumen](resumen5.md)
+
 ### M2. Intervención en el aula | M2. Intervención en el aula 
 * [M2. Intervención en el aula](index1.md)
 * [U1. El aprendizaje en la edad adulta](u1_el_aprendizaje_en_la_edad_adulta.md)
@@ -64,6 +67,7 @@ ____
 	* [5.2. Finalidades del aprendizaje cooperativo](52_finalidades_del_aprendizaje_cooperativo.md)
 	* [5.3. Propuesta de actividades con aprendizaje cooperativo](53_propuesta_de_actividades_con_aprendizaje_cooperativo.md)
 	* [Resumen](resumen51.md)
+
 ### M3. Enseñanzas FIPA y Competencias Clave | M3. Enseñanzas FIPA y módulos formativos N-2 
 * [M3. Enseñanzas FIPA y Competencias Clave](index2.md)
 * [U1. Marco normativo](u1_marco_normativo.md)
@@ -79,6 +83,7 @@ ____
 	* [4.2. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
 	* [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
 	* [Resumen](resumen42.md)
+
 ### M4. ESPA y acceso a la FP 
 * [M4. ESPA y acceso a la FP](index3.md)
 * [U1. La ESPA](u1_la_espa.md)
@@ -93,6 +98,7 @@ ____
 	* [2.2. Modalidades](22_modalidades.md)
 	* [2.3. Perfil de los participantes](23_perfil_de_los_participantes.md)
 	* [2.4. El futuro próximo](24_el_futuro_prximo.md)
+
 ### M5. Español como nueva lengua | M5. Español como nueva lengua 
 * [M5. Español como nueva lengua](index4.md)
 * [U1. Explorando el terreno: las preguntas](u1_explorando_el_terreno_las_preguntas.md)
@@ -120,6 +126,7 @@ ____
 		* [4.2. Marco normativo](42_marco_normativo.md)
 	* [Resumen](resumen44.md)
 * [ANEXO](anexo.md)
+
 ### M6. Enseñanzas de promoción y extensión educativa 
 * [M6. Enseñanzas de promoción y extensión educativa](index5.md)
 * [1. Un poco de historia](1_un_poco_de_historia.md)
@@ -127,6 +134,7 @@ ____
 * [3. Contenido de los cursos](3_contenido_de_los_cursos.md)
 * [4. Normativa reguladora](4_normativa_reguladora.md)
 * [5. Panorama actual de las enseñanzas no regladas en los Centros Públicos de EPA](5_panorama_actual_de_las_enseanzas_no_regladas_en_los_centros_pblicos_de_epa.md)
+
 ### M7.  Enseñanzas de la modalidad a distancia | M7.  Enseñanzas de la modalidad a distancia 
 * [M7.  Enseñanzas de la modalidad a distancia](index6.md)
 * [U1. Aularagón y el Aula de Autoaprendizaje](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
@@ -144,6 +152,7 @@ ____
 	* [3.2. Funciones del tutor](32_funciones_del_tutor.md)
 	* [Tarea exploratoria](tarea_exploratoria3.md)
 	* [Resumen](resumen36.md)
+
 ### M8: El Sistema de Gestión de Calidad de los Centros de EPA 
 * [M8: El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
 * [La Norma ISO 9001:2008](la_norma_iso_90012008.md)
@@ -156,3 +165,5 @@ ____
 		* [Procesos de Apoyo](procesos_de_apoyo.md)
 * [Satisfacción del cliente](satisfaccin_del_cliente.md)
 * [Calidocs](calidocs.md)
+-->
+* [Créditos](crditos.md)

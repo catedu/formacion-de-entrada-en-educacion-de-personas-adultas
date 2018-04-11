@@ -1,7 +1,7 @@
 
 # 2.1. Evolución histórica
 
-**1.1. La educación de educación de personas en las sociedades tradicionales anteriores al siglo XIX**
+### 1.1. La educación de educación de personas en las sociedades tradicionales anteriores al siglo XIX
 
 La educación de personas adultas en sentido estricto **nace en el siglo XIX** cuando los estados adquieren protagonismo en la organización y gestión del sistema educativo.
 
@@ -13,7 +13,7 @@ En la **Edad Media** la organización gremial y las hermandades organizan una fo
 
 En los **siglos XVI y XVII** el aprendizaje de la lectura de libros impresos sirve, sobre todo, a fines catequéticos.
 
-**1.2. La educación de adultos en España en el XIX**
+### 1.2. La educación de adultos en España en el XIX
 
 En los albores del siglo XIX, el sistema escolar estatal está dirigido a los niños y la primera aproximación al concepto de educación de adultos trata de extender la escolarización a los adultos que no han pasado por el sistema escolar. La primera vez que se menciona la educación de adultos en España es en el **Reglamento de Instrucción Pública** de 1821.
 
@@ -23,12 +23,12 @@ En 1857 se publica** la Ley Moyano** que ordena al gobierno el fomento de **lecc
 
 Como **iniciativa no estatal** fue efímera la etapa del **Ateneo** (1820-24) cercano a los intereses de una burguesía ilustrada y se limitó, en un principio, a los centros recreativos para obreros y acciones puntuales del clero rural. Las aportaciones más importantes vienen de la **Institución libre de Enseñanza**. En 1900, en Oviedo, nace la primera **Universidad Popular**, con el fin de acercar y difundir la cultura al obrero adulto, también incluía cursos para mujeres.
 
-**1.3. La iniciativa estatal en el siglo XX**
+### 1.3. La iniciativa estatal en el siglo XX
 
 **a) Principios del siglo XX**
 
-![](img/fila.jpg)
-<td valign="top" width="576">****Recuerdo Escolar******  es una exposición itinerante del **Museo Pedagógico de Aragón que<br/> recoge diferentes escenas de la escuela rural de las tres provincias aragonesas,<br/> desde principios a mediados del siglo XX.</td>
+![Recuerdo Escolar  es una exposición itinerante del Museo Pedagógico de Aragón que recoge diferentes escenas de la escuela rural de las tres provincias aragonesas, desde principios a mediados del siglo XX.](img/fila.jpg)
+
 
 En **1900 el analfabetismo en España es de un 63,79 por 100** y el recién creado Ministerio de Instrucción Pública empieza por promulgar numerosas disposiciones para hacer efectivas las previsiones de la Ley Moyano.
 
@@ -38,30 +38,31 @@ En 1922 se crea la Comisión Central contra el analfabetismo y las Misiones Peda
 
 **b) La Segunda República**
 
-![](img/cartilla.jpg)
-<td valign="top" width="576">**Los niños del frente** es una muestra  itinerante del Museo Pedagógico de Aragón<br/>en la que se cuenta la historia de las colonias escolares que el Gobierno de <br/>la República organizó para alejar a los niños de los horrores de la guerra.</td>
+![Los niños del frente es una muestra  itinerante del Museo Pedagógico de Aragón en la que se cuenta la historia de las colonias escolares que el Gobierno de La República organizó para alejar a los niños de los horrores de la guerra.](img/cartilla.jpg)
+
 
 Con la llegada de la **II República**, las bienintencionadas normativas sobre educación de adultos se ven frenadas por los acontecimientos políticos. Se crea el Patronato de las **Misiones Pedagógicas** y se impulsa la creación de bibliotecas escolares. La O.M. de 1932 organiza tres grupos en las enseñanzas de adultos:
 
-1. **Para alumnos analfabetos, enseñanza del idioma y nociones de Geografía, Historia y Matemáticas.**
-1. **Ampliación del programa de la escuela para quienes ya estén iniciados en las diferentes ramas que aquel comprende.**
-1. **Clases especiales sobre temas de aplicación a las principales actividades, oficios u ocupaciones predominantes en la localidad o región.**
+1. *Para alumnos analfabetos, enseñanza del idioma y nociones de Geografía, Historia y Matemáticas.*
+1. *Ampliación del programa de la escuela para quienes ya estén iniciados en las diferentes ramas que aquel comprende.*
+1. *Clases especiales sobre temas de aplicación a las principales actividades, oficios u ocupaciones predominantes en la localidad o región.*
 
-## Para saber más
-
-A través de estos tres documentos imprescindibles  puedes acercarte al conocimiento de lo representó el patronato de las **Misiones Pedagógicas** en el periodo 1931-36.
-
-Las Misiones Pedagógicas están consideradas como la realización más generosa de la II Republica. En su labor distribuyeron más de 5000 bibliotecas y llevaron cultura y diversión a los lugares más alejados de España. Este documental recupera, a través de la palabra de algunos misioneros y el recuerdo de los que por aquel entonces eran niños, su labor altruista.
-
-- [http://www.youtube.com/watch?v=tYmfcvXqUBM ](http://www.youtube.com/watch?v=tYmfcvXqUBM).
-
-Extracto de vídeo sobre la labor de las Misiones Pedagógicas durante la II República.
-
-- [http://www.youtube.com/watch?v=5rmWEc_Iqrg ](http://www.youtube.com/watch?v=5rmWEc_Iqrg)
-
-José Luis Melero, Miguel Mena y Víctor Juan recuerdan el octogésimo aniversario de la proclamación de la II República escuchando unas excepcionales jotas republicanas cantadas por José Oto. Además analizan la repercusión del Patronato de Misiones Pedagógicas en Aragón comentando la fotografía de las Misiones Pedagógicas en Bonansa (1932), las bibliotecas, el coro de las misiones y el museo del pueblo.
-
-- [http://tertuliasomos.blogspot.com.es/2011/04/somos-tercera-tertulia.html](http://tertuliasomos.blogspot.com.es/2011/04/somos-tercera-tertulia.html)
+>**tip**
+>## Para saber más
+>
+>A través de estos tres documentos imprescindibles  puedes acercarte al conocimiento de lo representó el patronato de las **Misiones Pedagógicas** en el periodo 1931-36.
+>
+>Las Misiones Pedagógicas están consideradas como la realización más generosa de la II Republica. En su labor distribuyeron más de 5000 bibliotecas y llevaron cultura y diversión a los lugares más alejados de España. Este documental recupera, a través de la palabra de algunos misioneros y el recuerdo de los que por aquel entonces eran niños, su labor altruista.
+>
+>- [http://www.youtube.com/watch?v=tYmfcvXqUBM ](http://www.youtube.com/watch?v=tYmfcvXqUBM).
+>
+>Extracto de vídeo sobre la labor de las Misiones Pedagógicas durante la II República.
+>
+>- [http://www.youtube.com/watch?v=5rmWEc_Iqrg ](http://www.youtube.com/watch?v=5rmWEc_Iqrg)
+>
+>José Luis Melero, Miguel Mena y Víctor Juan recuerdan el octogésimo aniversario de la proclamación de la II República escuchando unas excepcionales jotas republicanas cantadas por José Oto. Además analizan la repercusión del Patronato de Misiones Pedagógicas en Aragón comentando la fotografía de las Misiones Pedagógicas en Bonansa (1932), las bibliotecas, el coro de las misiones y el museo del pueblo.
+>
+>- [http://tertuliasomos.blogspot.com.es/2011/04/somos-tercera-tertulia.html](http://tertuliasomos.blogspot.com.es/2011/04/somos-tercera-tertulia.html)
 
 **c) El Franquismo**
 
@@ -76,8 +77,11 @@ En 1963 se inicia la Campaña Nacional de Alfabetización y de promoción cultur
 
  
 
-![](img/lasmujeres.png)
-<td colspan="4" valign="top" width="576">**Algunas páginas del periódico quincenal “Alba” para la promoción cultural de adultos. Haz clic sobre la imagen para ampliarla.<br/>**</td>
+![Algunas páginas del periódico quincenal “Alba” para la promoción cultural de adultos. Haz clic sobre la imagen para ampliarla.](img/lasmujeres.png)
+
+![](img/marchaatras.png)
+
+![](img/nuestraespa.png)
 
 **d) Década de los años 70 a los 80**
 
@@ -93,12 +97,13 @@ En el decenio 1980-90 se produjo un aumento cualitativo y cuantitativo de la ofe
 
 Con la promulgación en 1990 de la Ley Orgánica de Ordenación General del Sistema Educativo (LOGSE) se crea un nuevo marco legal para la EPA en España. Se desarrolla una concepción de la educación basada en la idea de aprendizaje a lo largo de toda la vida y reconoce la educación permanente como principio básico del sistema educativo.
 
-**1.4. Del año 2000 a la actualidad:**
+### 1.4. Del año 2000 a la actualidad:
 
 En el año 2002 se aprobó la Ley Orgánica de Calidad de la Educación (LOCE), su título tercero se dedica a la enseñanza para las Personas Adultas dentro del marco de la educación permanente. El objetivo consiste en dotar a los adultos de una formación que les permita acceder a los distintos niveles del sistema educativo, mejorar su cualificación profesional, así como desarrollar su capacidad de participación en la vida social, cultural, política y económica.
 
 Siguió la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). El título primero de esta Ley se centra en la EPA, dándole un tratamiento similar al del resto de enseñanzas en las que se organiza el sistema educativo. La educación de adultos en la LOE tiene como finalidad el ofrecer a los mayores de dieciocho años la posibilidad de adquirir, completar o ampliar conocimientos y aptitudes para su desarrollo personal y profesional.
 
-## Importante
-
-El artículo de El País [“De la alfabetización a la enseñanza permanente”](http://elpais.com/diario/1978/05/27/sociedad/265068006_850215.html) hace un recorrido histórico que analiza aspectos importantes de la educación de adultos en España. No dejes de leerlo, te ayudará en la resolución de la tarea.
+>**info**
+>## Importante
+>
+>El artículo de El País [“De la alfabetización a la enseñanza permanente”](http://elpais.com/diario/1978/05/27/sociedad/265068006_850215.html) hace un recorrido histórico que analiza aspectos importantes de la educación de adultos en España. No dejes de leerlo, te ayudará en la resolución de la tarea.

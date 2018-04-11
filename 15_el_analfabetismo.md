@@ -12,12 +12,13 @@ Este vocablo aglutina varios significados relevantes en función de la diferenci
 - El analfabetismo con exclusión social es otro de los tipos.
 - Analfabetismo secundario. Se refiere a la alfabetización mecánica centrada en la recepción pero carente de recepción crítica.
 
-## Para saber más
-
-- La lectura del artículo: "**Cifras alarmantes de analfabetismo funcional en los países desarrollados**” te permitirá profundizar en este concepto y descubrir una realidad inaudita: [http://elpais.com/diario/1996/02/20/](http://elpais.com/diario/1996/02/20/sociedad/824770809_850215.html))
-
-“[Analfabetismo](Analfabetismos.pdf)”, Sanz Vituri, A. 2004 Diario de Teruel.
-
-“[Alfabetización digital](Alfabetizacion_digital.pdf)” Sanz Vituri, A. 2006 Diario de Teruel.
-
-“[Analfabetos secundarios](Analfabetos_secundarios.pdf)” Sanz Vituri, A. 2008 Diario de Teruel.
+>**tip**
+>## Para saber más
+>
+>- La lectura del artículo: "**Cifras alarmantes de analfabetismo funcional en los países desarrollados**” te permitirá profundizar en este concepto y descubrir una realidad inaudita: [http://elpais.com/diario/1996/02/20/](http://elpais.com/diario/1996/02/20/sociedad/824770809_850215.html))
+>
+>“[Analfabetismo](Analfabetismos.pdf)”, Sanz Vituri, A. 2004 Diario de Teruel.
+>
+>“[Alfabetización digital](Alfabetizacion_digital.pdf)” Sanz Vituri, A. 2006 Diario de Teruel.
+>
+>“[Analfabetos secundarios](Analfabetos_secundarios.pdf)” Sanz Vituri, A. 2008 Diario de Teruel.
