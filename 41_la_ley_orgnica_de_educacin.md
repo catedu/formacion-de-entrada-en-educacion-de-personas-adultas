@@ -1,7 +1,7 @@
 
 # 4.1. La Ley Orgánica de Educación
 
-## Contenidos2
+## Contenidos
 
 La Ley Orgánica 2/2002 de 3 de mayo de Educación se refiere al aprendizaje a lo largo de la vida que lo concreta en estos retos:
 
@@ -30,6 +30,7 @@ La Ley dedica el CAPÍTULO IX a la Educación de personas adultas cuya finalidad
 
 1. Se estimularán la investigación y la difusión de prácticas innovadoras.
 
-## Para saber más
-
-La LOMCE Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa no modifica los aspectos relativos al aprendizaje a lo largo de la vida, ni el CAPÍTULO IX a la Educación de personas adultas.
+>**tip**
+>## Para saber más
+>
+>La LOMCE Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa no modifica los aspectos relativos al aprendizaje a lo largo de la vida, ni el CAPÍTULO IX a la Educación de personas adultas.

@@ -28,4 +28,3 @@
 Observa este reportaje de un centro de adultos de Castilla-León, para poder identificar algunos aspectos trabajados en esta unidad. Observa las enseñanzas que allí se recogen y las que se imparten en tu centro, comparando su similitud o no.
 
 {% youtube %}https//www.youtube.com/watch?v=yYz7lfVb1f4{% endyoutube %}
-<td style="text-align: center;">**Video promocional del CEA El Tiemblo para la presentacion de nuevos cursos y aula mentor,<br/>una produccion para RTVT presentado por Antonio Gomez Curso 09/10**</td>

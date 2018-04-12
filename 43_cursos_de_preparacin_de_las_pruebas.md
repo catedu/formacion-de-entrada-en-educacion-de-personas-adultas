@@ -25,8 +25,7 @@ Cualquiera de estas dos modalidades tienen como objetivo que el alumno esté en 
 
 ¿Cuáles son los criterios de evaluación de estas competencias clave?.<br/> El real decreto 189/2013  establece, en el anexo IV los aspectos de la competencia que se deberán medir para los niveles 2 y 3.
 
-[****Orden Competencias Clave****](http://admin.educaragon.org/files/Orden-Competencias-clave-BOA-13017.pdf)
-
-## IMPORTANTE
-
-## [PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO DE SUPERACIÓN DE COMPETENCIAS CLAVES NECESARIAS PARA EL ACCESO A CERTIFICADOS DE PROFESIONALIDAD DE NIVEL 2 Y 3](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&amp;guiaeducativa=&amp;strSeccion=PPI04&amp;titpadre=Educaci%F3n+permanente&amp;arrpadres=$Pruebas+libres+y+de+acceso+para+personas+adultas&amp;arrides=$1228&amp;arridesvin=$&amp;lngArbol=2410&amp;lngArbolvinculado=)
+>**danger**
+>## IMPORTANTE
+>
+>[PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO DE SUPERACIÓN DE COMPETENCIAS CLAVES NECESARIAS PARA EL ACCESO A CERTIFICADOS DE PROFESIONALIDAD DE NIVEL 2 Y 3](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&amp;guiaeducativa=&amp;strSeccion=PPI04&amp;titpadre=Educaci%F3n+permanente&amp;arrpadres=$Pruebas+libres+y+de+acceso+para+personas+adultas&amp;arrides=$1228&amp;arridesvin=$&amp;lngArbol=2410&amp;lngArbolvinculado=)

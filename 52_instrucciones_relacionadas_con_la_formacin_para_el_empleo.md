@@ -7,7 +7,4 @@ En el desarrollo de este curso irás conociendo instrucciones específicas que r
 
 En este apartado vamos a centrarnos en aquellas otras instrucciones que, aunque pudieran no afectar de modo directo a tu actividad, a tu práctica educativa, debes saber referenciarlas y conocerlas para poder trazar itinerarios formativos individualizados, tutorizar y orientar a tu alumnado. Aquellas que te afecten más directamente deberás conocerlas e interpretarlas de manera más completa.
 
-En el siguiente enlace puedes encontrar aspectos relacionados con la normativa, Centros o requisitos de acceso referidos a Certificados de Profesionalidad.
-
-
-![](image007.png)
+En el [este enlace](http://www.catedu.es/educacionpermanente/certificados_profesionalidad/) puedes encontrar aspectos relacionados con la normativa, Centros o requisitos de acceso referidos a Certificados de Profesionalidad.

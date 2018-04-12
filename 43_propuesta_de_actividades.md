@@ -82,7 +82,7 @@ Las actuaciones para desarrollar cada uno de los objetivos señalados se concret
 
 **ALUMNOS DEL MÓDULO I , MODULO II y MODULO III DE E.S.P.A.**
 
-**Acción tutorial GRUPO CLASE (tutor) **
+**Acción tutorial GRUPO CLASE** (tutor)
 
 - Conocimiento y presentación del grupo.
 - Realización de cuestionario inicial y de intereses.
@@ -91,11 +91,11 @@ Las actuaciones para desarrollar cada uno de los objetivos señalados se concret
 - El sistema educativo y las enseñanzas y formación de las personas adultas.
 - Los temas de interés que el alumnado señale.
 
- **Acción tutoríal lNDIVIDUAL****  (tutor y/o orientador) **
+**Acción tutoríal INDIVIDUAL** (tutor y/o orientador)
 
 - Con los alumnos que lo demanden.
 
-**Acción tutorial GRUPO-CLASE **** (profesor de cada módulo)**
+**Acción tutorial GRUPO-CLASE** (profesor de cada módulo)
 
 Para desarrollar en el horario de cada ámbito de conocimiento y en los temas relacionados con:
 
@@ -120,11 +120,11 @@ Para desarrollar en el horario de cada ámbito de conocimiento y en los temas re
 - Preparación y análisis posterior de las evaluaciones.
 - Programa para la orientación académica y profesional.
 
-**Acción tutorial individual (tutor y/o orientador)**
+**Acción tutorial individual** (tutor y/o orientador)
 
 - A demanda del alumno o del profesor-tutor.
 
-**Acción tutorial en el grupo clase ****(profesor de cada ámbito)**
+**Acción tutorial en el grupo clase** (profesor de cada ámbito)
 
 - Técnicas de Trabajo Intelectual acordes con el módulo que imparten.
 - Ocupaciones y profesiones relacionadas con el módulo.
@@ -137,8 +137,9 @@ Para desarrollar en el horario de cada ámbito de conocimiento y en los temas re
 - Coordinar el control de asistencia y puntualidad.
 - Las acciones tutoriales colectivas e individuales.
 
-## Para saber más
-
-Entra en el siguiente enlace y realiza una lectura de este PDF para profundizar en aspectos que hemos visto en esta unidad y que te pueden ayudar a realizar la actividad obligatoria exigida en esta unidad.
-
-[**PLAN DE ORIENTACIÓN Y ACCIÓN TUTORIAL**](PLAN_ORIENTACION_ACCION_TUTORIAL.pdf)
+>**tip**
+>## Para saber más
+>
+>Entra en el siguiente enlace y realiza una lectura de este PDF para profundizar en aspectos que hemos visto en esta unidad y que te pueden ayudar a realizar la actividad obligatoria exigida en esta unidad.
+>
+>[**PLAN DE ORIENTACIÓN Y ACCIÓN TUTORIAL**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_2/PLAN_ORIENTACION_ACCION_TUTORIAL.pdf)

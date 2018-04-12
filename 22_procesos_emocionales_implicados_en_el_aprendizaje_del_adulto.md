@@ -41,5 +41,4 @@ Entra en el foro y reflexiona, expresando tu opinión acerca de cuál o cuáles 
 
 [EDUCACION FORMAL Y NO FORMAL](526576697369c3b36e5f64656c5f436f6e636570746f5f64655f4564754e6f466f726d616c5f2d.pdf)
 
-![](img/no_formal.jpeg)
-<td style="text-align: center;">**Imagen:** **http://www.flickr.com/photos/vik407/1507928596/meta/**</td>
+![flickr](img/no_formal.jpeg)

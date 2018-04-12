@@ -10,3 +10,5 @@ Estas instrucciones se publican anualmente, por lo que debes acceder a la págin
 - Prueba libre para la obtención de los títulos de Técnico y Técnico Superior de Formación Profesional Específica.
 - Cursos preparación a las pruebas de acceso a F.P.
 - Prueba acceso a Formación profesional.
+
+<iframe src="http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -1,5 +1,5 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
         "title": "Formación de entrada en Educación de Personas Adultas",
@@ -22,6 +22,22 @@
         "localized-footer": {
             "hline": true,
             "filename": "./FOOTER.md"
+        },
+        "quiz": {
+            "labels": {
+                "check": "Comprobar",
+                "showExplanation": "Retroalimentación",
+                "showCorrect": "Mostrar la respuesta correcta",
+                "explanationHeader": "Explicación"
+            },
+            "text": {
+                "noChosen": "Elige al menos una respuesta",
+                "incomplete": "Faltan algunas respuestas correctas"
+            },
+            "buttons": {
+                "showCorrect": true,
+                "showExplanation": true
+            }
         }
     }
 }

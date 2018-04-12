@@ -9,7 +9,7 @@ Los alumnos que realizan cursos de enseñanzas iniciales responden  a los cambi
 
 En esta unidad realizaremos una breve reflexión sobre  los elementos que integran esta heterogeneidad, no tanto con ánimo de definirlos de manera exhaustiva, como el de habituarse a incorporar en la práctica educativa la consideración de estas diferencias.
 
-## Contenidos2
+## Contenidos
 
 La realidad social en Aragón ha cambiado en los últimos años, y con ello también es diferente la percepción que se tiene de las enseñanzas iniciales. Si Hace unos años se identificaba este nivel de Educación de Adultos con la alfabetización, en la actualidad la Formación Inicial para Personas Adultas tiene una dimensión más amplia y más compleja. Por un lado se han incorporado las personas inmigrantes extranjeras,  de las cuales un buen número son analfabetas en su origen, y otras , sabiendo leer y escribir en sus países de origen, desconocen nuestra grafía, constituyendo dos grupos que responden de diferente manera a las estrategias de formación inicial.  Se sigue atendiendo a personas que engrosan la marginación social, económica  o cultural, personas con riesgo de exclusión social que suman la dificultad de tener una baja  o nula escolarización. Es frecuente encontrar en los diferentes grupos de enseñanzas iniciales a adultos con necesidades educativas especiales. Surgen así objetivos ya no sólo educativos sino también de integración social.
 

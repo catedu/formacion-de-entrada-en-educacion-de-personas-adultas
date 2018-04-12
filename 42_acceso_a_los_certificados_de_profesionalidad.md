@@ -3,7 +3,7 @@
 
 Para que una persona adulta pueda acceder a la formación de los módulos formativos de los certificados de profesionalidad, en los niveles de cualificación profesional 2 y 3, deberá cumplir alguno de los requisitos siguientes:
 
-**(«Artículo 20. del  Real Decreto 189/2013, de 15 de marzo.  Requisitos de acceso a la formación de los certificados de profesionalidad.)**
+*(«Artículo 20. del  Real Decreto 189/2013, de 15 de marzo.  Requisitos de acceso a la formación de los certificados de profesionalidad.)*
 
 a) Estar en posesión del título de Graduado en Educación Secundaria Obligatoria para el nivel 2 o título de Bachiller para nivel 3.
 
@@ -19,6 +19,6 @@ f) **Tener las competencias clave necesarias para cursar con aprovechamiento la 
 
 Y para acreditar que se tienen las competencias clave necesarias, establece el mismo Real Decreto que:
 
-**“se realizarán pruebas de competencia matemática y de comunicación en lengua castellana y, si la hubiere, en lengua cooficial, en el nivel que corresponda. Además para aquellos que incluyan un módulo de lengua extranjera se requerirá pruebas de competencia en comunicación en lengua extranjera en el correspondiente nivel. Estas pruebas se realizarán en relación con las competencias definidas en el anexo IV de este real decreto.”**
+>“se realizarán pruebas de competencia matemática y de comunicación en lengua castellana y, si la hubiere, en lengua cooficial, en el nivel que corresponda. Además para aquellos que incluyan un módulo de lengua extranjera se requerirá pruebas de competencia en comunicación en lengua extranjera en el correspondiente nivel. Estas pruebas se realizarán en relación con las competencias definidas en el anexo IV de este real decreto.”
 
 Para la realización de las pruebas, cada Comunidad Autónoma dictará las  directrices necesarias para su ejecución.

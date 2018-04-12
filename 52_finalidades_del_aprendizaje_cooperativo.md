@@ -1,7 +1,7 @@
 
 # 5.2. Finalidades del aprendizaje cooperativo
 
-**¿POR QUÉ APRENDIZAJE COOPERATIVO?**
+#### ¿POR QUÉ APRENDIZAJE COOPERATIVO?
 
 - Promueve la implicación activa del estudiante en el proceso de aprendizaje
 - Capitaliza la capacidad que tienen los grupos para incrementar el nivel de aprendizaje mediante la interacción entre compañeros
@@ -16,17 +16,17 @@
 
 El aprendizaje cooperativo hace posible entender los conceptos que tienen que ser aprendidos a través de la discusión y resolución de problemas a nivel grupal, es decir, a través de una verdadera interrelación. Usando este método, los estudiantes también aprenden las habilidades sociales y comunicativas que necesitan para participar en sociedad y "convivir" (**Delors**, 1996). Así, **Kagan **(1994) describe la necesidad del aprendizaje cooperativo y concluye:
 
-****"Necesitamos incluir en nuestras aulas experiencias de aprendizaje cooperativo, ya que muchas prácticas de socialización tradicionales actualmente están ausentes, y los estudiantes ya no van a la escuela con una identidad humanitaria ni con una orientación social basada en la cooperación. Las estructuras competitivas tradicionales del aula contribuyen con este vacío de socialización. De este modo los estudiantes están siendo mal preparados para enfrentar un mundo que demanda crecientemente de habilidades altamente desarrolladas para ocuparse de una interdependencia social y económica". ****
+>"Necesitamos incluir en nuestras aulas experiencias de aprendizaje cooperativo, ya que muchas prácticas de socialización tradicionales actualmente están ausentes, y los estudiantes ya no van a la escuela con una identidad humanitaria ni con una orientación social basada en la cooperación. Las estructuras competitivas tradicionales del aula contribuyen con este vacío de socialización. De este modo los estudiantes están siendo mal preparados para enfrentar un mundo que demanda crecientemente de habilidades altamente desarrolladas para ocuparse de una interdependencia social y económica".
 
 La efectividad de los programas de Aprendizaje Cooperativo ha sido comprobada en muchas escuelas diferentes (desde primarias hasta escuelas para educación de los adultos) y también en aulas que contienen diferentes grados de multiculturalidad y multilingualidad.
 
 **Cooperar para aprender es:**
 
-****“Realizar con otros una tarea  que no se puede realizar individualmente”****
+>“Realizar con otros una tarea  que no se puede realizar individualmente”
 
  
 
-**HABILIDADES TRABAJADAS, OBSERVADAS Y VALORADAS**
+#### HABILIDADES TRABAJADAS, OBSERVADAS Y VALORADAS
 
 - HABILIDADES COMUNICATIVAS: desarrollo de capacidad verbal, en cuanto a comprender, explicar, preguntar y responder, debatir, utilizar correctamente terminología de la asignatura, etc.
 - CAPACIDAD DE SÍNTESIS, para extraer lo fundamental prescindiendo de lo accesorio.
@@ -38,11 +38,9 @@ La efectividad de los programas de Aprendizaje Cooperativo ha sido comprobada en
 - AUTOEVALUACIÓN: reconocer las dificultades y potencialidades de trabajar cooperativamente.
 - AUTOPLANIFICACIÓN: gestionar el propio tiempo.
 
-## Para saber más
-
-Entra en el siguiente enlace y observa este vídeo para  identificar algunas habilidades interpersonales en el aprendizaje cooperativo.
-
- 
-
-
-{% youtube %}https//www.youtube.com/watch?v=dWgKnG-D6gs{% endyoutube %}
+>**tip**
+>## Para saber más
+>
+>Entra en el siguiente enlace y observa este vídeo para  identificar algunas habilidades interpersonales en el aprendizaje cooperativo.
+>
+>{% youtube %}https//www.youtube.com/watch?v=dWgKnG-D6gs{% endyoutube %}

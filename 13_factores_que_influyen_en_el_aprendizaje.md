@@ -3,9 +3,9 @@
 
 En el aprendizaje formal se dan cita un conjunto amplio y diverso de variables que se pueden agrupar en tres categorías:
 
-**1.- Variables inherentes al sujeto que aprende **
+### 1.- Variables inherentes al sujeto que aprende
 
-****1.1. Variables Cognitivas: ****
+##### 1.1. Variables Cognitivas:
 
 - Conocimientos previos: todo lo que el alumno ya sabe, en las personas adultas tienen una serie de vivencias que deben tenerse  en cuenta a la hora de plantear situaciones de aprendizaje.
 - Inteligencia
@@ -13,7 +13,7 @@ En el aprendizaje formal se dan cita un conjunto amplio y diverso de variables q
 
  
 
-****1.2. Variables Motivacionales ****
+##### 1.2. Variables Motivacionales
 
 - Motivos: necesidad para acceder a un trabajo, afán de superación personal, otros.
 - Intereses y actitudes.
@@ -22,7 +22,7 @@ En el aprendizaje formal se dan cita un conjunto amplio y diverso de variables q
 
  
 
-**2.- Variables relativas al contenido que se aprende **
+### 2.- Variables relativas al contenido que se aprende
 
 - Naturaleza de los contenidos.
 - Estructuración de los contenidos.
@@ -31,30 +31,27 @@ En el aprendizaje formal se dan cita un conjunto amplio y diverso de variables q
 
  
 
-**3.-  Variables relacionadas con el cómo se aprende y cómo se enseña**
+### 3.-  Variables relacionadas con el cómo se aprende y cómo se enseña
 
- ****3.1. Metodológicas ****
+##### 3.1. Metodológicas
 
-<li class="Estilo">Relativas al profesor:
-<ul>
-- Planificación de la enseñanza.
-- Actuación del profesor.
+* Relativas al profesor:
+    - Planificación de la enseñanza.
+    - Actuación del profesor.
+- Relativas al alumno:
+    - Estrategias de aprendizaje.
 
-- Estrategias de aprendizaje.
-
-** **
-
-****3.2. Contextuales ****
+##### 3.2. Contextuales
 
 - Clima del aula.
 - Interacción entre alumnos.
 - Interacción profesor-alumno.
 
-## Para saber más
+>**tip**
+>## Para saber más
+>
+>Entra [este enlace](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_2/delors_s.pdf) y realiza la lectura de los capítulos 4 y 5. 
 
-Entra en el siguiente enlace y realiza la lectura de los capítulos 4 y 5. 
-
-
-![](img/Portada_delors.JPG)
+>![](img/Portada_delors.jpg)
 
  

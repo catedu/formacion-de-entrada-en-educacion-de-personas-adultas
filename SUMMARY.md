@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 
+<!--
 ____
 ### 1. Marco institucional de la EPA 
 * [M1. Marco institucional de la EPA](index0.md)
@@ -19,8 +20,6 @@ ____
 	* [2.2. Los organismos internacionales](22_los_organismos_internacionales.md)
 	* [Resumen](resumen2.md)
 	* [Actividad](actividad2.md)
-
-<!--
 * [U3. La EPA en Aragón](u3_la_epa_en_aragn.md)
 	* [3.1. Destinatarios de la EPA](31_destinatarios_de_la_epa.md)
 	* [3.2. Oferta formativa](32_oferta_formativa.md)
@@ -83,6 +82,7 @@ ____
 	* [4.2. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
 	* [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
 	* [Resumen](resumen42.md)
+-->
 
 ### M4. ESPA y acceso a la FP 
 * [M4. ESPA y acceso a la FP](index3.md)
@@ -99,6 +99,7 @@ ____
 	* [2.3. Perfil de los participantes](23_perfil_de_los_participantes.md)
 	* [2.4. El futuro próximo](24_el_futuro_prximo.md)
 
+<!--
 ### M5. Español como nueva lengua | M5. Español como nueva lengua 
 * [M5. Español como nueva lengua](index4.md)
 * [U1. Explorando el terreno: las preguntas](u1_explorando_el_terreno_las_preguntas.md)

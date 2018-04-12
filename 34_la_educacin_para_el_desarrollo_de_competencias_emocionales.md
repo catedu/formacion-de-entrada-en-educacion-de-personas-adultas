@@ -1,15 +1,15 @@
 
 # 3.4. La Educación para el desarrollo de competencias emocionales
 
-**La educación para el desarrollo de competencias emocionales**
+#### La educación para el desarrollo de competencias emocionales
 
 Todas las personas nacemos con unas características especiales y diferentes, pero muchas veces la manera que tenemos de comportarnos o de enfrentarnos a los retos de la vida es aprendida. Desde pequeños podemos ver como para un niño no está tan bien visto llorar y expresar sus emociones como en una niña, además a los varones se les exige ser más valientes, seguros de sí mismos. También podemos observar cómo, según las culturas, las mujeres son menos valoradas, tanto en el ámbito personal como en el laboral, lo cual es el origen de opresiones y malos tratos. Todo esto lo adquirimos sin darnos cuenta ya desde el momento en que venimos al mundo: nos comportamos como nos han "enseñado" a comportarnos. Quererse a uno mismo, ser más generoso con los demás, aceptar los fracasos, no todo depende de lo que hemos heredado, por lo que hemos de ser capaces de seguir aprendiendo y mejorando nuestras actitudes día a día, aprender a ser más **inteligentes emocionalmente**, en definitiva a ser más felices.
 
-La **educación emocional **es un **proceso educativo, continuo** **y permanente, que pretende potenciar el desarrollo de las competencias emocionales** **como elemento esencial del desarrollo integral de la persona, con objeto de capacitarle** **para la vida. Todo ello tiene como finalidad aumentar el bienestar personal y social.**
+La educación emocional es un proceso educativo, continuo y permanente, que pretende potenciar el desarrollo de las competencias emocionales como elemento esencial del desarrollo integral de la persona, con objeto de capacitarle para la vida. Todo ello tiene como finalidad aumentar el bienestar personal y social
 
 La educación emocional es un proceso educativo continuo y permanente, puesto que debe estar presente a lo largo de todo el currículum académico y en la formación permanente a lo largo de toda la vida. Es decir, la educación emocional tiene un enfoque del ciclo vital. La educación emocional se propone optimizar el desarrollo personal y social; o dicho de otra manera: el desarrollo de la personalidad integral del individuo.
 
-**¿Qué aspectos de nuestra personalidad debemos educar emocionalmente?**
+#### ¿Qué aspectos de nuestra personalidad debemos educar emocionalmente?
 
 **Inteligencia emocional.**
 
@@ -44,8 +44,9 @@ Entendemos por No-Rigidez la tendencia a no agrupar los hechos y las personas en
 
 La naturaleza de la No-Rigidez se manifiesta en sus subdimensiones de No-extremismo, Tolerancia, No Suspicacia. Se relacionaría con buenas prácticas: por un lado la reducción del egocentrismo, el desarrollo de la empatía y de una mentalidad abierta y por otro la Tolerancia.
 
-## Para saber más
-
-En este enlace podrás ampliar la información sobre inteligencia emocional.
-
-[**ASPECTOS INTELIGENCIA EMOCIONAL**](ASPECTOS_INTELIGENCIA_EMOCIONAL.pdf)
+>**tip**
+>## Para saber más
+>
+>En este enlace podrás ampliar la información sobre inteligencia emocional.
+>
+>[**ASPECTOS INTELIGENCIA EMOCIONAL**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_2/ASPECTOS_INTELIGENCIA_EMOCIONAL.pdf)

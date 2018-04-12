@@ -27,8 +27,9 @@ Algunas de las actividades que se pueden realizar en las distintas enseñanzas s
 - Trabajo de investigación con exposición del Ámbito de Comunicación de ESPA (por ejemplo, sobre contenidos de LITERATURA).
 - Trabajo de investigación con exposición de las Ciencias Naturales.
 
-## Para saber más
-
-Entra en el siguiente enlace y realiza una lectura de este PDF para profundizar en aspectos que hemos visto en esta unidad y que te pueden ayudar a realizar las actividades  obligatorias exigidas  en esta unidad.
-
-[**APRENDIZAJE COOPERATIVO**](Aprendizaje_Cooperativo.pdf)
+>**tip**
+>## Para saber más
+>
+>Entra en el siguiente enlace y realiza una lectura de este PDF para profundizar en aspectos que hemos visto en esta unidad y que te pueden ayudar a realizar las actividades  obligatorias exigidas  en esta unidad.
+>
+>[**APRENDIZAJE COOPERATIVO**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_2/Aprendizaje_Cooperativo.pdf)

@@ -29,10 +29,10 @@ Las tareas propuestas debes hacerlas en un fichero de texto y remitirlas al tuto
 
 ## Contenidos2
 
-****Unidad **1. Normativa y organización de FIPA**: fundamentación teórica y conceptos básicos. (**1 hora + 1 hora para la realización de la tarea**).
+* **Unidad 1. Normativa y organización de FIPA**: fundamentación teórica y conceptos básicos. (**1 hora + 1 hora para la realización de la tarea**).
 
-****Unidad **2. Características del alumnado** (**1 hora + 1 hora para la realización de la tarea**).
+* **Unidad 2. Características del alumnado** (**1 hora + 1 hora para la realización de la tarea**).
 
-****Unidad **3. Principios metodológicos y materiales didácticos** (**1 hora + 1 hora para la realización de la tarea**).
+* **Unidad 3. Principios metodológicos y materiales didácticos** (**1 hora + 1 hora para la realización de la tarea**).
 
-****Unidad **4. Nivel de cualificación N-2.** Finalidades y organización. (**1 hora + 1 hora para la realización de la tarea**).
+* **Unidad 4. Nivel de cualificación N-2.** Finalidades y organización. (**1 hora + 1 hora para la realización de la tarea**).

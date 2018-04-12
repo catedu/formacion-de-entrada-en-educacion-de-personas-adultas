@@ -1,7 +1,7 @@
 
 # 3.3. Red pública
 
-**La organización y red de Centros según la normativa.**
+### La organización y red de Centros según la normativa.
 
 Según la **ORDEN de 16 de agosto de 2000, **los Centros Públicos de Educación de Adultos dependientes de la Comunidad Autónoma de Aragón atenderán un ámbito territorial, sobre el que desempeñen funciones de planificación, coordinación, desarrollo, evaluación y extensión de la educación de personas adultas y cuyo alcance quedará reflejado en su Programación General Anual.
 
@@ -16,12 +16,10 @@ La **LEY 16/2002, de 28 de junio, de educación permanente de Aragón**, especif
 ![](img/mapa.gif)
 <td valign="top" width="576">Mapa comarcal de Aragón y Red de Centros públicos de EPA (del Plan de Promoción para el Aprendizaje en Aragón, curso 2012-13, editado por el Departamento de Educación, Universidad, Cultura y Deporte del Gobierno de Aragón.)</td>
 
-## Importante
-
-**Plan de promoción del aprendizaje permanente en Aragón,** haz clic sobre la imagen.
-
-
-![](image004.jpg)
+>**info**
+>## Importante
+>
+>[**Plan de promoción del aprendizaje permanente en Aragón**](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&guiaeducativa=&strSeccion=PPI04&titpadre=Educaci%F3n+permanente&arrpadres=&arrides=&arridesvin=&lngArbol=1485&lngArbolvinculado=).
 
  
 
