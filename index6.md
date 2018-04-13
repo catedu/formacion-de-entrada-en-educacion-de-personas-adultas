@@ -30,10 +30,10 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
  
 
-## Contenidos2
+## Contenidos
 
-****Unidad **1. Aularagón** (**2 horas teoría + 1 tareas prácticas**): Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.
+* **Unidad 1. Aularagón** (*2 horas teoría + 1 tareas prácticas*): Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.
 
-****Unidad **2. Aula Mentor** (**1'5 horas teoría + 1 tareas prácticas**): Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
+* **Unidad 2. Aula Mentor** (*1'5 horas teoría + 1 tareas prácticas*): Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
 
-****Unidad **3. Aula Virtual de Español** (**1'5 horas teoría + 1 tareas prácticas**): Prueba VIA, aula virtual y administración, modalidades presencial, semipresencial y distancia, orientación y motivación.
+* **Unidad 3. Aula Virtual de Español** (*1'5 horas teoría + 1 tareas prácticas*): Prueba VIA, aula virtual y administración, modalidades presencial, semipresencial y distancia, orientación y motivación.

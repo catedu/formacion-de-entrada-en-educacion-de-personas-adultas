@@ -87,6 +87,6 @@ Otros agentes intervinientes en EPA son Asociaciones sin ánimo de lucro, Organi
 >
 >## Importante
 >
->Entra en el [**II Plan de Educación Permanente en Aragón 2010-13**](PLAN_GENERAL_EPA_2010-13.pdf) y descubre los miembros del Consejo, así como determinados Departamentos del Gobierno que gestionan actividades de formación permanente.
+>Entra en el [**II Plan de Educación Permanente en Aragón 2010-13**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/PLAN_GENERAL_EPA_2010-13.pdf) y descubre los miembros del Consejo, así como determinados Departamentos del Gobierno que gestionan actividades de formación permanente.
 
  

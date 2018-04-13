@@ -9,14 +9,14 @@ b) Zona de administrador de centro, que gestiona la documentación del centro, t
 
 c) Zona de cliente de centro, que sólo da acceso a la documentación del centro, sin permisos de escritura.
 
-## Para saber más
-
-**Calidocs**
-
-Entra en la aplicación Calidocs con el usuario “calidocs” y contraseña “calidocs” y accede a la documentación completa del SGC de los los Centros de EPA (zona común a todos los centros).
-
-[Acceso a Calidocs](http://epa.educa.aragon.es/calidocs/)
-
+>**tip**
+>## Para saber más
+>
+>**Calidocs**
+>
+>Entra en la aplicación Calidocs con el usuario “calidocs” y contraseña “calidocs” y accede a la documentación completa del SGC de los los Centros de EPA (zona común a todos los centros).
+>
+>[Acceso a Calidocs](http://epa.educa.aragon.es/calidocs/)
  
 
  

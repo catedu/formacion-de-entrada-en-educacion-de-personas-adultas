@@ -31,12 +31,14 @@ En anexo I de las Instrucciones de 5 de agosto de 2013, del Director General de 
 
 Por tanto, en el momento actual, el Departamento de Educación del Gobierno de Aragón ha excluido los cursos de Promoción y Extensión Educativa del horario lectivo de sus funcionarios y de las ayudas a los Ayuntamientos.
 
-## AV - Reflexión
+>**success**
+>## Reflexión
+>
+>Da tu opinión respecto al estado actual de la normativa respecto a los cursos de Promoción y Extensión Educativa.
+>
+>%accordion%Solución%accordion%
+>
+>Comparte tu opinión con la de tus compañeros en el foro.
+>
+>%/accordion%
 
-Da tu opinión respecto al estado actual de la normativa respecto a los cursos de Promoción y Extensión Educativa.
-
-<script type="text/javascript">var feedback17_9text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-17_9" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
-
-### Retroalimentación
-
-Comparte tu opinión con la de tus compañeros en el foro.

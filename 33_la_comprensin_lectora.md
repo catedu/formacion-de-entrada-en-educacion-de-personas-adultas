@@ -35,9 +35,9 @@ En uno y otro caso, para desarrollar la comprensión lectora, tendremos en cuent
 
  
 
-**Observa las siguientes actividades**: **¿Qué conocimientos previos se necesitan para resolver las actividades? ¿Qué tipo de textos se utilizan? ¿Proponen una lectura funcional? ¿Por qué?**
+**Observa las siguientes actividades**: *¿Qué conocimientos previos se necesitan para resolver las actividades? ¿Qué tipo de textos se utilizan? ¿Proponen una lectura funcional? ¿Por qué?*
 
-**Haz clic en la imagen para ampliarla**
+![Corpas, J, García, E, Garmendia, A y Soriano, C (2010): Aula Internacional 1 Curso de español Barcelona - Difusión Pg - 110](img/texto.jpg)
 
-![](img/texto.jpg)
-<td style="text-align: center;">Corpas, J., García, E., Garmendia, A. y Soriano, C. (2010): **Aula Internacional 1.<br/>Curso de español**. Barcelona. Difusión. Pg. 110.</td><td style="text-align: center;">Isabel Sanz, F. (Coord.) (2008): **Horizontes. Español Nueva Lengua.<br/>Libro del alumno**. Madrid. SM. Pg. 30.</td>
+![Isabel Sanz, F - (Coord) (2008): Horizontes - Español Nueva Lengua - Libro del alumno - Madrid SM P 30](img/billete.jpg)
+

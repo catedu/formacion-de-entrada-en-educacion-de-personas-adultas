@@ -20,9 +20,9 @@ De forma general, los cuestionarios se pasan en la primera quincena de diciembre
 La aplicación y procesamiento de los datos del cuestionario se hace con la aplicación informática Encuesta 2.0.
 
  
-
-## Importante
-
-Los cuestionarios de satisfacción del cliente tienen una parte común para todos los centros, de modo que pueden obtenerse datos estadísticos a nivel regional. Además, los centros pueden añadir preguntas específicas, cuyo tratamiento será específico del centro.
-
-**Encuesta 2.0** es la aplicación informática que gestiona todos los cuestioanrios.
+>**info**
+>## Importante
+>
+>Los cuestionarios de satisfacción del cliente tienen una parte común para todos los centros, de modo que pueden obtenerse datos estadísticos a nivel regional. Además, los centros pueden añadir preguntas específicas, cuyo tratamiento será específico del centro.
+>
+>**Encuesta 2.0** es la aplicación informática que gestiona todos los cuestioanrios.

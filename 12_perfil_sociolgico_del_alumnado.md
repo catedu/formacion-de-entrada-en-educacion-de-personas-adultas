@@ -13,28 +13,235 @@ La Orden de 04 de abril de 2011, de la Consejera de Educación, Cultura y Deport
 
 Consecuentemente, la edad del alumnado de estas enseñanzas se ha rejuvenecido y el porcentaje de varones ha aumentado, puesto que su nivel de fracaso escolar y la incidencia del paro (dada su mayor presencia en el sector de la construcción) eran mayores que los de la mujer. 
 
-****Edad y sexo del alumnado de ESPA en el curso 2012/13****
-<td nowrap="nowrap" valign="bottom" width="63"> </td><td nowrap="nowrap" valign="bottom" width="54">**Total**</td><td nowrap="nowrap" valign="bottom" width="44">**16-17**</td><td nowrap="nowrap" valign="bottom" width="52">**18-19**</td><td nowrap="nowrap" valign="bottom" width="48">**20-24**</td><td nowrap="nowrap" valign="bottom" width="48">**25-29**</td><td nowrap="nowrap" valign="bottom" width="48">**30-34**</td><td nowrap="nowrap" valign="bottom" width="48">**35-39**</td><td nowrap="nowrap" valign="bottom" width="48">**40-49**</td><td nowrap="nowrap" valign="bottom" width="48">**50-59**</td><td nowrap="nowrap" valign="bottom" width="42">**&gt; 59**</td>
-<td nowrap="nowrap" valign="bottom" width="63">Hombres</td><td nowrap="nowrap" valign="bottom" width="54">1.671</td><td nowrap="nowrap" valign="bottom" width="44">93</td><td nowrap="nowrap" valign="bottom" width="52">329</td><td nowrap="nowrap" valign="bottom" width="48">518</td><td nowrap="nowrap" valign="bottom" width="48">255</td><td nowrap="nowrap" valign="bottom" width="48">129</td><td nowrap="nowrap" valign="bottom" width="48">110</td><td nowrap="nowrap" valign="bottom" width="48">169</td><td nowrap="nowrap" valign="bottom" width="48">64</td><td nowrap="nowrap" valign="bottom" width="42">4</td>
-<td nowrap="nowrap" valign="bottom" width="63">Mujeres</td><td nowrap="nowrap" valign="bottom" width="54">1.154</td><td nowrap="nowrap" valign="bottom" width="44">63</td><td nowrap="nowrap" valign="bottom" width="52">231</td><td nowrap="nowrap" valign="bottom" width="48">281</td><td nowrap="nowrap" valign="bottom" width="48">125</td><td nowrap="nowrap" valign="bottom" width="48">87</td><td nowrap="nowrap" valign="bottom" width="48">80</td><td nowrap="nowrap" valign="bottom" width="48">192</td><td nowrap="nowrap" valign="bottom" width="48">86</td><td nowrap="nowrap" valign="bottom" width="42">9</td>
-<td nowrap="nowrap" valign="bottom" width="63">**Total**</td><td nowrap="nowrap" valign="bottom" width="54">2.825</td><td nowrap="nowrap" valign="bottom" width="44">156</td><td nowrap="nowrap" valign="bottom" width="52">560</td><td nowrap="nowrap" valign="bottom" width="48">799</td><td nowrap="nowrap" valign="bottom" width="48">380</td><td nowrap="nowrap" valign="bottom" width="48">216</td><td nowrap="nowrap" valign="bottom" width="48">190</td><td nowrap="nowrap" valign="bottom" width="48">361</td><td nowrap="nowrap" valign="bottom" width="48">150</td><td nowrap="nowrap" valign="bottom" width="42">13</td>
+**Edad y sexo del alumnado de ESPA en el curso 2012/13**
 
- 
-<td nowrap="nowrap" valign="bottom" width="63"> </td><td nowrap="nowrap" valign="bottom" width="62">**Total**</td><td nowrap="nowrap" valign="bottom" width="75">**16-24**</td><td nowrap="nowrap" valign="bottom" width="67">**25-39**</td><td nowrap="nowrap" valign="bottom" width="72">**&gt; 40**</td>
-<td nowrap="nowrap" valign="bottom" width="63">Hombres</td><td nowrap="nowrap" valign="bottom" width="62">100,00</td><td nowrap="nowrap" valign="bottom" width="75">56,25</td><td nowrap="nowrap" valign="bottom" width="67">29,56</td><td nowrap="nowrap" valign="bottom" width="72">14,18</td>
-<td nowrap="nowrap" valign="bottom" width="63">Mujeres</td><td nowrap="nowrap" valign="bottom" width="62">100,00</td><td nowrap="nowrap" valign="bottom" width="75">49,83</td><td nowrap="nowrap" valign="bottom" width="67">25,30</td><td nowrap="nowrap" valign="bottom" width="72">24,87</td>
-<td nowrap="nowrap" valign="bottom" width="63">Total</td><td nowrap="nowrap" valign="bottom" width="62">100,00</td><td nowrap="nowrap" valign="bottom" width="75">53,63</td><td nowrap="nowrap" valign="bottom" width="67">27,82</td><td nowrap="nowrap" valign="bottom" width="72">18,55</td>
+<table style="width: 543px;" border="5" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left">&nbsp;</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="54">
+<p align="right"><strong>Total</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="44">
+<p align="right"><strong>16-17</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="52">
+<p align="right"><strong>18-19</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right"><strong>20-24</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right"><strong>25-29</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right"><strong>30-34</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right"><strong>35-39</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right"><strong>40-49</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right"><strong>50-59</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="42">
+<p align="right"><strong>&gt; 59</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left">Hombres</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="54">
+<p align="right">1.671</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="44">
+<p align="right">93</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="52">
+<p align="right">329</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">518</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">255</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">129</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">110</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">169</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">64</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="42">
+<p align="right">4</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left">Mujeres</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="54">
+<p align="right">1.154</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="44">
+<p align="right">63</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="52">
+<p align="right">231</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">281</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">125</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">87</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">80</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">192</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">86</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="42">
+<p align="right">9</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left"><em>Total</em></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="54">
+<p align="right">2.825</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="44">
+<p align="right">156</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="52">
+<p align="right">560</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">799</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">380</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">216</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">190</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">361</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="48">
+<p align="right">150</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="42">
+<p align="right">13</p>
+</td>
+</tr>
+</tbody>
+</table>
 
- 
+<table style="width: 340px;" border="5" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left">&nbsp;</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="62">
+<p align="right"><strong>Total</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right"><strong>16-24</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="67">
+<p align="right"><strong>25-39</strong></p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="72">
+<p align="right"><strong>&gt; 40</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left">Hombres</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="62">
+<p align="right">100,00</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">56,25</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="67">
+<p align="right">29,56</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="72">
+<p align="right">14,18</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left">Mujeres</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="62">
+<p align="right">100,00</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">49,83</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="67">
+<p align="right">25,30</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="72">
+<p align="right">24,87</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="63">
+<p align="left">Total</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="62">
+<p align="right">100,00</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">53,63</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="67">
+<p align="right">27,82</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="72">
+<p align="right">18,55</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 El 53,6% del alumnado tiene menos de 25 años, mientras el porcentaje de mujeres sólo supera a los varones a partir de los 40 años.
 
-## Importante
-
-**Orden de 4 de abril de 2011, de la Consejera de Educación, Cultura y Deporte, por la que se regula la admisión de alumnos de Educación secundaria para personas adultas en centros públicos de la Comunidad Autónoma de Aragón.**
-
-**Artículo 2.- Requisitos de acceso**
-
-1.- Podrán matricularse en Educación secundaria para personas adultas las personas mayores de 18 años cumplidos antes del 31 de diciembre del curso escolar en el que se matriculen.
-
-2.- Excepcionalmente, podrán cursar estas enseñanzas los mayores de 16 años que lo soliciten y tengan un contrato de trabajo que no les permita acudir a los centros educativos en régimen ordinario, sean deportistas de alto rendimiento o hayan superado los módulos obligatorios de un Programa de cualificación profesional inicial.
+>**info**
+>## Importante
+>
+>**Orden de 4 de abril de 2011, de la Consejera de Educación, Cultura y Deporte, por la que se regula la admisión de alumnos de Educación secundaria para personas adultas en centros públicos de la Comunidad Autónoma de Aragón.**
+>
+>**Artículo 2.- Requisitos de acceso**
+>
+>1.- Podrán matricularse en Educación secundaria para personas adultas las personas mayores de 18 años cumplidos antes del 31 de diciembre del curso escolar en el que se matriculen.
+>
+>2.- Excepcionalmente, podrán cursar estas enseñanzas los mayores de 16 años que lo soliciten y tengan un contrato de trabajo que no les permita acudir a los centros educativos en régimen ordinario, sean deportistas de alto rendimiento o hayan superado los módulos obligatorios de un Programa de cualificación profesional inicial.

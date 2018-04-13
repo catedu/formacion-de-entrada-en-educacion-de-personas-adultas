@@ -3,23 +3,19 @@
 
 ## Curiosidad 
 
-En la siguiente presentación encontrarás un resumen de contenidos de la cuarta unidad.
+En [esta presentación](file:///home/jesus/Documentos/exeLearning_toGitbook/exes/Modulo_5/resumen_unidad_4.pdf) encontrarás un resumen de contenidos de la cuarta unidad.
 
-
-![](img/imag_resumen_u4.JPG)
 
 ## Para saber más
 
 Accede a los documentos mencionados en esta Unidad:
 
 - **Marco Común Europeo de Referencia para las Lenguas: **
-
-**[Versión en pdf](MarcoComunReferencia.pdf)/ [Versión On-Line](http://cvc.cervantes.es/ensenanza/biblioteca_ele/marco/default.htm) **
+    - [Versión en pdf](MarcoComunReferencia.pdf)/ [Versión On-Line](http://cvc.cervantes.es/ensenanza/biblioteca_ele/marco/default.htm)
 
 - [Plan Curricular del Instituto Cervantes](http://cvc.cervantes.es/ensenanza/biblioteca_ele/plan_curricular/default.htm) (On-Line)
-- **Orientaciones del Instituto Cervantes para un Curso de Emergencia de Español como Nueva Lengua.**
-
-**[Versión en pdf](cvc_ecnl.pdf)/ [Versión On-Line](http://cvc.cervantes.es/ensenanza/biblioteca_ele/inmigracion/orientaciones/default.htm)**
+- Orientaciones del Instituto Cervantes para un Curso de Emergencia de Español como Nueva Lengua.
+    - [Versión en pdf](cvc_ecnl.pdf)/ [Versión On-Line](http://cvc.cervantes.es/ensenanza/biblioteca_ele/inmigracion/orientaciones/default.htm)
 
 - **[Orientaciones de Gobierno de Aragón para la Formación Inicial de Español como Nueva Lengua](pee0101.doc).**
 - **[Ley de Educación Permanente de Aragón](LEY_EDUCACION_PERMANENTE_ARAGON.pdf).**

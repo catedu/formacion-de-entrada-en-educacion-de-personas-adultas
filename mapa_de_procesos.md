@@ -13,6 +13,4 @@ c) Procesos Clave
 
 d) Procesos de Apoyo
 
-<object data="mapa_procesos.pdf" height="563" type="video/quicktime" width="750"><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="src" value="mapa_procesos.pdf"/>[resources/mapa_procesos.pdf](mapa_procesos.pdf)</object>
-
- 
+[resources/mapa_procesos.pdf](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/mapa_procesos.pdf) 

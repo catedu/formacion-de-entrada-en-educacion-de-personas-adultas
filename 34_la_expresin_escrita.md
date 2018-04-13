@@ -9,7 +9,7 @@ Escribir un texto implica un **proceso de producción**. En ese proceso, el auto
 
 Escribir es además una **actividad funcional**: escribimos por un motivo, con una finalidad… Piensa para qué necesitas escribir en tu vida cotidiana y piensa con tus alumnos qué y para qué necesitan escribir.
 
-Por ejemplo: **escribimos para recordar la lista de la compra; recordar una dirección; proponer, mediante un mensaje, una cita a los amigos; solicitar la admisión en un curso; solicitar una tutoría al profesor de nuestro hijo; tomar notas en una clase o en una conferencia; opinar sobre un artículo de consumo en un foro; contar lo que hacemos o cómo nos sentimos en las redes sociales; felicitar por un acontecimiento especial; escribir un anuncio; solicitar una cita médica por internet…**
+Por ejemplo: *escribimos para recordar la lista de la compra; recordar una dirección; proponer, mediante un mensaje, una cita a los amigos; solicitar la admisión en un curso; solicitar una tutoría al profesor de nuestro hijo; tomar notas en una clase o en una conferencia; opinar sobre un artículo de consumo en un foro; contar lo que hacemos o cómo nos sentimos en las redes sociales; felicitar por un acontecimiento especial; escribir un anuncio; solicitar una cita médica por internet…*
 
 Por lo tanto, no podemos reducir el proceso de escritura a copiar un enunciado del libro, a realizar un listado de palabras, o a otro tipo de actividades que sólo tengan funcionalidad dentro del aula. En el caso de la alfabetización, tampoco podemos reducir la enseñanza de la escritura a copiar letras o palabras sin conexión lógica entre ellas.
 
@@ -38,7 +38,8 @@ Escribir en una nueva lengua requiere, además de tener conocimientos sobre el t
 
 A la hora de seleccionar los textos, es importante también que tengamos en cuenta que no siempre es el mismo tipo de texto el que necesitamos leer que el que necesitamos escribir. En el caso de una felicitación de cumpleaños, por ejemplo, es posible que unas veces tengamos la ocasión de leerla y otras escribirla. Pero en el caso de una prescripción médica, es más frecuente que sólo necesitemos leerla a no ser que uno de nuestros alumnos sea médico. En definitiva, la selección de textos dependerá de las necesidades de cada grupo, pero siempre tendremos en cuenta si se trata de un texto aconsejable para ser leído, para ser escrito o para ambas cosas.
 
-**Observa esta actividad:** **¿Qué conocimientos previos se necesitan para resolver la actividad? ¿Qué tipo de texto se utiliza? ¿Propone una escritura funcional? ¿Por qué?**
+**Observa esta actividad:** *¿Qué conocimientos previos se necesitan para resolver la actividad? ¿Qué tipo de texto se utiliza? ¿Propone una escritura funcional? ¿Por qué?*
 
-![](img/costumbres.jpg)
-|Sans, N., Martín Peris, E. y Garmendia, A. (2011): [**Bitácora. Libro del alumno**](http://www.difusion.com/uploads/telechargements/catalogue/ele/bitacora/BITACORA1_ud5.pdff). Barcelona. Difusión. Pg. 69.
+![Sans, N, Martín Peris, E y Garmendia, A (2011): Bitácora - Libro del alumno - Barcelona - Difusión - Pg 69](img/costumbres.jpg)
+
+[Documento](http://www.difusion.com/uploads/telechargements/catalogue/ele/bitacora/BITACORA1_ud5.pdf). 

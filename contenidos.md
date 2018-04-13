@@ -3,10 +3,9 @@
 
 **La historia de Khalia y Mombo**
 
-Khalia era una de las mujeres más guapas e inteligentes de su comunidad: conocía todas las reglas, sabía desenvolverse extraordinariamente bien en todas las facetas de la vida, curaba algunos males, cocinaba bien, estaba al tanto de las noticias relevantes, era alegre, bailaba, llevaba trajes elegantes que cosía ella misma... **Khalia era muy querida por todos y tenía mil apodos: Khalia la lista, Khalia la bella, Khalia la sonriente, Khalia la amable, Khalia la ocurrente...**
+Khalia era una de las mujeres más guapas e inteligentes de su comunidad: conocía todas las reglas, sabía desenvolverse extraordinariamente bien en todas las facetas de la vida, curaba algunos males, cocinaba bien, estaba al tanto de las noticias relevantes, era alegre, bailaba, llevaba trajes elegantes que cosía ella misma... *Khalia era muy querida por todos y tenía mil apodos: Khalia la lista, Khalia la bella, Khalia la sonriente, Khalia la amable, Khalia la ocurrente...*
 
-![](img/sonrisa.jpg)
-<td style="text-align: center;">Abella, T. (2005): M de Mujer. <br/>Barcelona. Intermón Oxfam.</td>
+![Abella, T (2005): M de Mujer - Barcelona - Intermón Oxfam.](img/sonrisa.jpg)
 
 Muchos jóvenes de su comunidad la pretendían. Pero ella sabía, desde hacía mucho tiempo, que sólo aceptaría a Mombo. Mombo, el más audaz de la comunidad, el más avanzado y el más lúcido, fue sensible a las sonrisas que Khalia le dedicaba, sensible a la inteligencia de Khalia y sensible a la brillantez, actividad y entusiasmo de esa mujer. Y, por todo ello, la pidió en matrimonio.
 
@@ -16,8 +15,7 @@ Pero las cosas se pusieron mal en su país cuando nació el primero de sus hijos
 
 En cuestión de horas, difíciles horas, por otra parte, Khalia, Mombo y Tron han sido despojados de todos sus atributos. Están rodeados de personas que hablan otro idioma, se mueven de otra manera, hacen cosas incomprensibles, están en la calle en ciertos momentos para dejarla vacía en otros, hay días que lo cierran todo, todo está lleno de extraños símbolos, a veces fijos, a veces intermitentes, manejan unas monedas extrañas y acuden a lugares que no parecen accesibles, mueven las manos de maneras diferentes, hacen gestos extraños, colocan las cosas en sitios distintos, hablan desde muy lejos.
 
-![](img/barca.jpg)
-<td style="text-align: center;">Pons-Föllmi, D. y Föllmi, O. (2006): Orígenes. 365 pensamientos<br/>de maestros africanos. Barcelona. Lunwerg</td>
+![Pons-Föllmi, D y Föllmi, O (2006): Orígenes - 365 pensamientos de maestros africanos - Barcelona - Lunwerg](img/barca.jpg)
 
 En cuestión de horas Khalia ya no es la misma: no conoce las reglas, no sabe comprar, no encuentra alimentos que conoce y los que encuentra no sabe cómo cocinarlos, no puede explicar su historia, no ve en el campo las hierbas que curan el dolor de estómago, no sabe qué pasa en la comunidad, sus vistosos vestidos –los tres que puso en el macuto- no le sirven para el frío y no sabe cómo vestirse, mira a Tron y piensa que no puede enfermar, que ella no sabe a quién acudir… Y, sobre todo, Khalia ha dejado de cantar y ya no sonríe.
 
@@ -37,8 +35,7 @@ Los bienintencionados les daban explicaciones, que ellos no entendían: es impor
 
 Khalia y Mombo algún día no van a clase. Vivir es difícil. Hay que salir a unas calles que no conocen, a unas tiendas extrañas que deben recorrer mucho rato para no siempre encontrar lo que buscan, hay que cocinar, hay que... Mombo llega destrozado del campo y Khalia está agotada. Están cansados, tensos, con ese agotamiento de vivir entre desconocidos, con reglas opacas y amenazantes, con esa angustia de vivir en un lugar en el que ningún ruido es conocido, no hay ningún fragmento de conversación que entiendas por la calle, ningún signo que interpretar, ningún lugar familiar, no hostil, donde relajarse. Por eso, muchos días, ir a clase es imposible y es mejor quedarse en casa o ver a una prima quinta que vive más arriba y hablar de sus cosas y cantar sus canciones. Además, no pasa nada si un día no haces soles y montañas.
 
-![](img/escribiendo.jpg)
-<td style="text-align: center;">[http://www.diariodeavisos.com/gobierno-adeuda-21-millones-euros-por-menores-inmigrantes/](http://www.diariodeavisos.com/gobierno-adeuda-21-millones-euros-por-menores-inmigrantes/)</td>
+![http://www.diariodeavisos.com/gobierno-adeuda-21-millones-euros-por-menores-inmigrantes/](img/escribiendo.jpg)
 
 Tampoco entendieron cuando otro día en una clase cantaron una extraña canción que decía: "trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan" que tenía una segunda estrofa que decía "aprendo, aprendes, aprende, aprendemos, aprendéis..." Qué música tan distinta a la suya. Además, la tenían que cantar muy quietos, sin moverse, sentados, en la mano el lápiz de los soles y el papel de las montañas.
 
@@ -56,11 +53,10 @@ De vez en cuando, su amable y bienintencionado profesor iba a visitarlos a sus c
 
 Los bienintencionados profesores también organizaban domingos festivos en los que Mombo, Khalia y otros inmigrantes tenían que cocinar y cocinar platos tradicionales que luego comían conjuntamente. Los bienintencionados profesores estaban muy contentos y comían y comían. Parece ser que su propia comida no les gustaba mucho porque nunca la cocinaban ni la llevaban a esos encuentros y comían sin parar la que habían preparado Khalia y sus primas.
 
-![](img/amasando.jpg)
-<td style="text-align: center;">N’Dour, Y. y Rozenbaum,<br/>I. (2004): **Senegal.<br/>La cocina de mi madre.** Barcelona.<br/>Intermón Oxfam. Pg. 39.</td>
+![N’Dour, Y y Rozenbaum, I (2004): Senegal - La cocina de mi madre - Barcelona - Intermón Oxfam - Pg - 39](img/amasando.jpg)
 
 De repente, un día, las calles se llenan de luces y de gente. A la gente parece no importarle el frío, salen a la calle y se pasan el día comprando mientras se oyen canciones por las calles. Khalia no entiende qué pasa, pero prefiere estas luces y vivir en una ciudad con música por todas partes. No sabe por qué todo el mundo está comprando y comprando y piensa que a ella también le gustaría poder hacerlo. En el mercado y en el supermercado hay comidas nuevas. Khalia mira unas cajas que tienen el dibujo de unas barras marrones o blancas con almendras, pero no sabe cómo se cocinan ni cuándo se comen. También hay algo redondo envuelto en papel de celofán de diversos colores pero no sabe qué hacer con eso. Un día no hay nadie por las calles, nadie paseando, nadie cantando en el exterior. Ese día Mombo tiene fiesta y pasean los tres por las calles solitarias que siguen llenas de luces. Están extrañados y un poco asustados, parece que haya pasado algo grave. Mala señal, cuando no hay nadie en la calle, sobre todo teniendo en cuenta que últimamente en la ciudad parecía haber más gente que antes.Lo que Khalia y Mombo no sabían es que ese día los bienintencionados comían cordero o pavo o col lombarda con sus familias y tomaban barras de turrón de postre. Los bienintencionados tuvieron una reunión unos veinte días antes y llegaron a la conclusión de que no iban a hablar de la Navidad en sus clases porque era una fiesta católica y sus estudiantes tenían otras religiones. No querían imponer la religión católica, como es natural. Tron, Khalia y Mombo nunca supieron por qué, varios días después, los niños salían de sus casas llenos de juguetes. Tron fue el único niño de su escalera que no tuvo juguetes el 6 de enero.
 
 Un día, ya en primavera, Khalia y Mombo tienen que ir a un parque donde hay unas casetas. Les han pedido que lleven su comida y su música. Mejor si se visten con sus trajes africanos. Khalia cocina otra vez y Mombo sale del trabajo con la lengua fuera para poder ir a casa a cambiarse y luego acercarse a esas casetas llenas de luces. Ese día toda la gente se acerca a verlos, les sonríen, comen un poco de su comida, les dan golpecitos en la espalda y le hacen caricias a su hijo. Khalia y Mombo se ilusionan. Igual podrán empezar a tener amigos. Pero el día termina y al día siguiente todo sigue como antes: Khalia en casa o vagando por el supermercado, que es donde no tiene que hablar, y Mombo trabajando y hablando su lengua con sus compatriotas. Los bienintencionados dicen que el “día de la integración” o el “día contra el racismo” o el “día del inmigrante” ha sido un éxito. Había mucha gente, pasó un montón de gente por la caseta, comieron y bailaron. Los bienintencionados, satisfechos esta vez, ya están pensando cómo organizarlo otra vez al año siguiente. Trescientos sesenta y cuatro días para pensar. Trescientos sesenta y cuatro días más de soledad para Khalia y Mombo.
 
-****En: Miquel, L. (2003): “Consideraciones sobre la enseñanza de español lengua extranjera a inmigrantes”. En Revista Carabela, nº 53, pp. 5-24. Madrid. SGEL.****<br/><br/>
+**En: Miquel, L. (2003): “Consideraciones sobre la enseñanza de español lengua extranjera a inmigrantes”. En Revista Carabela, nº 53, pp. 5-24. Madrid. SGEL.**

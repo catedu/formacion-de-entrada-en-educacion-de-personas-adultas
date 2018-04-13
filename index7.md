@@ -3,8 +3,6 @@
 
 ## ¿Que es un Sistema de Gestión de Clidad?
 
-**¿Qué es un Sistema de Gestión de Calidad?**
-
 El sistema de gestión que nos ayuda a mejorar los procesos de la organización y la prestación del servicio con el fin de satisfacer las necesidades educativas del alumnado.
 
 Analicemos las partes de la definición:

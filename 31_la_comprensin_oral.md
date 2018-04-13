@@ -25,7 +25,7 @@ A la hora de utilizar estos recursos, conviene tener en cuenta lo siguiente:
 
 **Observa estas actividades:** Su objetivo es favorecer la comprensión oral de los alumnos. Imagina qué actividades de pre-audición propondrías a tus alumnos antes de su puesta en práctica.
 
-**Haz clic sobre las imágenes para ampliarlas.**
+![Centellas, A, Norris, D y Ruiz, J (2009): Español lengua viva 1 - Libro del alumno - Madrid Santillana. Pg. 65.](img/restaurante.jpg)
 
-![](img/restaurante.jpg)
-<td style="text-align: center;">Centellas, A., Norris, D. y Ruiz, J. (2009): **Español lengua viva 1. Libro del alumno**.<br/>Madrid. Santillana. Pg. 65.</td><td style="text-align: center;">Isabel Sanz, F. (Coord.) (2008): **Horizontes.<br/>Español Nueva Lengua. Libro del alumno**. Madrid. SM. Pg. 13.</td>
+![Isabel Sanz, F (Coord) (2008): Horizontes - Español Nueva Lengua - Libro del alumno - Madrid SM Pg 13](img/oficina.jpg)
+

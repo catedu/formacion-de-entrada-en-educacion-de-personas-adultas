@@ -15,20 +15,24 @@ Para superar esta Unidad debes leer, en primer lugar, el cuento que se encuentra
 
 - Reflexionar y tomar conciencia de algunos de los temas que afectan al proceso de enseñanza-aprendizaje del español dirigido a alumnado inmigrante. Por ejemplo: **el proyecto migratorio; el duelo migratorio; la acogida en el centro educativo; la necesidad comunicativa; otras necesidades formativas; la necesaria formación de los educadores; el desajuste entre necesidades y respuestas; el concepto de “interculturalidad”…**
 
-## Contenidos2
+## Contenidos
 
 “La historia de Khalia y Mombo”
 
-## Actividad del foro
 
-![](img/globo2.gif)
-
-![](img/globo3.gif)
-
-## **Intervención reflexiva en el foro**
-
-Compartimos la idea de **Donald Schön** y de otros autores de que el profesor es un profesional reflexivo, observador e investigador en el aula, que continuamente se plantea interrogantes, toma decisiones y busca respuestas tanto dentro como fuera de ella.
-
-Te proponemos, por tanto, que, con una mirada reflexiva y crítica, r**ealices la lectura de una historia** que escribió una profesora especialista en español como lengua extranjera tras haber observado cómo se daban las clases para adultos inmigrantes en un centro. Se trata de **La Historia de Khalia y Mombo**.
-
-Presta especial atención a ****todos los temas  tratados**** en la historia que tengan repercusión en el aula y **a los aciertos y errores** que desde tu opinión parecen cometer los educadores que intervienen. **Comenta tus conclusiones** posteriormente **en el foro** y concluye tu intervención con la formulación de **una pregunta**, una cuestión que te preocupe y a la que te gustaría poder dar una respuesta válida y fiable.
+>**tip**
+>## Actividad del foro
+>
+>![](img/globo1.png)
+>
+>![](img/globo2.gif)
+>
+>![](img/globo3.gif)
+>
+>## **Intervención reflexiva en el foro**
+>
+>Compartimos la idea de **Donald Schön** y de otros autores de que el profesor es un profesional reflexivo, observador e investigador en el aula, que continuamente se plantea interrogantes, toma decisiones y busca respuestas tanto dentro como fuera de ella.
+>
+>Te proponemos, por tanto, que, con una mirada reflexiva y crítica, **realices la lectura de una historia** que escribió una profesora especialista en español como lengua extranjera tras haber observado cómo se daban las clases para adultos inmigrantes en un centro. Se trata de **La Historia de Khalia y Mombo**.
+>
+>Presta especial atención a *todos los temas  tratados* en la historia que tengan repercusión en el aula y **a los aciertos y errores** que desde tu opinión parecen cometer los educadores que intervienen. **Comenta tus conclusiones** posteriormente **en el foro** y concluye tu intervención con la formulación de **una pregunta**, una cuestión que te preocupe y a la que te gustaría poder dar una respuesta válida y fiable.

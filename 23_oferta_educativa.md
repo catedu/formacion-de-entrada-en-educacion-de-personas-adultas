@@ -1,8 +1,6 @@
 
 # 2.3. Oferta educativa
 
-## Contenidos2
-
 La oferta formativa se materializa en un conjunto de cursos en permanente actualización, organizados en áreas formativas y que han sido diseñados y/o adaptados especialmente para las características de los potenciales destinatarios y de la modalidad de enseñanza.
 
 La variedad de su oferta formativa supera los 150 cursos y está en permanente crecimiento y actualización.

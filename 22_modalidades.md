@@ -7,4 +7,3 @@ En cambio, los cursos de acceso a Ciclos Formativos de Grado Superior se imparte
 
 El CPEPA Miguel Hernández imparte en la modalidad a distancia tanto el curso de acceso a Grado medio como el de Grado Superior, ambos con el mismo modelo organizativo que el de la ESPA. Los Centros de EPA son Aula del CPEPA Miguel Hernández para estas enseñanzas, pudiendo los alumnos tramitar la matrícula, recibir apoyo tutorial y hacer los exámenes en su Aula.
 
-** **

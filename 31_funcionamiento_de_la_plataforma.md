@@ -1,15 +1,11 @@
 
 # 3.1. Funcionamiento de la plataforma
 
-## Contenidos2
-
 El AVE consta de tres escenarios: el escenario de trabajo y de comunicación del alumno; el entorno reservado a los profesores para el trabajo individual y para el intercambio de actividades y experiencias con otros tutores; y el entorno de administración, creado para dar de alta y de baja a los alumnos.
 
-Visiona este video del Instituto Cervantes para conocer qué es AVE. [http://cervantestv.es/2010/09/03/aula-virtual-de-espanol/](http://cervantestv.es/2010/09/03/aula-virtual-de-espanol/). Disponible en inglés [http://cervantestv.es/2010/09/03/aula-virtual-de-espanol-2/](http://cervantestv.es/2010/09/03/aula-virtual-de-espanol-2/)
+Visiona este video del Instituto Cervantes para conocer qué es AVE. [http://cervantestv.es/2010/09/03/aula-virtual-de-espanol/](http://cervantestv.es/2010/09/03/aula-virtual-de-espanol/). Disponible en inglés [http://cervantestv.es/2010/09/03/aula-virtual-de-espanol-2/](http://cervantestv.es/2010/09/03/aula-virtual-de-espanol-2/).
 
-## Contenidos2
-
-**La Mesa de trabajo y plataforma de administración**
+### La Mesa de trabajo y plataforma de administración
 
 La mesa de trabajo del AVE es un entorno multimedia que ofrece al alumnado y al profesorado recursos de audio, video, animaciones, lectura y escritura…
 
@@ -23,24 +19,19 @@ Visiona esta fantástica animación para conocer el funcionamiento de la sala de
 
 Disponible también en  [alemán](http://ave.cervantes.es/guias/AVE/guia_de.htm), [chino](http://ave.cervantes.es/guias/AVE/guia_chi.htm), [francés](http://ave.cervantes.es/guias/AVE/guia_fr.htm), [inglés](http://ave.cervantes.es/guias/AVE/guia_en.htm), [italiano](http://ave.cervantes.es/guias/AVE/guia_it.htm) y [portugués](http://ave.cervantes.es/guias/AVE/guia_pt.htm). Lamentablemente no está disponible en árabe, urdú o rumano (moldavo).
 
-A continuación revisa el documento [**SALA_DE_ESTUDIO **](SALA_DE_ESTUDIO.pdf)para conocer el entorno del Aula Virtual de Español y tras él revisa el documento [**Estructura y organización del AVE **](457374727563747572615f795f6f7267616e697a616369c3b36e5f64656c5f415645.pdf)con el que conocerás todas las peculiaridades del aula virtual que utiliza el alumno AVE.
+A continuación revisa el documento [**SALA_DE_ESTUDIO **](SALA_DE_ESTUDIO.pdf) para conocer el entorno del Aula Virtual de Español y tras él revisa el documento [**Estructura y organización del AVE **](457374727563747572615f795f6f7267616e697a616369c3b36e5f64656c5f415645.pdf) con el que conocerás todas las peculiaridades del aula virtual que utiliza el alumno AVE.
 
 Ahora vamos a conocer la plataforma de administración, a la que accedemos desde [http://www.admin.ave.cervantes.es/](http://www.admin.ave.cervantes.es/)
 
-Revisa el documento [**Funcionamiento_AdministraciOn_Plataforma_AVE**](Funcionamiento_AdministraciOn_Plataforma_AVE.pdf) para familiarizarte con la administración puesto que en todo el proceso somos los propios tutores de aula los responsables de la matriculación, alta del alumno, seguimiento y evaluación.
+Revisa el documento [**Funcionamiento_AdministraciOn_Plataforma_AVE**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/Funcionamiento_AdministraciOn_Plataforma_AVE.pdf) para familiarizarte con la administración puesto que en todo el proceso somos los propios tutores de aula los responsables de la matriculación, alta del alumno, seguimiento y evaluación.
 
-## Contenidos2
-
-**La prueba VIA**
+### La prueba VIA
 
 La prueba VIA (**Valoración Inicial del Alumno**) es una utilidad muy interesante, especialmente para alumnado que no ha cursado previamente un curso AVE, también es muy interesante para el trabajo en grupo en el aula de español presencial utilizándola con un proyector.
 
 Niveles y subniveles de AVE:
 
-
 ![](img/VIA.png)
-
- 
 
 Los Cursos de español del AVE se estructuran en los cinco primeros niveles de aprendizaje del Plan curricular del Instituto Cervantes y del Marco común europeo de referencia: A1, A2, B1, B2 y C1.
 
@@ -50,9 +41,7 @@ Tenemos la posibilidad de matricular al alumnado por subniveles (A.1.1., A.1.2.,
 
 La prueba de nivel de AVE se encuentra en la antigua plataforma [http://ave.cervantes.es/](http://ave.cervantes.es/)**. **Alternativamente puedes acceder directamente desde [aquí](http://ave.cervantes.es/prueba_nivel/registro/test_de_clasificacion.php?origen=webAVE) o buscar en Google "prueba de nivel aula virtual de español instituto cervantes".
 
-## Contenidos2
-
-**Modalidades presencial, semipresencial o a distancia**
+### Modalidades presencial, semipresencial o a distancia
 
 El AVE es un recurso de aprendizaje que puede explotarse en la clase presencial y en las modalidades de enseñanza semipresencial y a distancia.
 

@@ -1,7 +1,7 @@
 
 # Contenidos
 
-## Contenidos2
+## Contenidos
 
 Para iniciarnos en la enseñanza del español como nueva lengua, es necesario poder responder, al menos, a las siguientes preguntas básicas:
 

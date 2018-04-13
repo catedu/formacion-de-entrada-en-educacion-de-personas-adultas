@@ -14,9 +14,7 @@ El Gobierno de Aragón en convenio con el Instituto Cervantes, utiliza estos rec
 Los cursos de español en Internet siguen el currículo del Instituto Cervantes y comprenden materiales didácticos de naturaleza multimedia, herramientas de comunicación de Internet y un sistema de seguimiento automático. El entorno permite a sus usuarios formar parte de un grupo de trabajo colaborativo y contar con el apoyo de un tutor que guíe su aprendizaje.
 
 Comienza visionando esta presentación creada por el equipo de profesores de AVE del Instituto Cervantes de Río de Janeiro.
-|<iframe frameborder="0" height="356" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/7326292" style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" width="427"></iframe> 
-<td style="text-align: center;">**[Presentación del Curso Virtual de Español (AVE)](http://www.slideshare.net/belengll/presentacin-del-curso-virtual-de-espaol-ave) ** from **[Belén](http://www.slideshare.net/belengll)**<br/>http://www.slideshare.net/belengll/presentacin-del-curso-virtual-de-espaol-ave</td>
 
+<iframe frameborder="0" height="356" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/7326292" style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" width="427"></iframe>
 
-
- Para el curso escolar 2015-16, en estos momentos, todavía no se ha renovado el acuerdo de colaboración entre el Ministerio de Educación y el Departamento de Educación del Gobierno de Aragón por lo que las enseñanzas de AVE no están autorizadas. Sin embargo, entendemos que es importante conocer la plataforma y su funcionamiento ya que, en un futuro podría reanudarse dicha oferta y, por otra parte, te aporta materiales y pruebas de valoración que te serán de utilidad.
+Para el curso escolar 2015-16, en estos momentos, todavía no se ha renovado el acuerdo de colaboración entre el Ministerio de Educación y el Departamento de Educación del Gobierno de Aragón por lo que las enseñanzas de AVE no están autorizadas. Sin embargo, entendemos que es importante conocer la plataforma y su funcionamiento ya que, en un futuro podría reanudarse dicha oferta y, por otra parte, te aporta materiales y pruebas de valoración que te serán de utilidad.

@@ -31,30 +31,23 @@ Por lo que respecta al currículo, entre las Enseñanzas de Extensión y Promoci
 
 **INTRODUCCIÓN**
 
-**Un proyecto migratorio implica dejar atrás el propio entorno, las relaciones sociales y familiares de las que se forma parte y en las que la persona tiene una entidad diferencial, para emprender una vida nueva en un contexto extraño, con códigos culturales diferentes, en el que además puede utilizarse una lengua desconocida, en cuyo caso las dificultades para conseguir ser partícipe de la nueva sociedad se acrecientan.**
-
-**La Educación de Personas Adultas puede ofrecer un acompañamiento que facilite la acogida, una formación integral que aborde necesidades  lingüísticas, sociales y culturales, que permita la decodificación de la nueva realidad y facilite su intervención en ella. Una formación integral, por tanto, que priorice la competencia comunicativa, pero que tenga en cuenta todas las competencias básicas, atendiendo de forma más específica a aquellas que se detecten como necesarias para facilitar el proyecto emprendido.**
-
-**Para ello, ha de partirse de los conocimientos y experiencias previas del alumnado, como soportes sobre los que poder construir nuevos aprendizajes, pues estos saberes serán sin duda ricos y plurales, dando como resultado grupos heterogéneos desde diferentes perspectivas. La heterogeneidad será, no obstante, valorada de forma positiva, tal y como han demostrado recientes investigaciones, un factor de enriquecimiento del grupo, característica que permitirá el andamiaje colectivo, es decir, el aprendizaje mediado, facilitado por el profesor y por el propio alumnado.**
-
-**En cuanto a la metodología utilizada, se tendrán en cuenta los nuevos avances que, por ejemplo, se han realizado en el ámbito de la didáctica de lenguas, de manera que el enfoque comunicativo y el aprendizaje mediante tareas se presentan como modelos especialmente adecuados, pues se basan en la acción, en el uso real de la lengua para resolver problemas de interés para el grupo, en el trabajo cooperativo, y en el desarrollo de la autonomía para estimular el aprendizaje.**
-
-**La situación de inmersión implica que el español sea considerado como una nueva lengua, no extranjera, una lengua que se necesita día a día para formar parte de la sociedad en la que se vive y de la que se debe apropiar la persona. En el aula, se facilitarán, por tanto, estrategias que le permitan aprovechar todas las oportunidades de aprendizaje que se le presenten, tanto dentro como fuera de ella.**
-
-**Sin embargo, hay que tener en cuenta que una lengua no se aprende de forma lineal, hay que volver sobre los contenidos para profundizar en ellos, es decir, el aprendizaje continuará a lo largo de toda la vida, por lo que el último objetivo de estas enseñanzas será facilitar la inserción de la persona en otros contextos naturales en los que poder proseguir su aprendizaje.**
-
-**En cuanto al diseño de los cursos, el Marco Común Europeo de Referencia, el Plan Curricular del Instituto Cervantes y sus Orientaciones para un Curso de Emergencia de Español como Nueva Lengua proporcionan herramientas facilitadoras de la tarea del profesorado a la hora de desglosar esta propuesta de carácter más general y desarrollar una programación de aula adaptada a las necesidades del grupo meta.**
-
-**La evaluación del proceso será continua y formativa, utilizando procedimientos como la observación en el aula, la reflexión sobre el grado de satisfacción del alumnado, la valoración de sus muestras de interlengua, la entrevista o el diario de clase. De manera que se registrarán los datos obtenidos, especialmente, en tres momentos del curso, al inicio, para detectar las necesidades del grupo, durante el proceso, para poder reconducirlo, y al final para valorar la consecución de los objetivos. Además, se estimulará la autoevaluación y la toma de conciencia del propio proceso, mediante el uso del portafolio, favoreciendo la educación permanente y la planificación de un proyecto formativo individualizado que tenga continuidad y atienda las necesidades propias de la persona adulta.**
-
- 
-
-
-![](img/obj_generales.gif)
-
- 
-
- 
+>Un proyecto migratorio implica dejar atrás el propio entorno, las relaciones sociales y familiares de las que se forma parte y en las que la persona tiene una entidad diferencial, para emprender una vida nueva en un contexto extraño, con códigos culturales diferentes, en el que además puede utilizarse una lengua desconocida, en cuyo caso las dificultades para conseguir ser partícipe de la nueva sociedad se acrecientan.
+>
+>La Educación de Personas Adultas puede ofrecer un acompañamiento que facilite la acogida, una formación integral que aborde necesidades  lingüísticas, sociales y culturales, que permita la decodificación de la nueva realidad y facilite su intervención en ella. Una formación integral, por tanto, que priorice la competencia comunicativa, pero que tenga en cuenta todas las competencias básicas, atendiendo de forma más específica a aquellas que se detecten como necesarias para facilitar el proyecto emprendido.
+>
+>Para ello, ha de partirse de los conocimientos y experiencias previas del alumnado, como soportes sobre los que poder construir nuevos aprendizajes, pues estos saberes serán sin duda ricos y plurales, dando como resultado grupos heterogéneos desde diferentes perspectivas. La heterogeneidad será, no obstante, valorada de forma positiva, tal y como han demostrado recientes investigaciones, un factor de enriquecimiento del grupo, característica que permitirá el andamiaje colectivo, es decir, el aprendizaje mediado, facilitado por el profesor y por el propio alumnado.
+>
+>En cuanto a la metodología utilizada, se tendrán en cuenta los nuevos avances que, por ejemplo, se han realizado en el ámbito de la didáctica de lenguas, de manera que el enfoque comunicativo y el aprendizaje mediante tareas se presentan como modelos especialmente adecuados, pues se basan en la acción, en el uso real de la lengua para resolver problemas de interés para el grupo, en el trabajo cooperativo, y en el desarrollo de la autonomía para estimular el aprendizaje.
+>
+>La situación de inmersión implica que el español sea considerado como una nueva lengua, no extranjera, una lengua que se necesita día a día para formar parte de la sociedad en la que se vive y de la que se debe apropiar la persona. En el aula, se facilitarán, por tanto, estrategias que le permitan aprovechar todas las oportunidades de aprendizaje que se le presenten, tanto dentro como fuera de ella.
+>
+>Sin embargo, hay que tener en cuenta que una lengua no se aprende de forma lineal, hay que volver sobre los contenidos para profundizar en ellos, es decir, el aprendizaje continuará a lo largo de toda la vida, por lo que el último objetivo de estas enseñanzas será facilitar la inserción de la persona en otros contextos naturales en los que poder proseguir su aprendizaje.
+>
+>En cuanto al diseño de los cursos, el Marco Común Europeo de Referencia, el Plan Curricular del Instituto Cervantes y sus Orientaciones para un Curso de Emergencia de Español como Nueva Lengua proporcionan herramientas facilitadoras de la tarea del profesorado a la hora de desglosar esta propuesta de carácter más general y desarrollar una programación de aula adaptada a las necesidades del grupo meta.
+>
+>La evaluación del proceso será continua y formativa, utilizando procedimientos como la observación en el aula, la reflexión sobre el grado de satisfacción del alumnado, la valoración de sus muestras de interlengua, la entrevista o el diario de clase. De manera que se registrarán los datos obtenidos, especialmente, en tres momentos del curso, al inicio, para detectar las necesidades del grupo, durante el proceso, para poder reconducirlo, y al final para valorar la consecución de los objetivos. Además, se estimulará la autoevaluación y la toma de conciencia del propio proceso, mediante el uso del portafolio, favoreciendo la educación permanente y la planificación de un proyecto formativo individualizado que tenga continuidad y atienda las necesidades propias de la persona adulta.
+>
+>![](img/obj_generales.gif)
 
 Finalmente, en el apartado “Para saber más”, podrás acceder a todos los documentos comentados en la Unidad. Si se trata de la primera vez que impartes Español como Nueva Lengua, te recomendamos que directamente accedas a las Orientaciones del Instituto Cervantes y a las del Gobierno de Aragón, ambas son complementarias. Se trata de documentos básicos y sencillos que te permitirán familiarizarte con la materia. Conforme avance el curso, consulta el MCERL y el Plan Curricular del instituto Cervantes. Quizá al principio, por su extensión, puedan parecerte complejos de manejar. Pero hay que tener en cuenta que aportan mucho más que una ayuda a la programación, en ellos encontrarás las orientaciones y la base formativa que todo profesor de segundas lenguas necesita.
 
@@ -62,7 +55,5 @@ En cuanto a los recursos para el aula, adjuntamos también una bibliografía de 
 
 **¡Seguimos hablando en el foro!**
 
-![](img/puente.jpg)
-|**Puente de Montañana (Huesca) Por Carlos Sieiro del Nido**
+![Puente de Montañana (Huesca) Por Carlos Sieiro del Nido](img/puente.jpg)
 
- 

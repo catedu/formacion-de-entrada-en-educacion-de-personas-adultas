@@ -16,20 +16,15 @@ Por tanto, el futuro inmediato de estas enseñanzas va a cambiar próximamente. 
 **Artículo 15. **Acceso a ciclos formativos de grado medio.****
 
 1. Para acceder a los ciclos formativos de grado medio se requerirá una de las siguientes **condiciones**:
-
-a) Estar en posesión del título de Graduado en Educación Secundaria Obligatoria o de un nivel académico superior.
-
-b) Haber superado los módulos obligatorios de un programa de cualificación profesional inicial.
-
-c) Haber superado el curso de formación específico para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la Administración educativa.
-
-d) Haber superado la prueba de acceso a ciclos formativos de grado medio o de grado superior, o la prueba de acceso a la universidad para mayores de 25 años.
-
-e) Alguna de las titulaciones contempladas en el artículo 18.
+    * Estar en posesión del título de Graduado en Educación Secundaria Obligatoria o de un nivel académico superior.
+    *  Haber superado los módulos obligatorios de un programa de cualificación profesional inicial.
+    *  Haber superado el curso de formación específico para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la Administración educativa.
+    *  Haber superado la prueba de acceso a ciclos formativos de grado medio o de grado superior, o la prueba de acceso a la universidad para mayores de 25 años.
+    *  Alguna de las titulaciones contempladas en el artículo 18.
 
 2. En los supuestos de acceso al amparo de las letras c) y d), se requerirá tener, al menos, diecisiete años, cumplidos en el año de realización de la prueba o del inicio del curso de acceso y no reunir otros requisitos de acceso a ciclos formativos de grado medio.
 
-**Artículo 16. **Curso de acceso a los ciclos formativos de grado medio.****
+**Artículo 16. Curso de acceso a los ciclos formativos de grado medio.**
 
 1. El curso de acceso a los ciclos de grado medio tendrá una **duración mínima de 600 horas**.
 
@@ -41,7 +36,7 @@ e) Alguna de las titulaciones contempladas en el artículo 18.
 
 5. Las Administraciones educativas determinarán los **centros** públicos que podrán impartir estos cursos. También podrán impartirlos los centros privados que tengan autorizadas las enseñanzas de educación secundaria obligatoria que determinen las Administraciones educativas.
 
-**Artículo 17. **Prueba de acceso a los ciclos formativos de grado medio.****
+**Artículo 17. **Prueba de acceso a los ciclos formativos de grado medio.**
 
 1. La prueba de acceso a los ciclos formativos de grado medio **deberá acreditar** que el alumno posee los conocimientos y habilidades suficientes para cursar con aprovechamiento las enseñanzas correspondientes. Se organizarán en tres partes, una por cada uno de los ámbitos señalados en el artículo anterior.
 
@@ -49,7 +44,7 @@ e) Alguna de las titulaciones contempladas en el artículo 18.
 
 3. Las pruebas **se realizarán** en los Centros públicos que establezcan las Administraciones educativas.
 
-**Artículo 18. **Acceso a ciclos formativos de grado superior.****
+**Artículo 18. Acceso a ciclos formativos de grado superior.**
 
 Para acceder a los ciclos formativos de grado superior se requerirá una de las siguientes **condiciones**:
 
@@ -59,14 +54,14 @@ b) Poseer un título de Técnico de Grado Medio y haber superado un curso de for
 
 c) Haber superado la prueba de acceso a ciclos formativos de grado superior o la prueba de acceso a la universidad para mayores de 25 años
 
-**Artículo 19. **Curso de formación específico para el acceso a los ciclos formativos de grado superior.****
+**Artículo 19. Curso de formación específico para el acceso a los ciclos formativos de grado superior.**
 
 1. El curso de acceso a los ciclos de grado superior tendrán una **duración mínima de 700 horas**.
 
 2. Este curso constará de **dos partes**, una parte común y otra específica.
 
-- La parte común tendrá carácter instrumental y desarrollará como mínimo los objetivos de la lengua castellana e idioma extranjero del Bachillerato.
-- La parte específica se organizará, al menos, en dos opciones: ciencia y tecnología, y humanidades y ciencias sociales. Dentro de cada opción las Administraciones educativas desarrollarán como mínimo dos materias.
+    - La parte común tendrá carácter instrumental y desarrollará como mínimo los objetivos de la lengua castellana e idioma extranjero del Bachillerato.
+    - La parte específica se organizará, al menos, en dos opciones: ciencia y tecnología, y humanidades y ciencias sociales. Dentro de cada opción las Administraciones educativas desarrollarán como mínimo dos materias.
 
 3. Estas materias serán impartidas por **profesorado** con atribución docente en las mismas
 
@@ -76,7 +71,7 @@ c) Haber superado la prueba de acceso a ciclos formativos de grado superior o la
 
 6. Las Administraciones educativas determinarán los **centros** públicos que podrán impartir estos cursos. También podrán impartirlos los centros privados que tengan autorizadas las enseñanzas de Bachillerato que determinen las Administraciones educativas.
 
-**Artículo 20. **Prueba de acceso a los ciclos formativos de grado superior.****
+**Artículo 20. Prueba de acceso a los ciclos formativos de grado superior.**
 
 1. La prueba de acceso a la formación profesional de grado superior tendrá por **objeto** acreditar que el alumno posee la madurez necesaria en relación con los objetivos del Bachillerato, así como los conocimientos específicos que se requieran para el ciclo al que desee acceder.
 
@@ -86,7 +81,7 @@ c) Haber superado la prueba de acceso a ciclos formativos de grado superior o la
 
 4. Para acceder a la prueba de acceso **se requerirá** tener diecinueve años, cumplidos en el año de realización de la prueba o dieciocho si se acredita estar en posesión de un título de Técnico relacionado con aquél al que se desea acceder.
 
-**Artículo 21. **Disposiciones comunes para los cursos y las pruebas de acceso.****
+**Artículo 21. Disposiciones comunes para los cursos y las pruebas de acceso.**
 
 1. Las Administraciones educativas convocarán, **al menos una vez al año**, las pruebas de acceso a ciclos formativos de grado medio y de grado superior de acuerdo con lo dispuesto en este real decreto.
 
@@ -100,6 +95,8 @@ c) Haber superado la prueba de acceso a ciclos formativos de grado superior o la
 
 6. Corresponde a las Administraciones educativas regular la **exención** de las partes de las pruebas o del curso de formación que da acceso a los ciclos formativos de grado medio y de grado superior en función de la formación previa acreditada por el alumnado.
 
-## Importante
+>**info**
+>## Importante
+>
+>Es importante que leas el punto 3.1. (pag. 7) de las [Instrucciones que regulan el curso 2016-17 en lo referido a los Cursos de preparación para accesos a Ciclos Formativos](http://aularagon.catedu.es/materialesaularagon2013/fepa/Instrucciones%20EPAs%202016-17.pdf).
 
-Es importante que leas el punto 3.1. (pag. 7) de las [Instrucciones que regulan el curso 2016-17 en lo referido a los Cursos de preparación para accesos a Ciclos Formativos](http://aularagon.catedu.es/materialesaularagon2013/fepa/Instrucciones%20EPAs%202016-17.pdf).

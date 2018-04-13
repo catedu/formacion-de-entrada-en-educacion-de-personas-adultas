@@ -9,7 +9,7 @@ Estos cursos cuentan expresamente como mérito en muchas convocatorias de selecc
 
 Se recomienda el uso de Mozilla Firefox como navegador para el desarrollo de los cursos Mentor, las últimas versiones de otros navegadores como Internet Explorer pueden presentar dificultades con la mensajería o el envío de actividades.
 
-## Contenidos2
+## Contenidos
 
 **Introducción**
 
@@ -30,12 +30,13 @@ Con objeto de dotar a esta iniciativa de un cierto grado de sostenibilidad econ�
 
 El reconocimiento internacional de Aula Mentorse refleja en la participación de diversos países latinoamericanos así como por haber sido reconocida como una de las 14 buenas prácticas en el Inventario de la Unión Europea a través de un estudio dirigido por la Universidad de Florencia.
 
-En Aragón tenemos cada curso escolar un total de más de 2400 matrículas lo que refleja la importancia de esta oferta formativa. Consulta los documentos [**matricula_aulas_Mentor_2011_12**](matricula_aulas_Mentor_2011_12.pdf) y [**matricula_aulas_Mentor_2012**](matricula_aulas_Mentor_2012.pdf).
+En Aragón tenemos cada curso escolar un total de más de 2400 matrículas lo que refleja la importancia de esta oferta formativa. Consulta los documentos [**matricula_aulas_Mentor_2011_12**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/matricula_aulas_Mentor_2011_12.pdf) y [**matricula_aulas_Mentor_2012**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/matricula_aulas_Mentor_2012.pdf).
 
 La plataforma de Aula Mentor no dispone de un usuario genérico por lo que se incluyen videos que puedes obviar si ya conoces su funcionamiento.
 
-## Para saber más
-
- El Ministerio de Educación ha abierto un procedimiento para realizar matrículas al amparo de la convocatoria de formación del profesorado, por la que una serie de cursos tendrán ese reconocimiento. Tenéis más información en el siguiente [enlace](http://aularagon.catedu.es/materialesaularagon2013/fepa/Proceso_Matricula_Mentor_Formación_Profesores.pdf).
+>**tip**
+>## Para saber más
+>
+> El Ministerio de Educación ha abierto un procedimiento para realizar matrículas al amparo de la convocatoria de formación del profesorado, por la que una serie de cursos tendrán ese reconocimiento. Tenéis más información en el siguiente [enlace](http://aularagon.catedu.es/materialesaularagon2013/fepa/Proceso_Matricula_Mentor_Formación_Profesores.pdf).
 
 

@@ -2,7 +2,6 @@
 
 * [Introducción](README.md)
 
-<!--
 ____
 ### 1. Marco institucional de la EPA 
 * [M1. Marco institucional de la EPA](index0.md)
@@ -82,8 +81,6 @@ ____
 	* [4.2. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
 	* [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
 	* [Resumen](resumen42.md)
--->
-
 ### M4. ESPA y acceso a la FP 
 * [M4. ESPA y acceso a la FP](index3.md)
 * [U1. La ESPA](u1_la_espa.md)
@@ -99,12 +96,11 @@ ____
 	* [2.3. Perfil de los participantes](23_perfil_de_los_participantes.md)
 	* [2.4. El futuro próximo](24_el_futuro_prximo.md)
 
-<!--
 ### M5. Español como nueva lengua | M5. Español como nueva lengua 
 * [M5. Español como nueva lengua](index4.md)
 * [U1. Explorando el terreno: las preguntas](u1_explorando_el_terreno_las_preguntas.md)
 	* [Contenidos](contenidos.md)
-	* [Resumen](resumen4.md)
+	* [Resumen](resumenM5.md)
 * [U2. Buscando respuestas: la investigación](u2_buscando_respuestas_la_investigacin.md)
 	* [Contenidos](contenidos2.md)
 		* [2.1. ¿Cómo se adquiere una nueva lengua?](21_cmo_se_adquiere_una_nueva_lengua.md)
@@ -136,11 +132,11 @@ ____
 * [4. Normativa reguladora](4_normativa_reguladora.md)
 * [5. Panorama actual de las enseñanzas no regladas en los Centros Públicos de EPA](5_panorama_actual_de_las_enseanzas_no_regladas_en_los_centros_pblicos_de_epa.md)
 
+
 ### M7.  Enseñanzas de la modalidad a distancia | M7.  Enseñanzas de la modalidad a distancia 
 * [M7.  Enseñanzas de la modalidad a distancia](index6.md)
 * [U1. Aularagón y el Aula de Autoaprendizaje](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
 	* [Contenidos](contenidos6.md)
-	* [Tarea exploratoria](tarea_exploratoria.md)
 	* [Resumen](resumen6.md)
 * [U2. El proyecto Mentor](u2_el_proyecto_mentor.md)
 	* [2.1. Funcionamiento de la plataforma](21_funcionamiento_de_la_plataforma.md)
@@ -166,5 +162,4 @@ ____
 		* [Procesos de Apoyo](procesos_de_apoyo.md)
 * [Satisfacción del cliente](satisfaccin_del_cliente.md)
 * [Calidocs](calidocs.md)
--->
 * [Créditos](crditos.md)

@@ -16,7 +16,7 @@ Aunque nosotros también proponemos un tratamiento integrado de las destrezas en
 
  
 
-## Contenidos2
+## Contenidos
 
 3.1. La comprensión oral.
 

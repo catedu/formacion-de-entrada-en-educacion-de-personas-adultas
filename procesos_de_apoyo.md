@@ -9,10 +9,11 @@ Estos procedimientos son de apoyo, en el sentido que si dejan de funcionar por u
 
 - **Ambiente de trabajo**. Se ocupa del clima laboral o ambiente de trabajo.
 
-## Para saber más
-
-**¿Qué hacer con el mantenimiento de extintores o máquinas que no son propiedad del centro?**
-
-Aunque los extintores, ascensores u otros equipamientos del centro sean de propiedad municipal, el equipo directivo tiene la obligación de velar por el cumplimiento de la normativa legal existente referida a su mantenimiento, puesto que los efectos que pudieran derivarse de su incumplimiento podrían afectar a la comunidad educativa. Por tanto, deben cumplimentar en tiempo y forma las fichas correspondientes (F-3-02-01 y F-3-02-04, si el centro tiene máquinas).
+>**tip**
+>## Para saber más
+>
+>**¿Qué hacer con el mantenimiento de extintores o máquinas que no son propiedad del centro?**
+>
+>Aunque los extintores, ascensores u otros equipamientos del centro sean de propiedad municipal, el equipo directivo tiene la obligación de velar por el cumplimiento de la normativa legal existente referida a su mantenimiento, puesto que los efectos que pudieran derivarse de su incumplimiento podrían afectar a la comunidad educativa. Por tanto, deben cumplimentar en tiempo y forma las fichas correspondientes (F-3-02-01 y F-3-02-04, si el centro tiene máquinas).
 
  

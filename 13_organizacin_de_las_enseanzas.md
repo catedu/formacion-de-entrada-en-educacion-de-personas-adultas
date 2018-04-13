@@ -10,32 +10,402 @@ La Comunidad Autónoma de Aragón, mediante la Orden de 2 de julio de 2008, de l
 **EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS**
 
  
-<td colspan="6" width="612">**Primer Nivel**</td>
-<td width="84">** **</td><td width="144">**Primer bloque de módulos**</td><td width="84">**Periodos lectivos semanales**</td><td width="144">**Segundo bloque de módulos**</td><td width="84">**Periodos lectivos semanales**</td><td width="72">**Periodos lectivos****totales**</td>
-<td rowspan="3" width="84">**Ámbito de****Comunicación**</td><td width="144">I Lengua castellana y literatura</td><td width="84">4</td><td width="144">II Lengua castellana y literatura</td><td width="84">4</td><td width="72">120</td>
-<td width="144">Lengua extranjera</td><td width="84">3</td><td width="144">II Lengua extranjera</td><td width="84">3</td><td width="72">90</td>
-<td width="144">TOTAL</td><td width="84">7</td><td width="144">TOTAL</td><td width="84">7</td><td width="72">210</td>
-<td rowspan="2" width="84">**Ámbito Sociedad**</td><td width="144">I Ciencias sociales</td><td width="84">4</td><td width="144">II Ciencias sociales</td><td width="84">4</td><td width="72">120</td>
-<td width="144">TOTAL</td><td width="84">4</td><td width="144">TOTAL</td><td width="84">4</td><td width="72">120</td>
-<td rowspan="3" width="84">**Ámbito Científico-tecnológico**</td><td width="144">I Matemático-tecnológico</td><td width="84">4</td><td width="144">II Matemático-tecnológico</td><td width="84">4</td><td width="72">120</td>
-<td width="144">I Ciencias de la naturaleza</td><td width="84">3</td><td width="144">II Ciencias de la naturaleza</td><td width="84">3</td><td width="72">90</td>
-<td width="144">TOTAL</td><td width="84">7</td><td width="144">TOTAL</td><td width="84">7</td><td width="72">210</td>
-<td width="84">** **</td><td width="144">**TOTAL**</td><td width="84">**18**</td><td width="144">** **</td><td width="84">**18**</td><td width="72">**540**</td>
+<table border="1" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td colspan="6" width="612">
+<p align="center"><strong>Primer Nivel</strong></p>
+</td>
+</tr>
+<tr>
+<td width="84">
+<p align="center"><strong>&nbsp;</strong></p>
+</td>
+<td width="144">
+<p align="center"><strong>Primer bloque de módulos</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>Periodos lectivos semanales</strong></p>
+</td>
+<td width="144">
+<p align="center"><strong>Segundo bloque de módulos</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>Periodos lectivos semanales</strong></p>
+</td>
+<td width="72">
+<p align="center"><strong>Periodos lectivos</strong></p>
+<p align="center"><strong>totales</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="84">
+<p><strong>Ámbito de</strong></p>
+<p><strong>Comunicación</strong></p>
+</td>
+<td width="144">
+<p>I Lengua castellana y literatura</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>II Lengua castellana y literatura</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>Lengua extranjera</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="144">
+<p>II Lengua extranjera</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="72">
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="72">
+<p align="center">210</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="84">
+<p><strong>Ámbito Sociedad</strong></p>
+</td>
+<td width="144">
+<p>I Ciencias sociales</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>II Ciencias sociales</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="84">
+<p><strong>Ámbito Científico-tecnológico</strong></p>
+</td>
+<td width="144">
+<p>I Matemático-tecnológico</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>II Matemático-tecnológico</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>I Ciencias de la naturaleza</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="144">
+<p>II Ciencias de la naturaleza</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="72">
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="72">
+<p align="center">210</p>
+</td>
+</tr>
+<tr>
+<td width="84">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="144">
+<p><strong>TOTAL</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>18</strong></p>
+</td>
+<td width="144">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>18</strong></p>
+</td>
+<td width="72">
+<p align="center"><strong>540</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
 
- 
-<td colspan="6" width="612">**Segundo Nivel**</td>
-<td width="84">** **</td><td width="144">**Tercer bloque de módulos**</td><td width="84">**Periodos lectivos semanales**</td><td width="144">**Cuarto bloque de módulos**</td><td width="84">**Periodos lectivos semanales**</td><td width="72">**Periodos lectivos****totales**</td>
-<td rowspan="3" width="84">**Ámbito de****Comunicación**</td><td width="144">III Lengua castellana y literatura</td><td width="84">4</td><td width="144">IV Lengua castellana y literatura</td><td width="84">4</td><td width="72">120</td>
-<td width="144">III Lengua extranjera</td><td width="84">3</td><td width="144">IV Lengua extranjera</td><td width="84">3</td><td width="72">90</td>
-<td width="144">TOTAL</td><td width="84">7</td><td width="144">TOTAL</td><td width="84">7</td><td width="72">210</td>
-<td rowspan="2" width="84">**Ámbito Sociedad**</td><td width="144">III Ciencias sociales</td><td width="84">4</td><td width="144">IV Ciencias sociales</td><td width="84">4</td><td width="72">120</td>
-<td width="144">TOTAL</td><td width="84">4</td><td width="144">TOTAL</td><td width="84">4</td><td width="72">120</td>
-<td rowspan="3" width="84">**Ámbito Científico-tecnológico**</td><td width="144">III Matemático-tecnológico</td><td width="84">4</td><td width="144">IV Matemático-tecnológico</td><td width="84">4</td><td width="72">120</td>
-<td width="144">III Ciencias de la naturaleza</td><td width="84">3</td><td width="144">Optativa:*  Biología y geología*  Física y química*  Informática</td><td width="84">3</td><td width="72">90</td>
-<td width="144">TOTAL</td><td width="84">7</td><td width="144">TOTAL</td><td width="84">7</td><td width="72">210</td>
-<td width="84">** **</td><td width="144">**TOTAL**</td><td width="84">**18**</td><td width="144">** **</td><td width="84">**18**</td><td width="72">**540**</td>
-
- 
+<table border="1" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td colspan="6" width="612">
+<p align="center"><strong>Segundo Nivel</strong></p>
+</td>
+</tr>
+<tr>
+<td width="84">
+<p align="center"><strong>&nbsp;</strong></p>
+</td>
+<td width="144">
+<p align="center"><strong>Tercer bloque de módulos</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>Periodos lectivos semanales</strong></p>
+</td>
+<td width="144">
+<p align="center"><strong>Cuarto bloque de módulos</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>Periodos lectivos semanales</strong></p>
+</td>
+<td width="72">
+<p align="center"><strong>Periodos lectivos</strong></p>
+<p align="center"><strong>totales</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="84">
+<p><strong>Ámbito de</strong></p>
+<p><strong>Comunicación</strong></p>
+</td>
+<td width="144">
+<p>III Lengua castellana y literatura</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>IV Lengua castellana y literatura</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>III Lengua extranjera</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="144">
+<p>IV Lengua extranjera</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="72">
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="72">
+<p align="center">210</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="84">
+<p><strong>Ámbito Sociedad</strong></p>
+</td>
+<td width="144">
+<p>III Ciencias sociales</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>IV Ciencias sociales</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="84">
+<p><strong>Ámbito Científico-tecnológico</strong></p>
+</td>
+<td width="144">
+<p>III Matemático-tecnológico</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="144">
+<p>IV Matemático-tecnológico</p>
+</td>
+<td width="84">
+<p align="center">4</p>
+</td>
+<td width="72">
+<p align="center">120</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>III Ciencias de la naturaleza</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="144">
+<p>Optativa:</p>
+<p>*&nbsp; Biología y geología</p>
+<p>*&nbsp; Física y química</p>
+<p>*&nbsp; Informática</p>
+</td>
+<td width="84">
+<p align="center">3</p>
+</td>
+<td width="72">
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="144">
+<p>TOTAL</p>
+</td>
+<td width="84">
+<p align="center">7</p>
+</td>
+<td width="72">
+<p align="center">210</p>
+</td>
+</tr>
+<tr>
+<td width="84">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="144">
+<p><strong>TOTAL</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>18</strong></p>
+</td>
+<td width="144">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="84">
+<p align="center"><strong>18</strong></p>
+</td>
+<td width="72">
+<p align="center"><strong>540</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 La Orden de 16 de agosto de 2000, del Departamento de Educación y Ciencia, por la que se aprueban las instrucciones que regulan la organización y el funcionamiento de los Centros Docentes Públicos no universitarios dependientes del Departamento de Educación y Ciencia de la Administración de la Comunidad Autónoma de Aragón (BOA 23/08/00) dedica el Anexo III a los Centros Públicos de Educación de Personas Adultas.
 
@@ -47,6 +417,7 @@ Los Centros que tienen autorizada la Educación Secundaria de Personas Adultas s
 - Departamento de Enseñanzas Iniciales, Se integra el profesorado que imparta docencia en estas enseñanzas y en español para extranjeros.
 - Departamento de Actividades Complementarias y Extraescolares, que estará integrado por el Jefe del mismo y, para cada actividad concreta, por los profesores y alumnos responsables de la misma.
 
-## Para saber más
-
-[Orden de 2 de julio de 2008](orden_2_julio_2008_espa.pdf), de la Consejera de Educación, Cultura y Deporte, por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón.
+>**tip**
+>## Para saber más
+>
+>[Orden de 2 de julio de 2008](orden_2_julio_2008_espa.pdf), de la Consejera de Educación, Cultura y Deporte, por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón.

@@ -18,4 +18,4 @@ El CAPITULO II de instrumentos de actuación administrativa se refiere al Plan G
 
 ## Importante
 
-Texto completo de la [Ley de Educación Permanente en Aragón](Ley_EPA_Aragon.pdf).
+Texto completo de la [Ley de Educación Permanente en Aragón](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/Ley_EPA_Aragon.pdf).

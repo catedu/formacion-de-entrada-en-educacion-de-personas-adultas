@@ -33,9 +33,8 @@ Por ello, tendremos en cuenta las siguientes cuestiones:
 
  
 
-**Observa las siguientes actividades**: ¿**Qué conocimientos previos se necesitan para resolver las actividades? ¿A qué metodología responde cada una? ¿Qué tipo de conversaciones pueden generar en el aula?**
+**Observa las siguientes actividades**: *¿Qué conocimientos previos se necesitan para resolver las actividades? ¿A qué metodología responde cada una? ¿Qué tipo de conversaciones pueden generar en el aula?*
 
-**Haz clic en las imágenes para ampliarlas.**
+![Solbes, P y Morella, J (2006): Trueque - Manual de español para inmigrantes - Palma de Mallorca - Prensa Universitaria Pg 69](img/ejer23.jpg)
 
-![](img/ejer23.jpg)
-<td style="text-align: center;"> Solbes, P. y Morella, J. (2006): **Trueque. Manual de español para inmigrantes**. Palma de Mallorca. Prensa Universitaria. Pg. 69.</td><td style="text-align: center;"> Galvín, I., Llanos, C. y Montemayor, S. (2006): **Español como segunda lengua. Educación Secundaria**. Madrid. Santillana. Pg. 54.</td>
+![Galvín, I, Llanos, C y Montemayor, S (2006): Español como segunda lengua - Educación Secundaria - Madrid - Santillana - Pg - 54](img/tareas1.jpg)

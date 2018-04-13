@@ -1,13 +1,13 @@
 
 # Procesos del Sistema
 
-**Referidos a la documentación y a los registros**
+### Referidos a la documentación y a los registros
 
 - **Control de la documentación**: determina el tipo de plantilla a utilizar y cómo vamos a codificarse la documentación. Los principales tipos de documentos son los procedimientos, los formatos y las instrucciones técnicas.
 
 - **Control de los registros.** Registro es cualquier documento que se genera o se recibe en el centro. Un factura, una ficha de matrícula o un oficio son ejemplos de registros. Este procedimiento nos dice como trataremos los registros o documentación que se va generando. Dentro de este procedimiento es de suma importancia el formato F-1-02-01: Listado de registros. Este listado de registros recoge todos los tipos de registros del centro, su codificación, en qué formato, dónde y por cuánto tiempo se guardan. Es el resumen de toda la documentación administrativa del centro. Normalmente es el documento que el auditor te pedirá en primer lugar, porque resume muy bien la documentación administrativa del centro.
 
-**Referidos a la mejora continua**
+### Referidos a la mejora continua
 
 Estos procedimientos deben garantizar que nuestro SGC está inmerso en un proceso de mejora continua.
 
@@ -31,42 +31,39 @@ Hay un responsable de Sistema de Gestión de Calidad por centro y opcionalemnte 
 
 ## Importante
 
-**Tipos de documentación <br/>**
+##### Tipos de documentación
 
 **Procedimiento**: conjunto de tareas a realizar.
 
 Codificación: P-(nº de proceso)-(nº de procedimiento): nombre del procedimiento.
 
-Ejemplo: [P-4-02: Matrícula](P-4-02.doc). Conjunto de tareas que tenemos que realizar para matricular a un alumno.
+Ejemplo: [P-4-02: Matrícula](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/P-4-02.doc). Conjunto de tareas que tenemos que realizar para matricular a un alumno.
 
 **Formato**: plantilla para recoger información.
 
 Codificación: F-(nº de proceso)-(nº de procedimiento)-(nº de formato): nombre del formato.
 
-Ejemplo: [F-4-02-01: Ficha de matrícula](F-4-02-01.doc). Recoge la información del alumno necesaria para realizar su matrícula.
+Ejemplo: [F-4-02-01: Ficha de matrícula](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/F-4-02-01.doc). Recoge la información del alumno necesaria para realizar su matrícula.
 
 **Instrucción Técnica**: apartados o pasos a seguir para la realización de un documento.
 
 Codificación: IT-(nº de proceso)-(nº de procedimiento)-(nº de instrucción técnica): nombre de la instrucción técnica.
 
-Ejemplo: [IT-4-03-02: Contenido del Proyecto Educativo](IT-4-03-02.doc). Determina los apartados mínimos obligatorios que debe tener el Proyecto Educativo del Centro.
+Ejemplo: [IT-4-03-02: Contenido del Proyecto Educativo](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/IT-4-03-02.doc). Determina los apartados mínimos obligatorios que debe tener el Proyecto Educativo del Centro.
 
-## Para saber más
-
-Lee los siguientes documentos del Sistema de Gestión de Calidad de los Centros de EPA.
-
-[Política de Calidad](PC.pdf)
-
-[Objetivos e indicadores](ejemplo_objetivos_indicadores.doc)
-
- 
-
-## Para saber más
-
-**Listado de registros**
-
-El listado de registros es el listado resumen que recoge los tipos de registros del centro, en qué formato se guardan y dónde están. Por tanto, un auditor lo primero que pedirá al empezar la auditoría será el listado de registros. ¡Tenlo actualizado y preparado antes de la auditoría!
-
-[F-1-02-01: Listado de registros](F-1-02-01_listado_registors.doc)
+>**tip**
+>## Para saber más
+>
+>Lee los siguientes documentos del Sistema de Gestión de Calidad de los Centros de EPA.
+>
+>[Política de Calidad](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/PC.pdf)
+>
+>[Objetivos e indicadores](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/ejemplo_objetivos_indicadores.doc)
+>
+>##### Listado de registros
+>
+>El listado de registros es el listado resumen que recoge los tipos de registros del centro, en qué formato se guardan y dónde están. Por tanto, un auditor lo primero que pedirá al empezar la auditoría será el listado de registros. ¡Tenlo actualizado y preparado antes de la auditoría!
+>
+>[F-1-02-01: Listado de registros](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/F-1-02-01_listado_registors.doc)
 
  

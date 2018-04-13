@@ -3,8 +3,6 @@
 
 Los métodos utilizados en los contextos formativos para enseñar lenguas extranjeras han variado a lo largo del tiempo. Es conveniente conocerlos para ser conscientes de lo que hacemos en el aula y valorar qué metodología se ajusta mejor a las necesidades de nuestros alumnos.
 
- 
-
 **2.1. Los métodos estructuralistas**
 
 Los métodos estructuralistas entendían el aprendizaje de una nueva lengua como un camino recto en el que el alumno iba sumando uno tras otro los componentes del sistema lingüístico. Tenían como objetivo la enseñanza de estructuras que se introducían gradualmente según se entendía su nivel de dificultad. Las estructuras aparecían descontextualizadas y se priorizaba un conocimiento correcto de la gramática. La gramática se estudiaba por partes, concediendo gran importancia a la morfología (especialmente a los listados de formas verbales) y a la frase como unidad superior. El error era visto como algo negativo que se debía prevenir y evitar.
@@ -15,11 +13,7 @@ A pesar de ser métodos descartados en la enseñanza de lenguas extranjeras, hoy
 
 **Observa esta actividad:** **¿Se han contextualizado los diálogos? ¿Responden a un uso real del español?**
 
-**Haz clic sobre la imagen para ampliarla**
-
-![](img/conteste.jpg)
-<td style="text-align: center;">Sánchez, J. y García N. (2007):** Nuevo Español 2000**. **Nivel Elemental. **Madrid. SGEL. Pg. 13.[http://www.sgel.es/ele/ficheros/productos/downloads/UNIDAD_01_654_654_268.pdf](http://www.sgel.es/ele/ficheros/productos/downloads/UNIDAD_01_654_654_268.pdf)</td>
-
+![Sánchez, J y García N (2007: Nuevo Español 2000 Nivel Elemental - Madrid - SGEL Pg 13](img/conteste.jpg)
  
 
 **2.2. El enfoque comunicativo**
@@ -34,17 +28,9 @@ El enfoque comunicativo no proporciona un método único, coherente, ordenado, e
 
 **Observa estas actividades**: **¿Se han contextualizado los diálogos? ¿Responden a un uso real del español?**
 
-**<em>Haz clic sobre la imagen para ampliarla**</em>
+![Cerrolaza, M, Cerrolaza, O y Llovet, B (2002): Planet@ E/LE 1 Libro del alumno Madrid Edelsa Pg 39](img/dialogo.jpg)
 
-![](img/dialogo.jpg)
-<td style="text-align: center;">Cerrolaza, M., Cerrolaza, O. y Llovet, B. (2002):** Planet@ E/LE 1. Libro del alumno. **Madrid. Edelsa. Pg. 39.</td>
-
- 
-
-![](img/busca_piso.jpg)
-<td style="text-align: center;">Equipo Pragma (1988):** Para empezar B. Curso comunicativo de español para extranjeros. **Madrid. Edelsa. Pg. 175.</td>
-
- 
+![Equipo Pragma (1988): Para empezar B Curso comunicativo de español para extranjeros Madrid Edelsa Pg. 175](img/busca_piso.jpg)
 
 **2.3. La enseñanza mediante tareas y proyectos**
 
@@ -66,7 +52,7 @@ En cualquier caso, las tareas se caracterizan por los siguientes aspectos:
 
 Como podemos observar, las tareas permiten los requisitos que estipulaba Krashen como idóneos para que tuviera lugar la adquisición, por lo que resultarían adecuadas para todos los alumnos.
 
-Algunos ejemplos de tareas pueden ser: **escribir un mensaje por correo electrónico, debatir sobre un tema de actualidad, escribir un anuncio buscando piso, escuchar una canción, solicitar una cita médica, trazar un itinerario en un mapa, hacer el currículum vitae, etc.**
+Algunos ejemplos de tareas pueden ser: *escribir un mensaje por correo electrónico, debatir sobre un tema de actualidad, escribir un anuncio buscando piso, escuchar una canción, solicitar una cita médica, trazar un itinerario en un mapa, hacer el currículum vitae, etc.*
 
 Por su parte, los proyectos se diferencian de las tareas en que requieren mayor duración en el tiempo y son interdisciplinares, es decir, tienen la capacidad de globalizar varias materias, por ello se adecuan a una formación integral de la persona. Los proyectos suelen conformarse por una sucesión de tareas en torno a un mismo tema, en el que se profundiza. Son especialmente utilizados en etapas como la educación infantil y se muestran aconsejables en la educación de adultos. No obstante, requieren de cierta estabilidad del grupo meta para afianzar los objetivos.
 
@@ -74,9 +60,7 @@ Tanto si trabajamos por tareas como por proyectos, los alumnos tendrán que supe
 
 En conclusión, las tareas y los proyectos aportan un eje real que guía la programación y sobre el que se construyen aprendizajes lingüísticos y extralingüísticos significativos. Las conversaciones y los textos que se generen en clase para resolver las tareas tendrán un alto grado de imprevisibilidad, no se tratará de un discurso prefijado que haya que repetir e imitar, sino que serán producciones creativas, reales. La gramática cobrará aquí especial relevancia, pero no será un elemento aislado o descontextualizado, estará integrada en la propia tarea siendo esta la que reclamará su presencia en el momento oportuno y necesario. Todos los contenidos de la programación se encontrarán al servicio de la tarea y no a la inversa; es decir, serán las necesidades comunicativas implícitas en la tarea las que exigirán y pondrán en relación los contenidos sobre los que se podrá volver en otras ocasiones. De esta manera, cada tarea será diferente y supondrá nuevos retos para los alumnos, pero los contenidos lingüísticos girarán en una espiral recurrente, necesaria para adquirir una nueva lengua.
 
-**Observa esta actividad**: **¿Cómo es el diálogo que genera la actividad? ¿En qué se diferencia de los diálogos que hemos visto anteriormente?**
+**Observa esta actividad**: *¿Cómo es el diálogo que genera la actividad? ¿En qué se diferencia de los diálogos que hemos visto anteriormente?*
 
-**Haz clic sobre la imagen para ampliarla**
+![Martín, E y Sans N (2011): Gente 2 Libro del alumno Barcelona Difusión Pg 26](img/tareas.jpg)
 
-![](img/tareas.jpg)
-<td style="text-align: center;">Martín, E. y Sans N. (2011): **Gente 2. Libro del alumno**. Barcelona. Difusión. Pg. 26. [http://www.difusion.com/uploads/telechargements/catalogue/ele/gente/gente2_LA_muestra.pdf](http://www.difusion.com/uploads/telechargements/catalogue/ele/gente/gente2_LA_muestra.pdf)</td>

@@ -22,8 +22,9 @@ Como las necesidades educativas ya han quedado manifiesta con la matrícula de c
 - El Departamento de actividades extraescolares. Este Departamento es el encargado de coordinar los recursos existentes, elaborar una propuesta organizativa concreta y evaluar los resultados.
 - Los recursos humanos y materiales del entorno. Debemos aprovechar y usar los recursos del entorno, especialmente, los humanos. Hay muchas personas, principalmente mayores, dispuestas a compartir su conocimiento, sus experiencias. Ahora tiene el tiempo que en el pasado no tuvieron.
 
-## Importante1
-
-Ante la situación actual, podemos sumergirnos en el mar de la queja o bien abrir los ojos y ver las posibilidades existentes. Como gustaba decir a Paulo Freire:
-
-“**La cuestión está en cómo transformar las dificultades en posibilidades**"
+>**info**
+>## Importante
+>
+>Ante la situación actual, podemos sumergirnos en el mar de la queja o bien abrir los ojos y ver las posibilidades existentes. Como gustaba decir a Paulo Freire:
+>
+>“*La cuestión está en cómo transformar las dificultades en posibilidades*"

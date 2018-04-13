@@ -1,8 +1,6 @@
 
 # 3.2. Funciones del tutor
 
-## Contenidos2
-
 Como acabamos de ver anteriormente sea cual sea la modalidad en la que el alumno trabaje con AVE (presencial, semipresencial o distancia) el tutor deberá realizar unas funciones similares, si bien las dudas en el aula se resolverán en el momento y las dudas fuera de ella deberán ser resueltas vía e-mail.
 
 La labor del tutor en el AVE responde a la intención de atender las necesidades planteadas por los alumnos:
@@ -19,9 +17,7 @@ La labor del tutor en el AVE responde a la intención de atender las necesidades
 
 El tutor orienta, motiva, aconseja y lleva a cabo la evaluación.
 
-## Contenidos2
-
-**Orientación y motivación**
+### Orientación y motivación
 
 Sin duda, la orientación y motivación en todas las enseñanzas a distancia es indispensable para el aprendizaje con éxito del alumnado. Más aún si cabe en AVE es importante ya que en este caso somos tutores tanto de aula como del aprendizaje del alumno, por lo que somos responsables de todo el proceso de aprendizaje.
 
@@ -41,7 +37,7 @@ Sin duda, el mensaje de presentación del tutor/a no ha de ser el único momento
 
 De igual modo es muy importante escribir al alumno en aquellos casos en los que se ha detectado un largo periodo de inactividad con el fin de interesarnos por el alumno y motivarle en la continuidad de su aprendizaje, recordándole de nuevo que también estamos a su disposición en el aula.
 
-Estas son algunas r**ecomendaciones para la redacción de mensajes**:
+Estas son algunas **recomendaciones para la redacción de mensajes**:
 
 - Procurar que el trato sea lo menos distante posible.
 - Transmitir que el tutor está a disposición de los estudiantes.

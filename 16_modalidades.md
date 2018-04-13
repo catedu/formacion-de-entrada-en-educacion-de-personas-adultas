@@ -9,8 +9,9 @@ b) **Modalidad a distancia**: la oferta el IES José Manuel Blecua en un modelo 
 
 La modalidad a distancia tiene ventajas e inconvenientes. Por un lado, ha permitido que muchos alumnos hayan podido titular sin la posibilidad de asistir a clases presenciales, desde sus domicilios y, fundamentalmente, desde la zona rural. Por otra parte, es una modalidad que requiere de mayor esfuerzo y concentración, disponer de medios para su desarrollo y de una base formativa y de hábitos de estudio por parte del alumnado.
 
-## Importante
-
-Las pruebas libres para la obtención del título de Graduado en Educación Secundaria Obligatoria van dirigidas a personas mayores de 18 años que no posean esta titulación y no estén matriculados en esta epata educativa en enseñanza oficial. Las instrucciones que regulan el funcionamiento de los Centros permiten que una de las ofertas educativas vaya dirigida a la preparación de dicha prueba.
-
-## [PRUEBA LIBRE PARA LA OBTENCIÓN DEL TÍTULO DE GRADUADO EN EDUCACIÓN SECUNDARIA PARA MAYORES DE 18 AÑOS](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&amp;guiaeducativa=&amp;strSeccion=PPI04&amp;titpadre=Educaci%F3n+permanente&amp;arrpadres=$Pruebas+libres+y+de+acceso+para+personas+adultas&amp;arrides=$1228&amp;arridesvin=$&amp;lngArbol=1229&amp;lngArbolvinculado)
+>**info**
+>## Importante
+>
+>Las pruebas libres para la obtención del título de Graduado en Educación Secundaria Obligatoria van dirigidas a personas mayores de 18 años que no posean esta titulación y no estén matriculados en esta epata educativa en enseñanza oficial. Las instrucciones que regulan el funcionamiento de los Centros permiten que una de las ofertas educativas vaya dirigida a la preparación de dicha prueba.
+>
+>[PRUEBA LIBRE PARA LA OBTENCIÓN DEL TÍTULO DE GRADUADO EN EDUCACIÓN SECUNDARIA PARA MAYORES DE 18 AÑOS](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&amp;guiaeducativa=&amp;strSeccion=PPI04&amp;titpadre=Educaci%F3n+permanente&amp;arrpadres=$Pruebas+libres+y+de+acceso+para+personas+adultas&amp;arrides=$1228&amp;arridesvin=$&amp;lngArbol=1229&amp;lngArbolvinculado)

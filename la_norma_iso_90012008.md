@@ -7,10 +7,9 @@ Y eso, ¿qué supone en la práctica? El trabajo administrativo que se hace sigu
 
 La norma ISO 9001:2008 es bastante abstracta pero te adjuntamos el documento por si tienes interés de consultarla.
 
- 
-
-## Para saber más
-
-Puedes bajarte y consultar cuando lo necesites la [Norma ISO 9001:2008](iso9001_2008.pdf).
+>**tip**
+>## Para saber más
+>
+>Puedes bajarte y consultar cuando lo necesites la [Norma ISO 9001:2008](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/iso9001_2008.pdf).
 
  
