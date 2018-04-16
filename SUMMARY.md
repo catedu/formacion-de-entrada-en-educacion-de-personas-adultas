@@ -4,7 +4,7 @@
 
 ____
 ### 1. Marco institucional de la EPA 
-* [M1. Marco institucional de la EPA](index0.md)
+* [Marco institucional de la EPA](index0.md)
 * [U1. La EPA: fundamentación](u1_la_epa_fundamentacin.md)	
 	* [1.1. Concepto de adultez](11_concepto_de_adultez.md)
 	* [1.2. Conceptos básicos en EPA](12_conceptos_bsicos_en_epa.md)
@@ -38,8 +38,8 @@ ____
 	* [5.3. Instrucciones que regulan las pruebas libres y de acceso para personas adultas](53_instrucciones_que_regulan_las_pruebas_libres_y_de_acceso_para_personas_adultas.md)
 	* [Resumen](resumen5.md)
 
-### M2. Intervención en el aula | M2. Intervención en el aula 
-* [M2. Intervención en el aula](index1.md)
+### 2. Intervención en el aula 
+* [Intervención en el aula](index1.md)
 * [U1. El aprendizaje en la edad adulta](u1_el_aprendizaje_en_la_edad_adulta.md)
 	* [1.1. Concepto de aprendizaje](11_concepto_de_aprendizaje.md)
 	* [1.2. Fines del  Aprendizaje](12_fines_del__aprendizaje.md)
@@ -66,8 +66,8 @@ ____
 	* [5.3. Propuesta de actividades con aprendizaje cooperativo](53_propuesta_de_actividades_con_aprendizaje_cooperativo.md)
 	* [Resumen](resumen51.md)
 
-### M3. Enseñanzas FIPA y Competencias Clave | M3. Enseñanzas FIPA y módulos formativos N-2 
-* [M3. Enseñanzas FIPA y Competencias Clave](index2.md)
+### 3. Enseñanzas FIPA y módulos formativos N-2 
+* [Enseñanzas FIPA y Competencias Clave](index2.md)
 * [U1. Marco normativo](u1_marco_normativo.md)
 	* [Resumen](resumen2.md)
 	* [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
@@ -82,7 +82,7 @@ ____
 	* [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
 	* [Resumen](resumen42.md)
 ### M4. ESPA y acceso a la FP 
-* [M4. ESPA y acceso a la FP](index3.md)
+* [ESPA y acceso a la FP](index3.md)
 * [U1. La ESPA](u1_la_espa.md)
 	* [1.1. Concepto de adaptación](11_concepto_de_adaptacin.md)
 	* [1.2. Perfil sociológico del alumnado](12_perfil_sociolgico_del_alumnado.md)
@@ -96,8 +96,8 @@ ____
 	* [2.3. Perfil de los participantes](23_perfil_de_los_participantes.md)
 	* [2.4. El futuro próximo](24_el_futuro_prximo.md)
 
-### M5. Español como nueva lengua | M5. Español como nueva lengua 
-* [M5. Español como nueva lengua](index4.md)
+### 5. Español como nueva lengua 
+* [Español como nueva lengua](index4.md)
 * [U1. Explorando el terreno: las preguntas](u1_explorando_el_terreno_las_preguntas.md)
 	* [Contenidos](contenidos.md)
 	* [Resumen](resumenM5.md)
@@ -125,7 +125,7 @@ ____
 * [ANEXO](anexo.md)
 
 ### M6. Enseñanzas de promoción y extensión educativa 
-* [M6. Enseñanzas de promoción y extensión educativa](index5.md)
+* [Enseñanzas de promoción y extensión educativa](index5.md)
 * [1. Un poco de historia](1_un_poco_de_historia.md)
 * [2. Perfil del alumnado](2_perfil_del_alumnado.md)
 * [3. Contenido de los cursos](3_contenido_de_los_cursos.md)
@@ -134,7 +134,7 @@ ____
 
 
 ### M7.  Enseñanzas de la modalidad a distancia | M7.  Enseñanzas de la modalidad a distancia 
-* [M7.  Enseñanzas de la modalidad a distancia](index6.md)
+* [Enseñanzas de la modalidad a distancia](index6.md)
 * [U1. Aularagón y el Aula de Autoaprendizaje](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
 	* [Contenidos](contenidos6.md)
 	* [Resumen](resumen6.md)
@@ -151,7 +151,7 @@ ____
 	* [Resumen](resumen36.md)
 
 ### M8: El Sistema de Gestión de Calidad de los Centros de EPA 
-* [M8: El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
+* [El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
 * [La Norma ISO 9001:2008](la_norma_iso_90012008.md)
 * [Manual de Calidad](manual_de_calidad.md)
 	* [Alcance](alcance.md)
