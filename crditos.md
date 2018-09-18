@@ -2,6 +2,7 @@
 
 {% for item in book.authors %}
 Versión actualizada octubre de 2018
+porqué
 Etcétera... 
 
 
