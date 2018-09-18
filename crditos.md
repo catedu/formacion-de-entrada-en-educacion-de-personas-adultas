@@ -2,8 +2,6 @@
 
 {% for item in book.authors %}
 Versión actualizada octubre de 2018
-porqué
-Etcétera... 
 
 
 1. {{item.title}}: {{item.name}}
