@@ -4,7 +4,6 @@
 Versión actualizada octubre de 2018
 
 1. {{item.title}}: {{item.name}}
-Versión actualizada octubre de 2018
 
 {% endfor %}
 
