@@ -31,7 +31,6 @@
   * [4.4. Ley Orgánica de las Cualificaciones y de la Formación Profesional](44_ley_orgnica_de_las_cualificaciones_y_de_la_formacin_profesional.md)
   * [4.5. Otra normativa básica](45_otra_normativa_bsica.md)
   * [Resumen](resumen4.md)
-  * [Actividad](actividad3.md)
 * [U5. Instrucciones de funcionamiento](u5_instrucciones_de_funcionamiento.md)
   * [5.1. Instrucciones que regulan la organización y funcionamiento de los Centros de Personas Adultas](51_instrucciones_que_regulan_la_organizacin_y_funcionamiento_de_los_centros_de_personas_adultas.md)
   * [5.2. Instrucciones relacionadas con la formación para el empleo](52_instrucciones_relacionadas_con_la_formacin_para_el_empleo.md)
