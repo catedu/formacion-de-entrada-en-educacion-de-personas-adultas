@@ -1,8 +1,10 @@
 # M8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
-## Introducción. ¿Qué es un Sistema de Gestión de Calidad?
+## Introducción.
 
-El sistema de gestión que nos ayuda a mejorar los procesos de la organización y la prestación del servicio con el fin de satisfacer las necesidades educativas del alumnado.
+¿Qué es un Sistema de Gestión de Calidad?
+
+Es el sistema de gestión que nos ayuda a mejorar los procesos de la organización y la prestación del servicio con el fin de satisfacer las necesidades educativas del alumnado.
 
 Analicemos las partes de la definición:
 
@@ -34,9 +36,9 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
 ## Contenidos
 
-* ~~**Unidad 1. Aularagón** \(_2 horas teoría + 1 tareas prácticas_\): Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.~~
+* **Unidad 1. Manual de Calidad **\(2_ horas teoría + 1 tareas prácticas_\): Procesos básicos. Formatos y Registros.
 
-* ~~**Unidad 2. Aula Mentor** \(_1'5 horas teoría + 1 tareas prácticas_\): Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.~~
+* **Unidad 2. Aula Mentor** \(_1'5 horas teoría + 1 tareas prácticas_\): Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
 
 * ~~**Unidad 3. Aula Virtual de Español** \(_1'5 horas teoría + 1 tareas prácticas_\): Prueba VIA, aula virtual y administración, modalidades presencial, semipresencial y distancia, orientación y motivación.~~
 
