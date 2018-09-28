@@ -28,7 +28,7 @@ El Marco de Acción Belem hace hincapié en la necesidad de reforzar la cooperac
 >
 > Conoce la VI Conferencia Internacional de Educación de Adultos celebrada en Belem \(Brasil\) en 2009.
 >
-> * [VI Conferencia Internacional de Educación de Adultos](https://www.google.es/search?q=conferencia+internacional+de+educacion+de+adultos&amp;rlz=1C1GIGM_enES792ES794&amp;oq=con&amp;aqs=chrome.0.69i59j69i57j69i60l2j0j35i39.2845j0j8&amp;sourceid=chrome&amp;ie=UTF-8)
+> * [VI Conferencia Internacional de Educación de Adultos](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/CONFITEA%20VI%20revisión%202017.pdf)
 
 ### 2.2. La Organización de Cooperación y Desarrollo Económico \(OCDE\)
 
