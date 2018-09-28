@@ -156,13 +156,10 @@
 
 * [El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
 * [U1. Manual de Calidad](manual_de_calidad.md)
-  * [Alcance](alcance.md)
-  * [Mapa de procesos](mapa_de_procesos.md)
-    * [Procesos del Sistema](procesos_del_sistema.md)
-    * [Procesos de Mejora](procesos_de_mejora.md)
-    * [Procesos Clave](procesos_clave.md)
-    * [Procesos de Apoyo](procesos_de_apoyo.md)
-* [Satisfacción del cliente](satisfaccin_del_cliente.md)
+* [U2. Procesos de mejora](u2-procesos-de-mejora.md)
+  * [Objetivos e indicadores](objetivos-e-indicadores.md)
+  * [Encuestas de satisfacción](satisfaccin_del_cliente.md)
+* [Alcance](alcance.md)
 * [Calidocs](calidocs.md)
 * [Créditos](crditos.md)
 
