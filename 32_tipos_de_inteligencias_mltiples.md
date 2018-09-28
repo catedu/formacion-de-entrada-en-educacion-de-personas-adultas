@@ -3,7 +3,7 @@
 
 ### INTELIGENCIA. TEORÍA DE LAS INTELIGENCIAS MÚLTIPLES DE H. GARDNER (1983)
 
-**Inteligencia es** la capacidad para resolver [problemas](http://www.monografias.com/trabajos15/calidad-serv/calidad-serv.shtml#PLANT) cotidianos, para generar nuevos problemas, para crear [productos](http://www.monografias.com/trabajos12/elproduc/elproduc.shtml) o para ofrecer [servicios](http://www.monografias.com/trabajos14/verific-servicios/verific-servicios.shtml) dentro del propio ámbito cultural.
+**Inteligencia es** la capacidad para resolver problemas cotidianos, para generar nuevos problemas, para crear productos o para ofrecer servicios dentro del propio ámbito cultural.
 
 Al definir la inteligencia como una capacidad, Gardner la convierte en una destreza que se puede desarrollar. No niega el componente genético: todos nacemos con unas potencialidades marcadas por la genética; estas potencialidades se van a desarrollar de una manera u otra dependiendo del medio ambiente, nuestras experiencias, la educación recibida, etc.
 

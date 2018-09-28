@@ -1,7 +1,5 @@
 
-# Resumen
-
-## Curiosidad 
+# Resumen 
 
 En [esta presentación](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_5/resumen_unidad_3.pdf) encontrarás un resumen de contenidos de la segunda unidad. Haz clic sobre la imagen.
 

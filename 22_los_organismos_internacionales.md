@@ -84,7 +84,7 @@ Otros agentes intervinientes en EPA son Asociaciones sin ánimo de lucro, Organi
 >
 > ## Para saber más
 >
-> Hoy en la educación permanente participan distintos agentes; lee, para ampliar tus conocimientos, el punto 1.2. pág. 184, del Anuario de Pedagogía “[Siete principios, siete destinatarios y siete recursos de la educación permanente](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/PLAN_GENERAL_EPA_2010-13.pdf)”.
+> Hoy en la educación permanente participan distintos agentes; lee, para ampliar tus conocimientos, el punto 1.2. pág. 184, del Anuario de Pedagogía “[Siete principios, siete destinatarios y siete recursos de la educación permanente](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/siete_principios.pdf)”.
 
 ## 
 

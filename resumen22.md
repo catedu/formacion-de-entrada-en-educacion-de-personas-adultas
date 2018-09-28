@@ -8,7 +8,7 @@ En esta unidad hemos esbozado la heterogeneidad de las personas que integran los
 >
 >Un concepto a considerar en el aprendizaje adulto es la denominada Inteligencia cristalizada. Te invitamos a que indagues en Internet sobre esta teoría de la inteligencia y reflexiones sobre las repercusiones que tiene en el aprendizaje de la persona adulta.
 >
->La Fundación Secretariado General Gitano dispone de la web [http://www.gitanos.org](http://www.gitanos.org/upload/18/89/21Dossier.pdf) que te puede aportar una visión desde dentro de esta cultura. Es interesante además su centro de documentación electrónico. Entre los documentos te seleccionamos éste:
+>La Fundación Secretariado General Gitano dispone de la web [https://www.gitanos.org/](https://www.gitanos.org/) que te puede aportar una visión desde dentro de esta cultura. Es interesante además su centro de documentación electrónico. Entre los documentos te seleccionamos éste:
 >
 >![Dossier educación](img/Dossier_Educacion.JPG)
 >

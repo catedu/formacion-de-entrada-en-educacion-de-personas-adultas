@@ -420,4 +420,4 @@ Los Centros que tienen autorizada la Educación Secundaria de Personas Adultas s
 >**tip**
 >## Para saber más
 >
->[Orden de 2 de julio de 2008](orden_2_julio_2008_espa.pdf), de la Consejera de Educación, Cultura y Deporte, por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón.
+>[Orden de 2 de julio de 2008](http://www.educaragon.org/arboles/arbol.asp?sepRuta=&guiaeducativa=&strSeccion=A1A36&titpadre=Desarrollo+de+Ense%F1anzas&arrpadres=$Educaci%F3n+Secundaria+Obligatoria&arrides=$1161&arridesvin=$&lngArbol=1925&lngArbolvinculado), de la Consejera de Educación, Cultura y Deporte, por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón.

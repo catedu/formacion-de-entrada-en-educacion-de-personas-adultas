@@ -98,5 +98,5 @@ c) Haber superado la prueba de acceso a ciclos formativos de grado superior o la
 >**info**
 >## Importante
 >
->Es importante que leas el punto 3.1. (pag. 7) de las [Instrucciones que regulan el curso 2016-17 en lo referido a los Cursos de preparación para accesos a Ciclos Formativos](http://aularagon.catedu.es/materialesaularagon2013/fepa/Instrucciones%20EPAs%202016-17.pdf).
+>Es importante que accedas a la página de Educaragón siempre que necesites consultar aspectos relacionados con los [CURSOS DE PREPARACIÓN A LAS PRUEBAS DE ACCESO A F.P.](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&guiaeducativa=&strSeccion=PPI04&titpadre=Educaci%F3n+permanente&arrpadres=$Pruebas+libres+y+de+acceso+para+personas+adultas&arrides=$1228&arridesvin=$&lngArbol=2104&lngArbolvinculado) y las [PRUEBAS ACCESO A FORMACIÓN PROFESIONAL](http://fp.educaragon.org/arboles/arbol.asp?sepRuta=&guiaeducativa=&strSeccion=SFP02&titpadre=Orientaci%F3n&arrpadres=&arrides=&arridesvin=&lngArbol=1408&lngArbolvinculado).
 

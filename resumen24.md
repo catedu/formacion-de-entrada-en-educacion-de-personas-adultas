@@ -1,8 +1,6 @@
 
 # Resumen
 
-## Curiosidad 
-
 En [esta presentación](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_5/resumen_unidad_2.pdf) encontrarás un resumen de contenidos de la segunda unidad. Haz clic sobre la imagen.
 
 >**tip**
@@ -34,5 +32,5 @@ En [esta presentación](http://aularagon.catedu.es/materialesaularagon2013/fepa/
 >
 >Las editoriales ofrecen material de muestra que puede descargarse gratuitamente desde sus páginas web. Aquí tienes algunos enlaces:
 >
->- [http://www.difusion.com/ele/ideas-y-recursos/ ](http://www.difusion.com/ele/ideas-y-recursos/%20)
->- [http://www.santillanaele.com/web/index.php?recursos_es](http://www.santillanaele.com/web/index.php?recursos_es)
+>- [https://www.difusion.com/metodos/adultos](https://www.difusion.com/metodos/adultos)
+>- [http://www.santillanaele.com/](http://www.santillanaele.com/)

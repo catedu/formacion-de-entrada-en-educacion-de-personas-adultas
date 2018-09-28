@@ -70,7 +70,7 @@
 
 * [Enseñanzas FIPA y Competencias Clave](index2.md)
 * [U1. Marco normativo](u1_marco_normativo.md)
-  * [Resumen](resumen2.md)
+  * [Resumen](resumen3u1.md)
   * [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
 * [U2. Características del alumnado](u2_caractersticas_del_alumnado.md)
   * [Resumen](resumen22.md)

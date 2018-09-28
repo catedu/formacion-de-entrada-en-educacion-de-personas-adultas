@@ -1,4 +1,3 @@
-### Curiosidad
 
 En [esta presentación](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_5/resumen_unidad_1_revisado.pdf) encontrarás un resumen de contenidos de la primera unidad. Haz clic sobre la imagen.
 

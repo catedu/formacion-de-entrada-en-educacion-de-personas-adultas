@@ -39,6 +39,6 @@ Entra en el foro y reflexiona, expresando tu opinión acerca de cuál o cuáles 
 
 ## Para saber más
 
-[EDUCACION FORMAL Y NO FORMAL](526576697369c3b36e5f64656c5f436f6e636570746f5f64655f4564754e6f466f726d616c5f2d.pdf)
+[EDUCACION FORMAL Y NO FORMAL](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_2/526576697369c3b36e5f64656c5f436f6e636570746f5f64655f4564754e6f466f726d616c5f2d.pdf)
 
 ![flickr](img/no_formal.jpeg)
