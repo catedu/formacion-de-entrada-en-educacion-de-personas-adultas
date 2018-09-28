@@ -1,4 +1,3 @@
-
 # U2. El proyecto Mentor
 
 ## Importante
@@ -21,22 +20,24 @@ Los objetivos de Aula Mentor se centran en proporcionar una alternativa en mater
 
 Entre las principales señas de identidad de esta iniciativa destacan:
 
-- La flexibilidad del sistema que beneficia a todos los participantes.
-- La red de infraestructuras físicas denominadas aulas Mentor que supera las 450 y al frente de las cuales se encuentra un administrador que asesora, orienta, informa y matricula al alumno.
-- La variedad de su oferta formativa. Superior a los 150 cursos y en permanente crecimiento y actualización.
-- La existencia de exámenes presenciales que permiten valorar el grado de aprovechamiento del curso, garantizando a su vez la identidad del alumno que realiza la prueba. Superar esta prueba da derecho a un certificado de aprovechamiento emitido por el Ministerio de Educación. Es importante destacar que **este certificado NO es un título oficial** y por lo tanto su reconocimiento es responsabilidad de la institución u organismo en el que se pueda presentar como mérito.
+* La flexibilidad del sistema que beneficia a todos los participantes.
+* La red de infraestructuras físicas denominadas aulas Mentor que supera las 450 y al frente de las cuales se encuentra un administrador que asesora, orienta, informa y matricula al alumno.
+* La variedad de su oferta formativa. Superior a los 150 cursos y en permanente crecimiento y actualización.
+* La existencia de exámenes presenciales que permiten valorar el grado de aprovechamiento del curso, garantizando a su vez la identidad del alumno que realiza la prueba. Superar esta prueba da derecho a un certificado de aprovechamiento emitido por el Ministerio de Educación. Es importante destacar que **este certificado NO es un título oficial** y por lo tanto su reconocimiento es responsabilidad de la institución u organismo en el que se pueda presentar como mérito.
 
 Con objeto de dotar a esta iniciativa de un cierto grado de sostenibilidad económica, **Aula Mentor NO es un sistema gratuito de formación**, pero su reducido coste lo hace accesible a la mayor parte de la población.
 
 El reconocimiento internacional de Aula Mentorse refleja en la participación de diversos países latinoamericanos así como por haber sido reconocida como una de las 14 buenas prácticas en el Inventario de la Unión Europea a través de un estudio dirigido por la Universidad de Florencia.
 
-En Aragón tenemos cada curso escolar un total de más de 2400 matrículas lo que refleja la importancia de esta oferta formativa. Consulta los documentos [**matricula_aulas_Mentor_2011_12**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/matricula_aulas_Mentor_2011_12.pdf) y [**matricula_aulas_Mentor_2012**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/matricula_aulas_Mentor_2012.pdf).
+En Aragón tenemos cada curso escolar un total de más de 2400 matrículas lo que refleja la importancia de esta oferta formativa. Consulta los documentos [**matricula\_aulas\_Mentor\_2011\_12**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/matricula_aulas_Mentor_2011_12.pdf) y [**matricula\_aulas\_Mentor\_2012**](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/matricula_aulas_Mentor_2012.pdf).
 
 La plataforma de Aula Mentor no dispone de un usuario genérico por lo que se incluyen videos que puedes obviar si ya conoces su funcionamiento.
 
->**tip**
->## Para saber más
+> **tip**
 >
-> El Ministerio de Educación ha abierto un procedimiento para realizar matrículas al amparo de la convocatoria de formación del profesorado, por la que una serie de cursos tendrán ese reconocimiento. Tenéis más información en el siguiente [enlace](http://aularagon.catedu.es/materialesaularagon2013/fepa/Proceso_Matricula_Mentor_Formación_Profesores.pdf).
+> ## Para saber más
+>
+> El Ministerio de Educación ha abierto un procedimiento para realizar matrículas al amparo de la convocatoria de formación del profesorado, por la que una serie de cursos tendrán ese reconocimiento. Tenéis más información en el siguiente [enlace](http://aularagon.catedu.es/materialesaularagon2013/fepa/Proceso_Matricula_Mentor_Formación_Profesores.pdf).
+
 
 
