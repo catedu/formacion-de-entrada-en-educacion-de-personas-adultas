@@ -162,7 +162,11 @@
   * [Planificación, seguimiento y evaluación](planificacion-seguimiento-y-evaluacion.md)
   * [Política de Calidad y Comité de Calidad](politica-de-calidad-y-comite-de-calidad.md)
   * [Auditorías. No conformidades, acciones correctivas preventivas y de mejora](auditorias-no-conformidades-acciones-correctivas-preventivas-y-de-mejora.md)
-* [Alcance](alcance.md)
+* [U3. Procesos de prestación del servicio](alcance.md)
+  * [Oferta educativa](alcance/oferta-educativa.md)
+  * [Admisión y matrícula](alcance/admision-y-matricula.md)
+  * Formación
+* [U4. Procesos de apoyo](u3-procesos-de-prestacion-del-servicio.md)
 * [Calidocs](calidocs.md)
 * [Créditos](crditos.md)
 
