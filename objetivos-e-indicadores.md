@@ -2,7 +2,7 @@
 
 ### Objetivos
 
-Los objetivos deben dirigir a la mejora educativa, tienen que ser definidos de forma concreta, plantear actividades \(acciones\) para alcanzarlos y establecer indicadores para que se pueda medir su logro.
+Los objetivos deben dirigir a la mejora educativa, tienen que ser definidos de forma concreta, plantear actividades \(acciones\) para alcanzarlos y establecer indicadores que oermitan medir su logro.
 
 Estos objetivos se definen cada curso escolar, si bien algunos objetivos pueden perdurar en el tiempo más de un curso si se estima oportuno. Existen objetivos comunes a todos los CPEPA, establecidos por el Comité de Calidad, y objetivos específicos de cada centro.
 
@@ -18,11 +18,19 @@ b\) Febrero. Se examinan las actividades realizadas y se realiza el seguimiento 
 
 c\) Junio. Se comprueba y actualiza la consecución de las actividades y se realiza el seguimiento definitivo de cada uno de los objetivos, verificando en qué medida se han alcanzado.
 
-
-
 ### Indicadores
 
-Los indicadores ofrecen información de aspectos relacionados con los procesos del Sistema de Gestión de Calidad, son los mismso para todos los centros y son definidos por el Comité de Calidad.
+Los indicadores ofrecen información de aspectos relacionados con los procesos del Sistema de Gestión de Calidad, son los mismos para todos los centros y son definidos por el Comité de Calidad.
+
+De nuevo nos encontramos con tres importantes periodos:
+
+d\) Septiembre-octubre. El Comité de Calidad revisa los indicadores.
+
+e\) Febrero. Primer seguimiento de los indicadores.
+
+f\) Junio. Seguimiento definitivo de los indicadores.
+
+
 
 **info**
 
