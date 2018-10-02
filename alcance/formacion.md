@@ -22,11 +22,9 @@ Para impartir los cursos en modalidad semipresencial es requisito indispensable 
 
 ### Certificados de Profesionalidad
 
+Los Certificados de Profesionalidad son una importante oferta educativa enfocada directamente al mundo laboral, es una acreditación oficial que certifica que la persona que lo posee tiene los conocimientos y las habilidades para desarrollar una actividad laboral determinada. Tienen carácter oficial y validez en todo el territorio nacional, y son expedidos en Aragón por el Instituto Aragonés de Empleo, por lo que es preciso seguir, además de los procedimientos establecidos de forma general, los determinados por la normativa del INAEM.
 
-
-
-
-
+Los CPEPA que desean ofertar estas enseñanzas solicitan a los servicios centrales, a través de la aplicación Gacepa, los cursos que pretenden llevar a cabo al curso siguiente.
 
 **info**
 
