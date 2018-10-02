@@ -22,7 +22,7 @@ i\) Cursos de Promoción y Extensión Educativa y Cursos de Formación para el E
 
 Quizás tu centro no imparta todas estas enseñanzas, pero seguro que todas las enseñanzas que tu centro imparte están aquí relacionadas.
 
-El Departamento de Educación, Cultura y Deporte autorizará cada curso académico, entre estas enseñanzas, las que puede impartir cada uno de los CPEPA, en función de sus recursos humanos y materiales. Asimismo, cada CPEPA, concretará su oferta educativa en la PGA en función de las necesidades detectadas, las prioridades establecidas por el Departamento de Educación, Cultura y Deporte para ese curso y sus posibilidades materiales y organizativas.
+El Departamento de Educación, Cultura y Deporte autorizará cada curso académico, entre estas enseñanzas, las que puede impartir cada uno de los CPEPA, en función de sus recursos humanos y materiales. Asimismo, cada CPEPA concretará su oferta educativa en la PGA en función de las necesidades detectadas, las prioridades establecidas por el Departamento de Educación, Cultura y Deporte para ese curso y sus posibilidades materiales y organizativas.
 
 La concreción final de la oferta de un curso quedará recogida en el Documento de Organización del Centro \(DOC\) que se genera con la aplicación Gacepa.
 

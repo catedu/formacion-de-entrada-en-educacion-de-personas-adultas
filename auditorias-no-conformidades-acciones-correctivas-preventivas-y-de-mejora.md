@@ -10,9 +10,9 @@ b\) Auditorías externas. El equipo auditor estará formado por, al menos, tres 
 
 Como resultado de la auditoría externa el/la auditor/a jefe/a emitirá un informe en el que se destacarán los aspectos positivos, oportunidades de mejora y no conformidades, si las hubiera.
 
-Las no conformidades son una desviación o incumplimiento de algún aspecto del SGC. Podrán ser detectadas por la persona responsable de calidad del CPEPA o por la Dirección General de Innovación, Equidad y Participación durante el proceso de las auditorías, sin embargo, es importante reseñar que no son algo exclusivo de las auditorías, sino que podrán ser abiertas por cualquier miembro de la comunidad educativa.
+Las no conformidades son una desviación o incumplimiento de algún aspecto del SGC. Podrán ser detectadas por la persona responsable de calidad del CPEPA o por la Dirección General de Innovación, Equidad y Participación durante el proceso de las auditorías; sin embargo, es importante reseñar que no son algo exclusivo de las auditorías, sino que podrán ser abiertas por cualquier miembro de la comunidad educativa.
 
-Las no conformiades suponen:
+Las no conformidades suponen:
 
 a\) Acción correctiva para corregir la desviación o incumplimiento, si es posible.
 

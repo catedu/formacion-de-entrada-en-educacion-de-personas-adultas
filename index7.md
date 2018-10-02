@@ -24,7 +24,7 @@ Hacer mejor las cosas para cubrir las necesidades educativas de la población ad
 
 La realización de las **tareas obligatorias** te ayudará a conseguir los objetivos del módulo y asimilar sus contenidos. Podrás ampliar la información en la sección “para saber más”.
 
-La realización de las tareas obligatorias te posibilitará acceder a los **test de evaluación** que te permitirán superar el módulo.
+La realización de las tareas obligatorias te posibilitará acceder a los **tests de evaluación** que te permitirán superar el módulo.
 
 ## Objetivos
 
@@ -36,11 +36,13 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
 ## Contenidos
 
-* **Unidad 1. Manual de Calidad **\(2_ horas teoría + 1 tareas prácticas_\): Procesos básicos. Formatos y Registros.
+* **Unidad 1. Manual de Calidad:** Procesos básicos. Formatos y Registros. Almacenamiento y difusión.
 
-* **Unidad 2. Aula Mentor** \(_1'5 horas teoría + 1 tareas prácticas_\): Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
+* **Unidad 2. Procesos de mejora: **Objetivos e indicadores. Encuestas de satisfacción. Planificación, seguimiento y evaluación. Política de Calidad y Comité de Calidad. Auditorías, no conformidades
 
-* ~~**Unidad 3. Aula Virtual de Español** \(_1'5 horas teoría + 1 tareas prácticas_\): Prueba VIA, aula virtual y administración, modalidades presencial, semipresencial y distancia, orientación y motivación.~~
+* **Unidad 3. Procesos de prestación del servicio: **Oferta educativa. Admisión y matrícula. Formación. Documentación y extraescolares.
+
+* **Unidad 4. Procesos de apoyo.**
 
 
 

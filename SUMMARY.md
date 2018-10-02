@@ -156,6 +156,7 @@
 
 * [El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
 * [U1. Manual de Calidad](manual_de_calidad.md)
+  * [Almacenamiento y difusión de formatos](calidocs.md)
 * [U2. Procesos de mejora](u2-procesos-de-mejora.md)
   * [Objetivos e indicadores](objetivos-e-indicadores.md)
   * [Encuestas de satisfacción](satisfaccin_del_cliente.md)
@@ -166,7 +167,7 @@
   * [Oferta educativa](alcance/oferta-educativa.md)
   * [Admisión y matrícula](alcance/admision-y-matricula.md)
   * [Formación](alcance/formacion.md)
+  * [Documentación y extraescolares](alcance/documentacion-y-extraescolares.md)
 * [U4. Procesos de apoyo](u3-procesos-de-prestacion-del-servicio.md)
-* [Calidocs](calidocs.md)
 * [Créditos](crditos.md)
 

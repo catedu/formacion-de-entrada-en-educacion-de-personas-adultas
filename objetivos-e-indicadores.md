@@ -2,7 +2,7 @@
 
 ### Objetivos
 
-Los objetivos deben dirigir a la mejora educativa, tienen que ser definidos de forma concreta, plantear actividades \(acciones\) para alcanzarlos y establecer indicadores que oermitan medir su logro.
+Los objetivos deben dirigir a la mejora educativa, tienen que ser definidos de forma concreta, plantear actividades \(acciones\) para alcanzarlos y establecer indicadores que permitan medir su logro.
 
 Estos objetivos se definen cada curso escolar, si bien algunos objetivos pueden perdurar en el tiempo más de un curso si se estima oportuno. Existen objetivos comunes a todos los CPEPA, establecidos por el Comité de Calidad, y objetivos específicos de cada centro.
 
@@ -29,8 +29,6 @@ d\) Septiembre-octubre. El Comité de Calidad revisa los indicadores.
 e\) Febrero. Primer seguimiento de los indicadores.
 
 f\) Junio. Seguimiento definitivo de los indicadores.
-
-
 
 **info**
 
