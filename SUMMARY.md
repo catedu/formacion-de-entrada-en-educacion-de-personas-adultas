@@ -165,7 +165,7 @@
 * [U3. Procesos de prestación del servicio](alcance.md)
   * [Oferta educativa](alcance/oferta-educativa.md)
   * [Admisión y matrícula](alcance/admision-y-matricula.md)
-  * Formación
+  * [Formación](alcance/formacion.md)
 * [U4. Procesos de apoyo](u3-procesos-de-prestacion-del-servicio.md)
 * [Calidocs](calidocs.md)
 * [Créditos](crditos.md)
