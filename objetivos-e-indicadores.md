@@ -30,7 +30,7 @@ e\) Febrero. Primer seguimiento de los indicadores.
 
 f\) Junio. Seguimiento definitivo de los indicadores.
 
-**info**
+---
 
 > ## Importante
 >
