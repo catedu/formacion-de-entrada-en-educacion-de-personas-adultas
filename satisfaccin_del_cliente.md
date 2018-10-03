@@ -17,9 +17,7 @@ De forma general, los cuestionarios se pasan en la primera quincena de diciembre
 
 La aplicación y procesamiento de los datos del cuestionario se hace con la aplicación informática Encuesta 2.0.
 
-
-
-> **info**
+> ---
 >
 > ## Importante
 >
