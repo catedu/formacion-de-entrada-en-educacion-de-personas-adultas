@@ -11,7 +11,7 @@ Los órganos colegiados de los CPEPA son:
 
 Las actividades complementarias y extraescolares deberán contar con una programación anual, elaborada por el Departamento correspondiente o los Equipos Docentes, que quedará incluida en la PGA del CPEPA. Al realizar una actividad complementaria o extraescolar, la persona responsable de la misma, realizará un seguimiento y evaluación de la actividad utilizando el formato F.2.6.1.
 
-**info**
+---
 
 > ## Importante
 >
