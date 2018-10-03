@@ -20,7 +20,7 @@ El Comité de Calidad se reunirá, al menos, una vez al año y sus funciones ser
 * Establecer los objetivos comunes de cada curso escolar y las preguntas comunes de las encuestas de satisfacción.
 * Cualquier otra medida para garantizar el mantenimiento y mejora del Sistema de Gestión de Calidad.
 
-**info**
+---
 
 > ## Importante
 >
