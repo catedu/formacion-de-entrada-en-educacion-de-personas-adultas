@@ -8,8 +8,8 @@ El Sistema de Gestión de Calidad requiere que los formatos utilizados estén di
 
 En la actualidad la aplicación Calidocs es de carácter voluntario pues algunos CPEPA han optado por otros medios de almacenamiento y difusión, Calidocs sigue estando disponible pues otros CPEPA la continúan utilizando.
 
-> Info
->
+---
+
 > ## Importante
 >
 > Calidocs no es de uso obligatorio, muchos CPEPA utilizan otros servicios de alojamiento y difusión como Google Drive, OneDrive, Dropbox u otros. Lo que sí es imprescindible es que todas las personas que requieren un formato tengan siempre accesible la versión actualizada del mismo.
