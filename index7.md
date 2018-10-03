@@ -1,6 +1,6 @@
 # M8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
-## Introducción.
+## Introducción
 
 ¿Qué es un Sistema de Gestión de Calidad?
 
