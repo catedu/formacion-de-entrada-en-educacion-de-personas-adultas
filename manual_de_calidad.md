@@ -6,14 +6,14 @@ Es el documento en donde, de manera detallada, se recogen los documentos y proto
 
 Conviene reseñar que los formatos que se reflejan en él son los mínimos, comunes para todos los CPEPA de Aragón, si bien cada CPEPA tiene libertad para disponer de aquellos formatos extra que estime necesarios. Por ejemplo, la ficha de matrícula, cuyo formato es F.2.3.2. es obligatoria para todos los centros, pero algunos centros utilizan también por organización propia del centro la Ficha de cursos cuyo formato sería F.2.3.X \(proceso de prestación del servicio en relación con matrícula\).
 
-Un formato, como se ha asimilado anteriormente, sería como la \_plantilla \_que utilizamos para gestionar un proceso, dicho formato, una vez realizado el proceso \(rellenar la ficha de matrícula\) pasará a convertirse en un **Registro**. Volviendo a los ejemplos anteriores, el formato F.2.3.2. Ficha de matrícula generará un registro por cada alumno matriculado y, en el supuesto de que el centro también utilice un formato para la ficha de cursos, se generará un registro por cada curso.
+Un formato, como se ha asimilado anteriormente, sería como la _plantilla _que utilizamos para gestionar un proceso, dicho formato, una vez realizado el proceso \(rellenar la ficha de matrícula\) pasará a convertirse en un **registro**. Volviendo a los ejemplos anteriores, el formato F.2.3.2. Ficha de matrícula generará un registro por cada alumno matriculado y, en el supuesto de que el centro también utilice un formato para la ficha de cursos, se generará un registro por cada curso.
 
 Observarás que en el Manual de Calidad y a lo largo de este módulo hablaremos con frecuencia de dos órganos competentes que a su vez desarrollan dos niveles de ejecución. Éstos son:
 
 * Comité de Calidad: órgano colegiado responsable del Sistema de Gestión de Calidad general.
 * Responsable de Calidad de cada CPEPA, que trabajará en estrecha colaboración con el Equipo directivo, se ocupará de la implantación y mantenimiento del Sistema de Gestión de Calidad en su CPEPA.
 
------------
+---
 
 > ## Importante
 >
