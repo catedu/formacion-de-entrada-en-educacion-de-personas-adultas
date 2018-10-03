@@ -26,7 +26,7 @@ Los Certificados de Profesionalidad son una importante oferta educativa enfocada
 
 Los CPEPA que desean ofertar estas enseñanzas solicitan a los servicios centrales, a través de la aplicación Gacepa, los cursos que pretenden llevar a cabo al curso siguiente.
 
-**info**
+---
 
 > ## Importante
 >

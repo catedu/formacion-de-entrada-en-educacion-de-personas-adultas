@@ -28,7 +28,7 @@ La concreción final de la oferta de un curso quedará recogida en el Documento 
 
 ---
 
-##  Importante
+>##  Importante
 
 > Quizás tu centro no imparta todas estas enseñanzas, pero seguro que todas las enseñanzas que tu centro imparte están aquí relacionadas.
 
