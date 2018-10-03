@@ -1,4 +1,4 @@
-# M7.  Enseñanzas de la modalidad a distancia
+# M7.  Enseñanzas a distancia
 
 ## **Introducción**
 

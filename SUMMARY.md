@@ -136,21 +136,16 @@
 
 ## M7.  Enseñanzas de la modalidad a distancia \| M7.  Enseñanzas de la modalidad a distancia
 
-* [Enseñanzas de la modalidad a distancia](index6.md)
-* [U1. Aularagón y el Aula de Autoaprendizaje](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
+* [Enseñanzas a distancia y semipresenciales](index6.md)
+* [U1. Moodle Aularagón](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
   * [Contenidos](contenidos6.md)
   * [Resumen](resumen6.md)
-* [U2. El proyecto Mentor](u2_el_proyecto_mentor.md)
+* [U2. Aula Mentor](u2_el_proyecto_mentor.md)
   * [2.1. Funcionamiento de la plataforma](21_funcionamiento_de_la_plataforma.md)
   * [2.2. Funciones del administrador](22_funciones_del_administrador.md)
   * [2.3. Oferta educativa](23_oferta_educativa.md)
   * [Tarea exploratoria](tarea_exploratoria2.md)
   * [Resumen](resumen26.md)
-* [U3. El Aula Virtual Cervantes](u3_el_aula_virtual_cervantes.md)
-  * [3.1. Funcionamiento de la plataforma](31_funcionamiento_de_la_plataforma.md)
-  * [3.2. Funciones del tutor](32_funciones_del_tutor.md)
-  * [Tarea exploratoria](tarea_exploratoria3.md)
-  * [Resumen](resumen36.md)
 
 ## M8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
