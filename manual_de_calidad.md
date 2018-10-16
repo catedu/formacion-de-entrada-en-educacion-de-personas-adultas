@@ -19,7 +19,7 @@ Observarás que en el Manual de Calidad y a lo largo de este módulo hablaremos 
 >
 > Aquí puedes bajarte el Manual de Calidad del SGC de los Centros Públicos de Educación de Personas Adultas de la Comunidad Autónoma de Aragón. Es un documento sencillo pero puede resultar un poco abstracto hasta familiarizarse con él. En las próximas unidades profundizaremos en su contenido.
 
-[Manual de Calidad](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_8/Manual_calidad_SGC.doc)
+[Manual de Calidad](https://drive.google.com/open?id=1TZ0NDKjoMP-sjxUsS87EnVBKcqkWTa5e)
 
 **IMPORTANTE: Eliminar el enlace al manual y sustituirlo por documento actualizado**
 
