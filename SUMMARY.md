@@ -125,14 +125,13 @@
   * [Resumen](resumen44.md)
 * [ANEXO](anexo.md)
 
-## M6. Enseñanzas de promoción y extensión educativa
+## M6. Enseñanzas de promoción y extensión educativa y Formación para el empleo
 
-* [Enseñanzas de promoción y extensión educativa](index5.md)
+* [Enseñanzas de promoción y extensión educativa y Formación para el empleo](index5.md)
 * [1. Un poco de historia](1_un_poco_de_historia.md)
 * [2. Perfil del alumnado](2_perfil_del_alumnado.md)
-* [3. Contenido de los cursos](3_contenido_de_los_cursos.md)
-* [4. Normativa reguladora](4_normativa_reguladora.md)
-* [5. Panorama actual de las enseñanzas no regladas en los Centros Públicos de EPA](5_panorama_actual_de_las_enseanzas_no_regladas_en_los_centros_pblicos_de_epa.md)
+* [Actualización de los cursos de Promoción y extensión educativa y Formación para el empleo a partir del curso 2018-19. NORMATIVA.](3_actualizacion_de_los_cursos.md)
+* [4. Contenidos y características de los cursos](4_contenidos_cursos.md)
 
 ## M7.  Enseñanzas de la modalidad a distancia \| M7.  Enseñanzas de la modalidad a distancia
 
