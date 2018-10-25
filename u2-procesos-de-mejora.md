@@ -4,5 +4,3 @@ Son los procesos que sirven para garantizar la mejora del sistema, que se concre
 
 Mientras los objetivos de calidad concretan aquellos aspectos que nos hemos planteado mejorar, el sistema de indicadores junto con las encuestas de satisfacción aportan la información necesaria para detectar esas posibles desviaciones.
 
-
-
