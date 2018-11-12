@@ -125,7 +125,7 @@
   * [Resumen](resumen44.md)
 * [ANEXO](anexo.md)
 
-## M6. Enseñanzas de promoción y extensión educativa y Formación para el empleo
+## M6. Cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo
 
 * [Enseñanzas de promoción y extensión educativa y Formación para el empleo](index5.md)
 * [1. Un poco de historia](1_un_poco_de_historia.md)
