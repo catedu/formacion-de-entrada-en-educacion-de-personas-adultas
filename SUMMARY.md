@@ -128,16 +128,16 @@
 ## M6. Cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo
 
 * [Enseñanzas de promoción y extensión educativa y Formación para el empleo](index5.md)
-* [1. Un poco de historia](1_un_poco_de_historia.md)
-* [2. Perfil del alumnado](2_perfil_del_alumnado.md)
+* [U1. Un poco de historia](1_un_poco_de_historia.md)
 * [Actualización de los cursos de Promoción y extensión educativa y Formación para el empleo a partir del curso 2018-19. NORMATIVA.](3_actualizacion_de_los_cursos.md)
-* [4. Contenidos y características de los cursos](4_contenidos_cursos.md)
+* [U2. Perfil del alumnado](2_perfil_del_alumnado.md)
+* [U3. Contenidos y características de los cursos](4_contenidos_cursos.md)
 
-## M7.  Enseñanzas de la modalidad a distancia \| M7.  Enseñanzas de la modalidad a distancia
+## M7.  Enseñanzas a distancia
 
 * [Enseñanzas a distancia y semipresenciales](index6.md)
 * [U1. Moodle Aularagón](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
-  * [Contenidos](contenidos6.md)
+  * [Los inicios de Aularagón](contenidos6.md)
   * [Resumen](resumen6.md)
 * [U2. Aula Mentor](u2_el_proyecto_mentor.md)
   * [2.1. Funcionamiento de la plataforma](21_funcionamiento_de_la_plataforma.md)
