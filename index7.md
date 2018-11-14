@@ -38,11 +38,15 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
 * **Unidad 1. Manual de Calidad:** Procesos básicos. Formatos y Registros. Almacenamiento y difusión.
 
-* **Unidad 2. Procesos de mejora: **Objetivos e indicadores. Encuestas de satisfacción. Planificación, seguimiento y evaluación. Política de Calidad y Comité de Calidad. Auditorías, no conformidades
+* **Unidad 2. Procesos de mejora: **Objetivos e indicadores. Encuestas de satisfacción. Planificación, seguimiento y evaluación. Política de Calidad y Comité de Calidad. Auditorías, no conformidades.
 
 * **Unidad 3. Procesos de prestación del servicio: **Oferta educativa. Admisión y matrícula. Formación. Documentación y extraescolares.
 
-* **Unidad 4. Procesos de apoyo.**
+* **Unidad 4. Procesos de apoyo. **
+
+\(Tiempo de dedicación estimado: **10 horas**\).
+
+
 
 
 

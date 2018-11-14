@@ -5,7 +5,7 @@
 
 Como hemos visto en el apartado anterior, cuando una persona adulta quiera realizar algún módulo formativo, tanto en el nivel 2 como en el 3, y no cumpla ninguno de los requisitos anteriormente indicados, deberá realizar previamente una prueba que acredite que posee las competencias clave. Los Centros Públicos de Educación de Personas Adultas podrán realizar cursos de preparación de dichas pruebas.
 
-Los cursos de preparación se pueden realizar en Los Centros Públicos de Educación de Personas Adultas autorizados   en dos modalidades: presencial o a distancia.
+Los cursos de preparación se pueden realizar en Los Centros Públicos de Educación de Personas Adultas autorizados en dos modalidades: presencial o a distancia.
 
 Están dirigidos para las personas que tengan como mínimo 18 años, a 31 de diciembre en el curso escolar correspondiente.
 
@@ -19,7 +19,7 @@ Tendrán preferentemente una organización cuatrimestral. En función de las nec
 
 **En la modalidad a distancia**:
 
-- El curso se desarrollará a través de la plataforma de Aularagon. Para lo que el alumno realizará la matrícula a través del las Aulas de autoaprendizaje  de los Centros Públicos de Educación de Personas Adultas.
+- El curso se desarrollará a través de la plataforma de Moodle Aularagón. Para lo que el alumno realizará la matrícula a través del las Aulas de autoaprendizaje  de los Centros Públicos de Educación de Personas Adultas.
 
 Cualquiera de estas dos modalidades tienen como objetivo que el alumno esté en condiciones de superar exitosamente la prueba que acredite tener las competencias clave.
 

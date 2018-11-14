@@ -1,4 +1,4 @@
-# M7.  Enseñanzas a distancia
+# M7.  Enseñanzas a distancia y semipresencial
 
 ## **Introducción**
 
@@ -28,6 +28,10 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 * **Unidad 1. Moodle Aularagón**: Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.
 
 * **Unidad 2. Aula Mentor**: Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
+
+\(Tiempo de dedicación estimado: **10 horas**\).
+
+
 
 
 
