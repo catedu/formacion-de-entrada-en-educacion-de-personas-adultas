@@ -149,7 +149,7 @@
 
 ## M8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
-* [El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
+* [El Sistema de Gestión de Calidad de los CPEPA de Aragón](index7.md)
 * [U1. Manual de Calidad](manual_de_calidad.md)
   * [Almacenamiento y difusión de formatos](calidocs.md)
 * [U2. Procesos de mejora](u2-procesos-de-mejora.md)
