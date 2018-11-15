@@ -6,12 +6,13 @@ Recuerda que esta unidad es sólo una aproximación a la plataforma [Moodle Aula
 
 ## Contenidos
 
-1. Funcionamiento de la plataforma Moodle Aularagón.
+1. Los inicios de Aularagón.
+2. Oferta educativa de Educación de Personas Adultas en Moodle Aularagón.
+3. Funcionamiento de la plataforma Moodle Aularagón.
    1. Mesa de trabajo.
    2. Descarga y envío de actividades obligatorias y test.
    3. Mensajería.
-2. Funciones del tutor de aula de autoaprendizaje.
-3. Oferta educativa.
+4. Funciones del tutor de aula de autoaprendizaje.
 
 
 
