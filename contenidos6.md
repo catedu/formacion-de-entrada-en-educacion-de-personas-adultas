@@ -1,10 +1,6 @@
-# Contenidos
+# Los inicios de Aularagón
 
-El Proyecto Aularagón ha sido desarrollado para utilizar Internet como canal de comunicación para interconectar en tiempo real o diferido a profesores y estudiantes que se encuentran en espacios distantes.
-
-Es la plataforma de teleformación del Gobierno de Aragón para el desarrollo de enseñanzas regladas, de formación del profesorado y no regladas.
-
-[Presentación sobre el funcionamiento de aularagón](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Aularagon_Manual.pdf).
+El Proyecto Aularagón fue desarrollado para utilizar Internet como canal de comunicación e interconectar en tiempo real o diferido a profesores y estudiantes que se encontraban en espacios distantes. Para ello se creó en el año 2002 www.aularagon.org la plataforma de teleformación del Gobierno de Aragón para el desarrollo de enseñanzas regladas, de formación del profesorado y no regladas.
 
 Para que conozcas la trayectoria de la plataforma aularagón desde sus comienzos en 2002 hasta 2008 lee [este documento](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Aularagon_congreso.pdf) \(descarga la [presentación ](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Aularagon_congreso.pps)si quieres\), como puedes imaginar, la estadística sigue aumentando con más alumnado, más oferta educativa para profesorado y alumnado, más y mejores recursos... y los equipos informáticos y la conexión a Internet también han mejorado sensiblemente en estos 11 años de aularagón. Consulta estos documentos sobre la matrícula en esta plataforma:
 

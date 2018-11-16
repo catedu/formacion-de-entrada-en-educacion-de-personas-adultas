@@ -74,10 +74,10 @@
   * [5.3. Propuesta de actividades con aprendizaje cooperativo](53_propuesta_de_actividades_con_aprendizaje_cooperativo.md)
   * [Resumen](resumen51.md)
 
-## 3. Enseñanzas FIPA y módulos formativos N-2
+## 3. FIPA y Competencias Clave
 
-* [Enseñanzas FIPA y Competencias Clave](index2.md)
-* [U1. Marco normativo](u1_marco_normativo.md)
+* [FIPA y Competencias Clave](index2.md)
+* [U1. Marco normativo de la FIPA](u1_marco_normativo.md)
   * [Resumen](resumen3u1.md)
   * [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
 * [U2. Características del alumnado](u2_caractersticas_del_alumnado.md)
@@ -85,6 +85,11 @@
 * [U3. Materiales para la FIPA](u3_materiales_para_la_fipa.md)
   * [Contenido](contenido.md)
   * [Resumen](resumen32.md)
+* [U4. Competencias Clave N2 y N3](u4_nivel_de_cualificacin_n2_y_n3.md)
+  * [4.1. Certificados de profesionalidad](41_certificados_de_profesionalidad.md)
+  * [4.2. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
+  * [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
+  * [Resumen](resumen42.md)
 
 ## 4. ESPA y acceso a la FP
 * [4. ESPA y acceso a la FP](index3.md)
@@ -100,11 +105,6 @@
   * [2.2. Modalidades](22_modalidades.md)
   * [2.3. Perfil de los participantes](23_perfil_de_los_participantes.md)
   * [2.4. El futuro próximo](24_el_futuro_prximo.md)
-* [U4. Nivel de cualificación N-2 y N-3](u4_nivel_de_cualificacin_n2_y_n3.md)
-  * [4.1. Certificados de profesionalidad](41_certificados_de_profesionalidad.md)
-  * [4.2. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
-  * [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
-  * [Resumen](resumen42.md)
 
 ## 5. Español como nueva lengua
 
@@ -135,30 +135,31 @@
   * [Resumen](resumen44.md)
 * [ANEXO](anexo.md)
 
+
 ## 6. Enseñanzas de promoción y extensión educativa y Formación para el empleo
 
 * [Enseñanzas de promoción y extensión educativa y Formación para el empleo](index5.md)
-* [1. Un poco de historia](1_un_poco_de_historia.md)
-* [2. Perfil del alumnado](2_perfil_del_alumnado.md)
-* [Actualización de los cursos de Promoción y extensión educativa y Formación para el empleo a partir del curso 2018-19. NORMATIVA.](3_actualizacion_de_los_cursos.md)
-* [4. Contenidos y características de los cursos](4_contenidos_cursos.md)
+* [U1. Un poco de historia](1_un_poco_de_historia.md)
+  * [Actualización del catálogo de cursos](1_un_poco_de_historia/sdgf.md)
+* [U2. Perfil del alumnado](2_perfil_del_alumnado.md)
+* [U3. Contenidos y características de los cursos](4_contenidos_cursos.md)
 
-## 7.  Enseñanzas de la modalidad a distancia \| M7.  Enseñanzas de la modalidad a distancia
+## 7.  Enseñanzas de la modalidad a distancia
 
 * [Enseñanzas a distancia y semipresenciales](index6.md)
 * [U1. Moodle Aularagón](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
-  * [Contenidos](contenidos6.md)
+  * [Los inicios de Aularagón](contenidos6.md)
   * [Resumen](resumen6.md)
 * [U2. Aula Mentor](u2_el_proyecto_mentor.md)
   * [2.1. Funcionamiento de la plataforma](21_funcionamiento_de_la_plataforma.md)
-  * [2.2. Funciones del administrador](22_funciones_del_administrador.md)
-  * [2.3. Oferta educativa](23_oferta_educativa.md)
+  * [2.2. Oferta educativa](23_oferta_educativa.md)
+  * [2.3. Administrador de Aula](22_funciones_del_administrador.md)
   * [Tarea exploratoria](tarea_exploratoria2.md)
   * [Resumen](resumen26.md)
 
 ## 8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
-* [El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
+* [El Sistema de Gestión de Calidad de los CPEPA de Aragón](index7.md)
 * [U1. Manual de Calidad](manual_de_calidad.md)
   * [Almacenamiento y difusión de formatos](calidocs.md)
 * [U2. Procesos de mejora](u2-procesos-de-mejora.md)

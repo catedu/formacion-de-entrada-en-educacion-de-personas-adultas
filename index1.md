@@ -24,12 +24,13 @@
 
 ## Actividad de lectura
 
-* **Unidad 1. El aprendizaje en la edad adulta**: concepto, fines y factores que influyen en el aprendizaje adulto. (**1/2 hora + 1/2 hora para la realización de la tarea**).
+* **Unidad 1. El aprendizaje en la edad adulta**: concepto, fines y factores que influyen en el aprendizaje adulto. 
 
-* **Unidad 2. Características específicas del aprendizaje adulto**: perfiles de nuestro alumnado y necesidades educativas por enseñanzas. Procesos emocionales implicados en el proceso de aprendizaje. (**1 hora + 1 hora para la realización de la tarea**).
+* **Unidad 2. Características específicas del aprendizaje adulto**: perfiles de nuestro alumnado y necesidades educativas por enseñanzas. Procesos emocionales implicados en el proceso de aprendizaje. 
 
-* **Unidad 3. La intervención en el aula**: roles del profesor y alumnado en la educación de adultos. Tipos de inteligencia y propuesta de actividades.<br/> (**1 hora + 1 hora para la realización de la tarea**).
+* **Unidad 3. La intervención en el aula**: roles del profesor y alumnado en la educación de adultos. Tipos de inteligencia y propuesta de actividades.<br/> 
 
-* **Unidad 4. Orientación y tutoría**: Ámbitos de actuación desde la orientación. Plan de Acción Tutorial del centro. Propuesta de actividades de orientación y tutoría por enseñanzas.  (**2 horas + 1 hora para la realización de la tarea**).
+* **Unidad 4. Orientación y tutoría**: Ámbitos de actuación desde la orientación. Plan de Acción Tutorial del centro. Propuesta de actividades de orientación y tutoría por enseñanzas.
 
-* **Unidad 5. Trabajo cooperativo**: definición, elementos y puesta en funcionamiento con ejemplificación en distintas enseñanzas. (**2 horas + 2 horas  para la realización de la tarea**).
+* **Unidad 5. Trabajo cooperativo**: definición, elementos y puesta en funcionamiento con ejemplificación en distintas enseñanzas. 
+(Tiempo de dedicación estimado: **10 horas**).

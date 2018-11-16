@@ -1,7 +1,7 @@
 # U4. Marco normativo
 
-> **info**
->
+
+
 > ## Importante
 >
 > **Introducción**

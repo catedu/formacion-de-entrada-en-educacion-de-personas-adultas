@@ -1,12 +1,10 @@
-# M7.  Enseñanzas a distancia
+# M7.  Enseñanzas a distancia y semipresencial
 
 ## **Introducción**
 
 ¿Qué es [e-learning](http://es.wikipedia.org/wiki/Aprendizaje_electrónico)?, ¿qué oferta formativa tenemos en modalidad a distancia?.
 
-En este módulo vamos a ver básicamente 3 plataformas educativas que utilizamos habitualmente en Educación de Personas Adultas ya que gran parte de la oferta educativa que tenemos en los centros y aulas de E.P.A. es formación a distancia. Estas plataformas son [Aula Mentor](https://centrovirtual.educacion.es/mentor/inicio.html), [Aularagón](http://www.aularagon.org/index.asp) y [Aula Virtual de Español](http://www.ave.cvc.cervantes.es/). El estudio en profundidad de estas plataformas excede a este módulo ya que todas ellas disponen de cursos monográficos en los que se estudian en profundidad.
-
-Además en la cuarta unidad, **de carácter** **voluntario, **veremos otros servicios de teleformación que [CATEDU](http://catedu.es/webcatedu/) pone a disposición de los centros y docentes aragoneses que los solicitan y otros servicios web 2.0.
+En este módulo vamos a ver básicamente 3 plataformas educativas que utilizamos habitualmente en Educación de Personas Adultas ya que gran parte de la oferta educativa que tenemos en los centros y aulas de E.P.A. es formación a distancia. Estas plataformas son [Aula Mentor](http://www.aulamentor.es/) y [Moodle Aularagón](http://aula2.educa.aragon.es/moodle/). El estudio en profundidad de estas plataformas excede a este módulo ya que  disponen de cursos monográficos que desarrollan ampliamente el estudio de las mismas.
 
 El estudio de este módulo te permitirá conocer estas plataformas y recursos, además de cumplir los objetivos del módulo.
 
@@ -18,20 +16,22 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
 ## Objetivos
 
-* Conocer el funcionamiento básico de las plataformas Aularagón, Aula Mentor y Aula Virtual de Español.
+* Entender el funcionamiento básico de las plataformas Moodle Aularagón y Aula Mentor.
 * Conocer las herramientas de comunicación en las diferentes plataformas virtuales.
 * Conocer la oferta formativa de las plataformas a distancia en E.P.A.
-* Conocer la funciones del tutor de aula de autoaprendizaje, administrador de aula mentor y tutor de A.V.E.
+* Conocer la funciones del tutor de aula de autoaprendizaje de Moodle Aularagón, así como las propias del administrador y tutor de Aula Mentor.
 * Manejar la legislación y normativa referida a las enseñanzas a distancia en EPA para orientar al alumnado adulto en Aragón.
-* Familiarizarte con las plataformas e-learning, el uso de Internet en el aula y servicios web 2.0.
+* Familiarizarse con las plataformas e-learning, el uso de Internet en el aula y servicios web 2.0.
 
 ## Contenidos
 
-* **Unidad 1. Aularagón** \(_2 horas teoría + 1 tareas prácticas_\): Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.
+* **Unidad 1. Moodle Aularagón**: Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.
 
-* **Unidad 2. Aula Mentor** \(_1'5 horas teoría + 1 tareas prácticas_\): Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
+* **Unidad 2. Aula Mentor**: Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
 
-* **Unidad 3. Aula Virtual de Español** \(_1'5 horas teoría + 1 tareas prácticas_\): Prueba VIA, aula virtual y administración, modalidades presencial, semipresencial y distancia, orientación y motivación.
+\(Tiempo de dedicación estimado: **10 horas**\).
+
+
 
 
 

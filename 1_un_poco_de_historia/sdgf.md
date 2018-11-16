@@ -1,4 +1,4 @@
-# 3. Actualización de los cursos de Promoción y extensión educativa y Formación para el empleo a partir del curso 2018-19. NORMATIVA.
+# 3. Actualización del catálogo de cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo a partir del curso 2018-19.
 
 
 
