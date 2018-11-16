@@ -2,6 +2,14 @@
 
 * [Introducción](README.md)
 
+## Programa del curso
+
+* [Formación de entrada en EPA](formacion.md)
+* [Competencias](competencias.md)
+* [Destinatarios](destinatarios.md)
+* [Programa del curso](programa-del-curso.md)
+* [Evaluación](evaluacion.md)
+
 ## 1. Marco institucional de la EPA
 
 * [Marco institucional de la EPA](index0.md)
@@ -77,6 +85,9 @@
 * [U3. Materiales para la FIPA](u3_materiales_para_la_fipa.md)
   * [Contenido](contenido.md)
   * [Resumen](resumen32.md)
+
+## 4. ESPA y acceso a la FP
+* [4. ESPA y acceso a la FP](index3.md)
 * [U1. La ESPA](u1_la_espa.md)
   * [1.1. Concepto de adaptación](11_concepto_de_adaptacin.md)
   * [1.2. Perfil sociológico del alumnado](12_perfil_sociolgico_del_alumnado.md)
@@ -84,7 +95,6 @@
   * [1.4. Un currículo basado en competencias](14_un_currculo_basado_en_competencias.md)
   * [1.5. Instrumentos de evaluación](15_instrumentos_de_evaluacin.md)
   * [1.6. Modalidades](16_modalidades.md)
-* [4. ESPA y acceso a la FP](index3.md)
 * [U2. Cursos de preparación a las pruebas de acceso a Ciclos Formativos](u2_cursos_de_preparacin_a_las_pruebas_de_acceso_a_ciclos_formativos.md)
   * [2.1. Normativa reguladora](21_normativa_reguladora.md)
   * [2.2. Modalidades](22_modalidades.md)
@@ -125,7 +135,7 @@
   * [Resumen](resumen44.md)
 * [ANEXO](anexo.md)
 
-## M6. Enseñanzas de promoción y extensión educativa y Formación para el empleo
+## 6. Enseñanzas de promoción y extensión educativa y Formación para el empleo
 
 * [Enseñanzas de promoción y extensión educativa y Formación para el empleo](index5.md)
 * [1. Un poco de historia](1_un_poco_de_historia.md)
@@ -133,7 +143,7 @@
 * [Actualización de los cursos de Promoción y extensión educativa y Formación para el empleo a partir del curso 2018-19. NORMATIVA.](3_actualizacion_de_los_cursos.md)
 * [4. Contenidos y características de los cursos](4_contenidos_cursos.md)
 
-## M7.  Enseñanzas de la modalidad a distancia \| M7.  Enseñanzas de la modalidad a distancia
+## 7.  Enseñanzas de la modalidad a distancia \| M7.  Enseñanzas de la modalidad a distancia
 
 * [Enseñanzas a distancia y semipresenciales](index6.md)
 * [U1. Moodle Aularagón](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
@@ -146,7 +156,7 @@
   * [Tarea exploratoria](tarea_exploratoria2.md)
   * [Resumen](resumen26.md)
 
-## M8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
+## 8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
 * [El Sistema de Gestión de Calidad de los Centros de EPA](index7.md)
 * [U1. Manual de Calidad](manual_de_calidad.md)
