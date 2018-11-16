@@ -1,28 +1,29 @@
 # Autores
 
-* Marco institucional de la EPA: Agustín San Vituri
+1. Marco institucional de la EPA: Agustín San Vituri
 _Versión actualizada octubre de 2018_
 
-Intervención en el aula: Mª Jesús Panzano Sanz
+2. Intervención en el aula: Mª Jesús Panzano Sanz
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
-FIPA y Comptenecias Clave: Juan Manuel Sanz Casales
+3. FIPA y Comptenecias Clave: Juan Manuel Sanz Casales
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
-ESPA y acceso a la Formación Profesional: Luciano Sáez Rodríguez
+4. ESPA y acceso a la Formación Profesional: Luciano Sáez Rodríguez
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
-Enseñanzas de Español como nueva lengua: Mª Jesús Colón Castillo
+5. Enseñanzas de Español como nueva lengua: Mª Jesús Colón Castillo
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
-Enseñanzas de promoción y extensión educativa y Formación para el empleo: Luciano Sáez Rodríguez
+6. Enseñanzas de promoción y extensión educativa y Formación para el empleo: Luciano Sáez Rodríguez
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
-Enseñanzas de la modalidad a distancia: Sergio Manuel Martínez Rodríguez
+7. Enseñanzas de la modalidad a distancia: Sergio Manuel Martínez Rodríguez
 _Versión actualizada octubre de 2018 por Sergio Manuel Martínez Rodriguez_
 
-El Sistema de Gestión de Calidad en los Centros de EPA: Luciano Sáez Rodríguez
+8. El Sistema de Gestión de Calidad en los Centros de EPA: Luciano Sáez Rodríguez
 _Versión actualizada octubre de 2018 por Sergio Manuel Martínez Rodriguez_
+
 <!--
 {% for item in book.authors %}
 Versión actualizada octubre de 2018
