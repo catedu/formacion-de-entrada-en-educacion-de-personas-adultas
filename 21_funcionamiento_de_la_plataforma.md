@@ -3,7 +3,7 @@
 
 ## Contenidos
 
-Comienza visionando los videos que recientemente publicó el Gabinete Mentor en youtube y vimeo para conocer mejor este sistema de formación. Después puedes ver más videos y presentaciones sobre proyecto mentor para que conozcas esta formación de un modo dinámico.
+Comienza visionando los vídeos que recientemente publicó el Gabinete Mentor en youtube y vimeo para conocer mejor este sistema de formación. Después puedes ver más videos y presentaciones sobre proyecto mentor para que conozcas esta formación de un modo dinámico.
 
 **Documental Aula Mentor: 20 años de recorrido.**
 

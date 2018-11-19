@@ -4,7 +4,7 @@
 
 ¿Qué es [e-learning](http://es.wikipedia.org/wiki/Aprendizaje_electrónico)?, ¿qué oferta formativa tenemos en modalidad a distancia?.
 
-En este módulo vamos a ver básicamente 3 plataformas educativas que utilizamos habitualmente en Educación de Personas Adultas ya que gran parte de la oferta educativa que tenemos en los centros y aulas de E.P.A. es formación a distancia. Estas plataformas son [Aula Mentor](http://www.aulamentor.es/) y [Moodle Aularagón](http://aula2.educa.aragon.es/moodle/). El estudio en profundidad de estas plataformas excede a este módulo ya que  disponen de cursos monográficos que desarrollan ampliamente el estudio de las mismas.
+En este módulo vamos a ver básicamente 2 plataformas educativas que utilizamos habitualmente en Educación de Personas Adultas ya que gran parte de la oferta educativa que tenemos en los centros y aulas de E.P.A. es formación a distancia. Estas plataformas son [Aula Mentor](http://www.aulamentor.es/) y [Moodle Aularagón](http://aula2.educa.aragon.es/moodle/). El estudio en profundidad de estas plataformas excede a este módulo ya que  disponen de cursos monográficos que desarrollan ampliamente el estudio de las mismas.
 
 El estudio de este módulo te permitirá conocer estas plataformas y recursos, además de cumplir los objetivos del módulo.
 
@@ -25,13 +25,9 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
 ## Contenidos
 
-* **Unidad 1. Moodle Aularagón**: Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.
+* **Unidad 1. Moodle Aularagón**: Los inicios de Aularagón. Oferta educativa, funciones del tutor de aula de autoaprendizaje, mesa de trabajo y mensajería, orientación y motivación. Formación del profesorado.
 
-* **Unidad 2. Aula Mentor**: Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación.
+* **Unidad 2. Aula Mentor**: Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación. Formación del profesorado.
 
 \(Tiempo de dedicación estimado: **10 horas**\).
-
-
-
-
 

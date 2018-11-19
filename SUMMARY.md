@@ -92,6 +92,7 @@
   * [Resumen](resumen42.md)
 
 ## 4. ESPA y acceso a la FP
+
 * [4. ESPA y acceso a la FP](index3.md)
 * [U1. La ESPA](u1_la_espa.md)
   * [1.1. Concepto de adaptación](11_concepto_de_adaptacin.md)
@@ -135,7 +136,6 @@
   * [Resumen](resumen44.md)
 * [ANEXO](anexo.md)
 
-
 ## 6. Enseñanzas de promoción y extensión educativa y Formación para el empleo
 
 * [Enseñanzas de promoción y extensión educativa y Formación para el empleo](index5.md)
@@ -151,11 +151,11 @@
   * [Los inicios de Aularagón](contenidos6.md)
   * [Resumen](resumen6.md)
 * [U2. Aula Mentor](u2_el_proyecto_mentor.md)
-  * [2.1. Funcionamiento de la plataforma](21_funcionamiento_de_la_plataforma.md)
+  * [2.1. Los inicios de Aula Mentor](21_funcionamiento_de_la_plataforma.md)
   * [2.2. Oferta educativa](23_oferta_educativa.md)
   * [2.3. Administrador de Aula](22_funciones_del_administrador.md)
-  * [Tarea exploratoria](tarea_exploratoria2.md)
   * [Resumen](resumen26.md)
+  * [Tarea exploratoria](tarea_exploratoria2.md)
 
 ## 8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
