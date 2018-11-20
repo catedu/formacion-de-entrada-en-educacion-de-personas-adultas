@@ -4,9 +4,7 @@
 
 Recuerda que esta unidad es sólo una aproximación a la plataforma Aula Mentor, en esta misma plataforma existen cursos de formación monográficos para conocer a fondo esta herramienta, a dichos cursos deberán autorizarte desde tu centro que enviará la solicitud al Departamento de Educación Permanente.
 
-Estos cursos cuentan expresamente como mérito en muchas convocatorias de selección de profesorado de convenio.
-
-Se recomienda el uso de Mozilla Firefox como navegador para el desarrollo de los cursos Mentor, las últimas versiones de otros navegadores pueden presentar dificultades con la mensajería o el envío de actividades.
+Estos cursos cuentan expresamente como mérito en algunas convocatorias de selección de profesorado de convenio.
 
 ## Contenidos
 

@@ -12,3 +12,4 @@ El reconocimiento de los cursos de Aula Mentor como créditos de libre configura
 
 La validez de los cursos de Aula Mentor, certificados por el Ministerio de Educación, Cultura y Deporte y, en su caso, por la Consejería o Departamento de Educación correspondiente, para las fases de concurso y concurso-oposición, la dictamina la Administración convocante. Por este motivo, el alumno interesado deberá acudir a dicho órgano para confirmar si existe dicho reconocimiento.
 
+El Ministerio de Educación ha abierto un procedimiento para realizar matrículas al amparo de la convocatoria de formación del profesorado, por la que una serie de cursos tendrán ese reconocimiento. Tenéis más información en el siguiente [enlace]

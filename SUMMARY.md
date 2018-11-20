@@ -152,10 +152,11 @@
   * [Resumen](resumen6.md)
 * [U2. Aula Mentor](u2_el_proyecto_mentor.md)
   * [2.1. Los inicios de Aula Mentor](21_funcionamiento_de_la_plataforma.md)
-  * [2.2. Oferta educativa](23_oferta_educativa.md)
-  * [2.3. Administrador de Aula](22_funciones_del_administrador.md)
-  * [Resumen](resumen26.md)
+  * [2.2. Matrícula, mesa de trabajo y mensajería](matricula-mesa-de-trabajo-y-mensajeria.md)
+  * [2.3. Oferta educativa](23_oferta_educativa.md)
+  * [2.4. Administradores y Tutores](22_funciones_del_administrador.md)
   * [Tarea exploratoria](tarea_exploratoria2.md)
+  * [Resumen](resumen26.md)
 
 ## 8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
