@@ -1,17 +1,13 @@
-# Los inicios de Aularagón
+# 1.1. Los inicios de Aularagón
 
-El Proyecto Aularagón fue desarrollado para utilizar Internet como canal de comunicación e interconectar en tiempo real o diferido a profesores y estudiantes que se encontraban en espacios distantes. Para ello se creó en el año 2002 www.aularagon.org la plataforma de teleformación del Gobierno de Aragón para el desarrollo de enseñanzas regladas, de formación del profesorado y no regladas.
+El Proyecto Aularagón fue desarrollado para utilizar Internet como canal de comunicación e interconectar en tiempo real o diferido a profesores y estudiantes que se encontraban en espacios distantes. Para ello se creó en el año 2002 www.aularagon.org la plataforma de teleformación del Gobierno de Aragón para el desarrollo de enseñanzas regladas, no regladas y de formación del profesorado.
 
-Para que conozcas la trayectoria de la plataforma aularagón desde sus comienzos en 2002 hasta 2008 lee [este documento](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Aularagon_congreso.pdf) \(descarga la [presentación ](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Aularagon_congreso.pps)si quieres\), como puedes imaginar, la estadística sigue aumentando con más alumnado, más oferta educativa para profesorado y alumnado, más y mejores recursos... y los equipos informáticos y la conexión a Internet también han mejorado sensiblemente en estos 11 años de aularagón. Consulta estos documentos sobre la matrícula en esta plataforma:
+Para que conozcas la trayectoria de la plataforma Aularagón desde sus comienzos en 2002 hasta 2008 lee [este documento](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Aularagon_congreso.pdf) \(es un documento antiguo que no refleja la oferta actual sino lo que teníamos en Aularagón en 2007\). Como puedes imaginar, la estadística sigue aumentando con más alumnado, más oferta educativa, más modernos y mejores recursos... Los equipos informáticos y la conexión a Internet también han mejorado sensiblemente en estos casi 20 años de Aularagón, solo tenemos que recordar que los dispositivos móviles como smartphone y tabletas digitales con conexión a Internet llevan pocos años entre nosotros y se han convertido en muchos casos en el medio para acceder a Internet desplazando a los ordenadores a un segundo lugar.
 
-* [Curso 2009-10](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Matricula_Aularagon_2009_10.pdf)
-* [Curso 2010-11](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_7/Matricula_Aularagon_2010_11.pdf)
-
-En la plataforma de enseñanzas a distancia del Gobierno de Aragón nos encontramos con **tres tipos principales de oferta**:
-
-* **Formación Reglada**: Módulos formativos de Nivel 2 a Distancia, Educación Secundaria para Personas Adultas a Distancia, Bachillerato a Distancia, Ciclos de Grado Medio \(Gestión Administrativa, Instalaciones eléctricas y automáticas, Farmacia y parafarmacia y Emergencias Sanitarias\) y Ciclos de Grado Superior \(Educación Infantil, Comercio Internacional, Laboratorio de análisis de control de calidad, Desarrollo de aplicaciones multiplataforma, desarrollo de aplicaciones web y Gestión Comercial y Marketing\).
-* **Formación NO Reglada: + Tutorizados**: Cursos de temática aragonesa \(Aragón, nuestra historia y Rutas ambientales de Aragón\), Curso de Preparación para la Prueba de Acceso a Grado Superior, Curso de Preparación a la Prueba de Acceso a Ciclos de Grado Medio. **+ NO tutorizados**: Inglés I y II, escuelas de madres y padres, taller de apoyo a la memoria…
-* **Formación del Profesorado**: cursos TIC’s y otras ofertas a distancia que se van agregando poco a poco: e-ducativa \(desaparecido\), AVE, Español en EPA, e-Twinning… Existe un curso monográfico que profundiza en el estudio de esta plataforma aularagón llamado **La educación a distancia a través de aularagón.**
+Tras esa primera etapa de Aularagón, en 2015 se migró a Moodle, herramienta de gestión de aprendizaje, más concretamente Learning Content Management \(LCM\), en esos momentos la oferta de EPA se alojaba en [http://aula.educa.aragon.es/moodle/](http://aula.educa.aragon.es/moodle/) para en 2017 migrar a [http://aula2.educa.aragon.es/moodle/](http://aula2.educa.aragon.es/moodle/) donde se encuentra en la actualidad.
 
 
+
+**RECUERDA**  
+Es posible que en algunos momentos o documentos de ayuda aparezca la URL antigua de Moodle Aularagón, recuerda utilizar siempre [http://aula2.educa.aragon.es/moodle/](http://aula2.educa.aragon.es/moodle/) vigilando siempre que es aula**2**.
 

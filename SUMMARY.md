@@ -148,7 +148,10 @@
 
 * [Enseñanzas a distancia y semipresenciales](index6.md)
 * [U1. Moodle Aularagón](u1_aularagn_y_el_aula_de_autoaprendizaje.md)
-  * [Los inicios de Aularagón](contenidos6.md)
+  * [1.1. Los inicios de Aularagón](contenidos6.md)
+  * [1.2. Oferta educativa](12-oferta-educativa.md)
+  * [1.3. Mesa de trabajo y mensajería](12-matricula-mesa-de-trabajo-y-mensajeria.md)
+  * 1.4. Tutor de aula de autoaprendizaje
   * [Resumen](resumen6.md)
 * [U2. Aula Mentor](u2_el_proyecto_mentor.md)
   * [2.1. Los inicios de Aula Mentor](21_funcionamiento_de_la_plataforma.md)
