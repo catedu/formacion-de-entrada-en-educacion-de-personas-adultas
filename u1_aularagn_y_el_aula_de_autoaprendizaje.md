@@ -9,12 +9,9 @@ Es posible que en algunos momentos o documentos de ayuda aparezca la URL antigua
 ## Contenidos
 
 1. Los inicios de Aularagón.
-2. Oferta educativa de Educación de Personas Adultas en Moodle Aularagón.
-3. Funcionamiento de la plataforma Moodle Aularagón.
-   1. Mesa de trabajo.
-   2. Descarga y envío de actividades obligatorias y test.
-   3. Mensajería.
-4. Funciones del tutor de aula de autoaprendizaje.
+2. Oferta educativa.
+3. Mesa de trabajo y mensajería.
+4. Centros de educación a distancia y tutores.
 
 
 

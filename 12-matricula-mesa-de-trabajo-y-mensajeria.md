@@ -1,4 +1,4 @@
-## 1.2. Mesa de trabajo y mensajería
+## 1.3. Mesa de trabajo y mensajería
 
 El acceso a las mesas de trabajo de las diferentes asignaturas y cursos de Moodle Aularagon se realiza a través de [http://aula2.educa.aragon.es/moodle/](http://aula2.educa.aragon.es/moodle/) es requisito imprescindible contar con claves de acceso de usuario y contraseña, aunque existe la posibilidad de entrar como _Invitado_, en cuyo caso sólo nos solicitará introducir la contraseña, que es diferente para cada enseñanza. En el siguientes enlace tienes disponibles las **claves de invitados** de las diferentes enseñanzas si bien es preciso tener en cuenta que estos usuarios invitados no disponen de todas las funcionalidades pues, por ejemplo, no pueden realizar envío de test o actividades.
 

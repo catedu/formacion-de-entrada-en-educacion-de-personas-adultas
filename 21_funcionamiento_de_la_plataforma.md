@@ -17,7 +17,7 @@ El reconocimiento internacional de Aula Mentor se refleja en la participación d
 
 [Fuente](/www.aulamentor.es)
 
-En Aragón tenemos cada curso escolar más de 1700 matrículas lo que refleja la importancia de esta oferta formativa. Consulta el documento **Resultados_AulaMentor_2017-18 "PONER ENLACE A ESTE DOCUMENTO Y QUITAR ESTE TEXTO."**
+En Aragón tenemos cada curso escolar entre 1700 y 2matrículas lo que refleja la importancia de esta oferta formativa. Consulta el documento **Resultados_AulaMentor_2017-18 "PONER ENLACE A ESTE DOCUMENTO Y QUITAR ESTE TEXTO."**
 
 {% youtube %}https://youtu.be/GyxMPKnNHxE{% endyoutube %}
 
@@ -30,18 +30,10 @@ En Aragón tenemos cada curso escolar más de 1700 matrículas lo que refleja la
 
 
 
-Los inicios de Aula Mentor
-Insertar vídeo 
-{% youtube %}https://youtu.be/z0iywbiqJOU{% endyoutube %}
 
-
-
- (dura + 52 minutos)
 tip
-Para saber más
-El Ministerio de Educación ha abierto un procedimiento para realizar matrículas al amparo de la convocatoria de formación del profesorado, por la que una serie de cursos tendrán ese reconocimiento. Tenéis más información en el siguiente 
-enlace
-.
+**Para saber más**
+El Ministerio de Educación ha abierto un procedimiento para realizar matrículas al amparo de la convocatoria de formación del profesorado, por la que una serie de cursos tendrán ese reconocimiento. Más información en el siguiente enlace.
 
 
 
