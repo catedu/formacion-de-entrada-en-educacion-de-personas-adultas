@@ -53,6 +53,7 @@ Aula Mentor comenzó a fraguarse en la década de los 90. En concreto en 1992  s
 En Aragón fue el CPEPA Río Guadalope el centro pionero, que inauguró en diciembre de 1997 el Aula Mentor de Alcañiz, siendo en aquella fecha Mª Carmen Pérez la directora del centro y administradora del aula.
 
 En la actualidad Aula Mentor tiene más de 450 aulas en territorio nacional e hispanoamérica.
+Consulta el documento [El origen de Aula Mentor](https://drive.google.com/open?id=1aaEpjXQ26uRr7EdWELgx43In5VaKGJCo).
 
 
 
