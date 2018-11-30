@@ -1,7 +1,7 @@
 # 
 
-## **tip**
-
+> **tip**
+>
 > ## Para saber más
 >
 > Consulta el documento [Resultados ESPAd 207-18](https://drive.google.com/open?id=1aaEpjXQ26uRr7EdWELgx43In5VaKGJCo) para hacerte una idea del volumen de matrículas en ESPAd en Aragón.

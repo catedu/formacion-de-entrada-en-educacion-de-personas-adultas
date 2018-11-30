@@ -16,10 +16,10 @@ _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
 6. Enseñanzas de promoción y extensión educativa y Formación para el empleo: Luciano Sáez Rodríguez
-_Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
+_Versión actualizada octubre de 2018 por Agustín Sanz Vituri y Sergio Manuel Martínez Rodríguez_
 
 7. Enseñanzas de la modalidad a distancia: Sergio Manuel Martínez Rodríguez
-_Versión actualizada octubre de 2018 por Sergio Manuel Martínez Rodriguez_
+_Versión actualizada noviembre de 2018 por Sergio Manuel Martínez Rodriguez_
 
 8. El Sistema de Gestión de Calidad en los Centros de EPA: Luciano Sáez Rodríguez
 _Versión actualizada octubre de 2018 por Sergio Manuel Martínez Rodriguez_
