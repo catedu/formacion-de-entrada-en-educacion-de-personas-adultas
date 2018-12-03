@@ -17,17 +17,19 @@ Además, el tutor debe favorecer la interacción entre los alumnos de su grupo f
 
 La figura del **tutor de cursos semipresenciales** tiene las mismas tareas asignadas si bien éstas se ven facilitadas al disponer de dos sesiones presenciales a las que el alumnado puede acudir a realizar el curso y resolver sus dudas. Las tareas del tutor semipresencial se realizan durante estas sesiones presenciales que se incluyen en el horario lectivo del docente-tutor, por lo que, obviamente, no recibe la retribución mencionada anteriormente.
 
-### Los administradores de Aula Mentor
 
-<iframe frameborder="0" height="281" src="http://player.vimeo.com/video/43805552" width="500"></iframe>
+### Los administradores de Aula Mentor (clica en la imagen)
 
-### Los alumnos de Aula Mentor
+[![](img/video-aula-mentor.png)](http://player.vimeo.com/video/43805552)
+
+### Los alumnos de Aula Mentor (clica en la imagen)
  
-<iframe frameborder="0" height="281" src="http://player.vimeo.com/video/43448090" width="500"></iframe>
+[![alumnos-mentor](img/video-alumnos-mentor.png)](http://player.vimeo.com/video/43448090)
 
-### Las aulas Mentor
+### Las aulas Mentor (clica en la imagen)
 
-<iframe frameborder="0" height="281" src="http://player.vimeo.com/video/43102561" width="500"></iframe>
+[![411 aulas mentor](img/video-video-411-aulas-mentor.png)](http://player.vimeo.com/video/43102561)
 
-### Los tutores de Aula Mentor
-<iframe frameborder="0" height="281" src="http://player.vimeo.com/video/44228875" width="500"></iframe>
+### Los tutores de Aula Mentor (clica en la imagen)
+
+[![tutores-mentor](img/video-video-tutores-mentor.png)](https://player.vimeo.com/video/44228875)
