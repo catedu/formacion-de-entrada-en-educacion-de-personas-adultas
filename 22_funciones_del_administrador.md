@@ -28,8 +28,8 @@ La figura del **tutor de cursos semipresenciales** tiene las mismas tareas asign
 
 ### Las aulas Mentor (clica en la imagen)
 
-[![411 aulas mentor](img/video-video-411-aulas-mentor.png)](http://player.vimeo.com/video/43102561)
+[![411 aulas mentor](img/video-411-aulas-mentor.png)](http://player.vimeo.com/video/43102561)
 
 ### Los tutores de Aula Mentor (clica en la imagen)
 
-[![tutores-mentor](img/video-video-tutores-mentor.png)](https://player.vimeo.com/video/44228875)
+[![tutores-mentor](img/video-tutores-mentor.png)](https://player.vimeo.com/video/44228875)
