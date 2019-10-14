@@ -77,9 +77,6 @@
 ## 3. FIPA y Competencias Clave
 
 * [FIPA y Competencias Clave](index2.md)
-* [U1. Marco normativo de la FIPA](u1_marco_normativo.md)
-  * [Resumen](resumen3u1.md)
-  * [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
 * [U2. Características del alumnado](u2_caractersticas_del_alumnado.md)
   * [Resumen](resumen22.md)
 * [U3. Materiales para la FIPA](u3_materiales_para_la_fipa.md)
@@ -94,6 +91,9 @@
 ## 4. ESPA y acceso a la FP
 
 * [4. ESPA y acceso a la FP](index3.md)
+* [U1. Marco normativo de la FIPA](u1_marco_normativo.md)
+  * [Resumen](resumen3u1.md)
+  * [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
 * [U1. La ESPA](u1_la_espa.md)
   * [1.1. Concepto de adaptación](11_concepto_de_adaptacin.md)
   * [1.2. Perfil sociológico del alumnado](12_perfil_sociolgico_del_alumnado.md)
@@ -109,7 +109,7 @@
 
 ## 5. Español como nueva lengua
 
-* [Español como nueva lengua](index4.md)
+* [5. Español como nueva lengua](index4.md)
 * [U1. Explorando el terreno: las preguntas](u1_explorando_el_terreno_las_preguntas.md)
   * [Contenidos](contenidos.md)
   * [Resumen](resumenM5.md)

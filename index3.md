@@ -1,10 +1,8 @@
 # M4. ESPA y acceso a la FP
 
-## Importante
-
 ## **Introducción**
 
-¿Cómo se organizan las enseñanzas de Educación Secundaria para Personas Adultas \(ESPA\)? ¿Qué requisitos deben cumplir las personas que se matriculan en los cursos de preparación a las pruebas de acceso a Ciclos Formativos? ¿Qué tipo de alumnado me voy a encontrar en las aulas? ¿Cómo se organizan este tipo de enseñanzas?
+¿Cómo se organizan las enseñanzas de Educación Secundaria para Personas Adultas \(ESPA\)? ¿Qué requisitos deben cumplir las personas que se matriculan en los cursos de preparación a las pruebas de acceso a Ciclos Formativos? ¿Qué tipo de alumnado me voy a encontrar en las aulas? 
 
 El estudio de este módulo te permitirá responder a estas y otras preguntas.
 
