@@ -2,7 +2,7 @@
 
 ## Importante
 
-Recuerda que esta unidad es sólo una aproximación a la plataforma [Moodle Aularagón](http://aula2.educa.aragon.es/moodle/), en [CATEDU ](http://web.catedu.es/webcatedu/)existen cursos de formación monográficos para conocer a fondo las herramientas MOODLE PARA LA ENSEÑANZA y EXELEARNING.
+Recuerda que esta unidad es sólo una aproximación a la plataforma [Moodle Aularagón](http://aula2.educa.aragon.es/moodle/), en [CATEDU ](http://web.catedu.es/webcatedu/)existe el curso de formación del profesorado _MOODLE PARA LA ENSEÑANZA_ para conocer a fondo esta herramienta.
 
 Es posible que en algunos momentos o documentos de ayuda aparezca la URL antigua de Moodle Aularagón, recuerda utilizar siempre [http://aula2.educa.aragon.es/moodle/](http://aula2.educa.aragon.es/moodle/) vigilando siempre que es aula**2**.
 
