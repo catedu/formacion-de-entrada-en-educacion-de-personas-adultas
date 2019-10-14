@@ -10,6 +10,6 @@ Los usuarios de esta formación, además de la titulación de entrada requerida 
 * Competencias para diseñar, intervenir y evaluar programas dirigidos a la población adulta, desarrollando capacidades y destrezas específicas.
 
 ## MUY IMPORTANTE
-**Las tareas de entrega obligatorias del curso deben ser trabajos individuales, no se admitirán tareas grupales o entregas claramente duplicadas.**
+**Las tareas de entrega obligatorias del curso deben ser trabajos individuales, no se admitirán tareas grupales o entregas claramente duplicadas. Las respuestas de las tareas deben ceñirse a responder al enunciado de las mismas**
 
 ![](img/plus-18-movie.svg)
