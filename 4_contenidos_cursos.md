@@ -3,7 +3,7 @@
 **Organización de los cursos**:
 
 1. Las programaciones de los PEE y CFE tendrán carácter de recurso educativo abierto por lo que deberán ser adaptadas y contextualizadas por cada Centro Público de Educación de Personas Adultas.
-2. Los contenidos de los cursos de PEE y CFE serán los establecidos en el _anexo II de la RESOLUCIÓN de 5 de julio de 2018_.
+2. Los contenidos de los cursos de PEE y CFE serán los establecidos en el _anexo II de la RESOLUCIÓN de 5 de julio de 2018_ y la _RESOLUCIÓN del Director General de Innovación, Equidad y Participación, por la que se amplía el catálogo de cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo impartidos en los Centros Públicos de Educación de Personas Adultas de la Comunidad Autónoma de Aragón a partir del curso 2019-2020_.
 3. La organización de los cursos de PEE y CFE, en función de las necesidades del alumnado y de la disponibilidad horaria del profesorado, será la siguiente:
    * Los cursos de 30 horas podrán tener una organización bimestral o cuatrimestral.
    * Los cursos de 60 horas podrán tener organización bimestraI, cuatrimestral o anual.
@@ -35,5 +35,5 @@
 
 **Cursos autorizados y programaciones.**
 
-Los contenidos de cada uno de los cursos están disponibles en el anexo II de Ia RESOLUCIÓN de 5 de julio de 2018, de igual manera las programaciones de los cursos están alojadas en el [espacio web de Educación Permanente de la página de Educación, Cultura y Deporte del Gobierno de Aragón www.educaragon.org](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&guiaeducativa=&strSeccion=PPI04&titpadre=Educaci%F3n+permanente&arrpadres=$Curr%EDculo+Ense%F1anzas+b%E1sicas+personas+adultas&arrides=$686&arridesvin=$&lngArbol=2245&lngArbolvinculado=).
+Las programaciones de los cursos autorizados están alojadas en el [espacio web de Educación Permanente de la página de Educación, Cultura y Deporte del Gobierno de Aragón www.educaragon.org](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&guiaeducativa=&strSeccion=PPI04&titpadre=Educaci%F3n+permanente&arrpadres=$Curr%EDculo+Ense%F1anzas+b%E1sicas+personas+adultas&arrides=$686&arridesvin=$&lngArbol=2245&lngArbolvinculado=).
 
