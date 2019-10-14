@@ -1,6 +1,4 @@
-# 3. Actualización del catálogo de cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo a partir del curso 2018-19.
-
-
+# Actualización del catálogo de cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo a partir del curso 2018-19.
 
 Dados los cambios sociales y las nuevas necesidades de los últimos años en el marco de la Educación de Personas Adultas, ha sido necesaria la revisión y actualización de los cursos correspondientes a las enseñanzas de Promoción y Extensión Educativa \(PEE\) y Cursos de Formación para el Empleo \(CFE\), así como la creación de nuevos cursos que respondan a las nuevas necesidades educativas y sociolaborales.
 
@@ -11,4 +9,8 @@ Precisamente por la detección de la necesidad de revisión y actualización de 
 De aquí deriva en una actualización del catálogo que queda recogida en la siguiente Resolución:
 
 [RESOLUCIÓN de 5 de julio de 2018, del Director General de Innovación, Equidad y Participación, por la que se actualiza el Catálogo de cursos de Promoción y extensión educativa y cursos de Formación para el empleo y se dictan instrucciones para su impartición en los Centros Públicos de Educación de Personas Adultas de la Comunidad Autónoma de Aragón](http://www.educaragon.org/FILES/Resolucion_5_Julio_PEEyCFE_Firmada.pdf).
+
+Tras la importante actualización de 5 de julio de 2018, se abrió un nuevo plazo de participación en 2019, cuyos resultados se reflejan en la [RESOLUCIÓN del Director General de Innovación, Equidad y Participación, por la que se amplía el catálogo de cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo impartidos en los Centros Públicos de Educación de Personas Adultas de la Comunidad Autónoma de Aragón a partir del curso 2019-2020.](http://www.educaragon.org/files/Resolucion_2019_cursos_PEE_y_CFE_con_anexos.pdf_CSVEP7T0GF76L1901PFI.pdf)
+
+Las programaciones autorizadas en estos momentos están disponibles para su descarga en [este enlace](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&guiaeducativa=&strSeccion=PPI04&titpadre=Educaci%F3n+permanente&arrpadres=$Curr%EDculo+Ense%F1anzas+b%E1sicas+personas+adultas&arrides=$686&arridesvin=$&lngArbol=2245&lngArbolvinculado=).
 
