@@ -29,3 +29,5 @@ Si bien los porcentajes anteriormente reseñados sobre edad y sexo de las person
 ![](/assets/estadística resultados cursos PEE y CFE por materias 2 de 2 2018 2019.jpg)
 
 El incremento en el número de matrículas es de casi un 30% con respecto al curso 2017/2018, el abanico de cursos impartidos pasa de 27 a 46, suponiendo un aumento del 70%.
+
+En ambos cursos escolares observamos que el número de 'aprobados' ronda las dos terceras partes del total de matrícula, lo que demuestra que el alumnado que participa en estas actividades suele estar implicado y fiel a ellas, mostrando interés en seguirlas con aprovechamiento.
