@@ -22,7 +22,7 @@ Los registros de la formación del personal del CPEPA, docente y no docente, se 
 
 ### Programas de innovación
 
-La participación en proyectos y programas de innovación educativa es un objetivo común que se ha mantenido durante varios cursos escolares debido a su importancia. Estos programas pueden ser de muy diversa índole y deben partir del consenso y las necesidades detectadas por el claustro, desde la participación en programas Erasmus+ KA104 o KA204, pasando por los clubs de lectura, matemática vital... e incluso proyectos o programas en colaboración con entidades locales, comarcales, bibliotecas, etcétera.
+La participación en proyectos y programas de innovación educativa es un objetivo común que se mantuvo durante varios cursos escolares debido a su importancia y que en la actualidad es un indicador. Estos programas pueden ser de muy diversa índole y deben partir del consenso y las necesidades detectadas por el claustro, desde la participación en programas Erasmus+ KA104 o KA204, pasando por los clubs de lectura, matemática vital... e incluso proyectos o programas en colaboración con entidades locales, comarcales, bibliotecas, etcétera.
 
 Todas estas actividades innovadoras se recogerán en la aplicación Gacepa.
 

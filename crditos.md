@@ -6,7 +6,7 @@ _Versión actualizada octubre de 2018_
 2. Intervención en el aula: Mª Jesús Panzano Sanz
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
-3. FIPA y Comptenecias Clave: Juan Manuel Sanz Casales
+3. FIPA y Competencias Clave: Juan Manuel Sanz Casales
 _Versión actualizada octubre de 2018 por Agustín Sanz Vituri_
 
 4. ESPA y acceso a la Formación Profesional: Luciano Sáez Rodríguez
