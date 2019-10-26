@@ -9,6 +9,8 @@ La FIPA consta de dos niveles:
 * Nivel I o de iniciación
 * Nivel II o de consolidación
 
+![](/assets/clase de adultos.jpg)
+
 La Educación Secundaria para Personas Adultas es la adaptación de la E.S.O. para las personas adultas, se organiza en dos niveles mediante un sistema modular cuatrimestral de dos cursos. Al finalizar estos estudios se alcanza el título de Graduado en Educación Secundaria Obligatoria. Este título da acceso al Bachillerato, a los Ciclos de Formación Profesional de Grado Medio y a los Certificados de Profesionalidad de Nivel 2.
 
 ## **Evaluación**
