@@ -74,9 +74,9 @@
   * [5.3. Propuesta de actividades con aprendizaje cooperativo](53_propuesta_de_actividades_con_aprendizaje_cooperativo.md)
   * [Resumen](resumen51.md)
 
-## 3. FIPA y Competencias Clave
+## 3. FIPA y ESPA
 
-* [FIPA y Competencias Clave](index2.md)
+* [FIPA y ESPA](index2.md)
 * [U2. Características del alumnado](u2_caractersticas_del_alumnado.md)
   * [Resumen](resumen22.md)
 * [U3. Materiales para la FIPA](u3_materiales_para_la_fipa.md)
@@ -88,9 +88,9 @@
   * [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
   * [Resumen](resumen42.md)
 
-## 4. ESPA y acceso a la FP
+## 4. Competencias Clave y acceso a FP
 
-* [4. ESPA y acceso a la FP](index3.md)
+* [4. Competencias Clave y acceso a la FP](index3.md)
 * [U1. Marco normativo de la FIPA](u1_marco_normativo.md)
   * [Resumen](resumen3u1.md)
   * [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
