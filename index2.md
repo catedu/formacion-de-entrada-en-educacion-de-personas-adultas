@@ -4,9 +4,12 @@
 
 La Formación Inicial de Personas Adultas \(FIPA\) engloba un conjunto de ofertas educativas que abarcan desde la alfabetización hasta la adquisición de competencias que permitan el acceso a la Educación Secundaria para Personas Adultas \(ESPA\). Además, son pieza clave en otros procesos formativos, como  el aprendizaje del español como lengua nueva o  el acceso a procesos de cualificación profesional.
 
-La Educación Secundaria para Personas Adultas es la adaptación de la E.S.O. para las personas adultas, se organiza en un sistema modular cuatrimestral de dos cursos. Al finalizar estos estudios se alcanza el título de Graduado en Educación Secundaria Obligatoria. Este título da acceso al Bachillerato, a los Ciclos de Formación Profesional de Grado Medio y a los Certificados de Profesionalidad de Nivel 2.
+La FIPA consta de dos niveles:
 
+* Nivel I o de iniciación
+* Nivel II o de consolidación
 
+La Educación Secundaria para Personas Adultas es la adaptación de la E.S.O. para las personas adultas, se organiza en dos niveles mediante un sistema modular cuatrimestral de dos cursos. Al finalizar estos estudios se alcanza el título de Graduado en Educación Secundaria Obligatoria. Este título da acceso al Bachillerato, a los Ciclos de Formación Profesional de Grado Medio y a los Certificados de Profesionalidad de Nivel 2.
 
 ## **Evaluación**
 
@@ -25,13 +28,13 @@ Las tareas propuestas debes hacerlas en un fichero de texto y remitirlas al tuto
 
 ## Contenidos
 
-* **Unidad 1. Normativa y organización de FIPA**: fundamentación teórica y conceptos básicos.
+* **Unidad 1. Normativa y organización.**
 
-* **Unidad 2. Características del alumnado de FIPA.**
+* **Unidad 2. Características del alumnado.**
 
 * **Unidad 3. Principios metodológicos y materiales didácticos.**
 
-* **Unidad 4. Nivel de cualificación N-2.** Finalidades y organización.
+* **Unidad 4. **
 
 \(Tiempo de dedicación estimado: **10 horas**\).
 
