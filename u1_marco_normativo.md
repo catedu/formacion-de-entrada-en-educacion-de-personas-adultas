@@ -1,4 +1,4 @@
-# U1. Normativa
+# U1. Currículos de FIPA y ESPA
 
 ## **Introducción**
 
@@ -10,6 +10,7 @@ Además, conviene conocer la [Resolución de 19 de Marzo de 2015, del Director G
 
 La **ESPA** se regula mediante la [ORDEN de 2 de julio de 2008, de la Consejera de Educación, Cultura y Deporte,](http://benasque.aragob.es:443/cgi-bin/BOAE/BRSCGI?CMD=VEROBJ&MLKOB=284788595953) por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón y la [CORRECCIÓN de errores de la Orden de 2 de julio de 2008, de la Consejera de Educación, Cultura y Deporte](http://benasque.aragob.es:443/cgi-bin/BOAE/BRSCGI?CMD=VEROBJ&MLKOB=287516792626) por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón.
 
-Para realizar las tareas deberás utilizar estas normativas.
+Actualmente nos encontramos en el proceso de creación del nuevo currículo de ESPA, puedes consultar el proceso de información pública e incluso el primer borrador del nuevo currículo en esta [publicación en EPALE](https://epale.ec.europa.eu/es/content/informacion-publica-del-proyecto-de-orden-del-nuevo-curriculo-de-educacion-secundaria-para).
 
+Para realizar las tareas deberás utilizar estas normativas.
 

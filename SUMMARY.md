@@ -77,7 +77,7 @@
 ## Enseñanzas básicas en EPA
 
 * [Enseñanzas básicas en EPA](index2.md)
-* [U1. Normativa](u1_marco_normativo.md)
+* [U1. Currículos FIPA y ESPA](u1_marco_normativo.md)
   * [Resumen](resumen3u1.md)
   * [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
 * [U2. Características del alumnado](u2_caractersticas_del_alumnado.md)
