@@ -1,6 +1,6 @@
 # U1. Currículos de FIPA y ESPA
 
-## **Introducción**
+## 
 
 En esta primera unidad vamos a analizar la normativa que establece la organización y el currículo de la Formación Inicial para Personas Adultas y de la Educación Secundaria para Personas Adultas en la Comunidad Autónoma de Aragón. Trataremos de extraer aquellos aspectos que inciden directamente sobre la práctica de acogida del alumno en el centro, su valoración inicial y su adscripción. También trataremos  algunos aspectos del currículo y la organización de estas enseñanzas.
 
