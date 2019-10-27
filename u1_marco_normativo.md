@@ -1,23 +1,15 @@
-# U1. Marco normativo de la FIPA
+# U1. Normativa
 
-## Importante
+## **Introducción**
 
-**Introducción**
+En esta primera unidad vamos a analizar la normativa que establece la organización y el currículo de la Formación Inicial para Personas Adultas y de la Educación Secundaria para Personas Adultas en la Comunidad Autónoma de Aragón. Trataremos de extraer aquellos aspectos que inciden directamente sobre la práctica de acogida del alumno en el centro, su valoración inicial y su adscripción. También trataremos  algunos aspectos del currículo y la organización de estas enseñanzas.
 
-En esta primera unidad vamos a analizar la normativa que establece la organización y el currículo  de la Formación Inicial para Personas Adultas en la Comunidad Autónoma de Aragón. Trataremos de extraer aquellos aspectos que inciden directamente sobre la práctica de acogida del alumno en el centro, su valoración inicial y su adscripción. También trataremos  algunos aspectos del currículo y la organización de estas enseñanzas.
+La **FIPA** se regula por la [Orden del 18 de noviembre de 2008](http://benasque.aragob.es:443/cgi-bin/BOAE/BRSCGI?CMD=VEROBJ&MLKOB=284788595953) \(BOA 03/12/2008\) y la [ORDEN de 10 de noviembre de 2014, de la Consejera de Educación, Universidad, Cultura y Deporte, por la que se modifica la Orden de 18 de noviembre de 2008.](http://aularagon.catedu.es/materialesaularagon2013/fepa/FIPA Orden 10noviembre2014.pdf)
 
-**Evaluación**
+Además, conviene conocer la [Resolución de 19 de Marzo de 2015, del Director General de Política Educativa y Educación Permanente, por el que se abre el proceso extraordinario de autorización establecido en la orden de 10 de noviembre de 2014.](http://aularagon.catedu.es/materialesaularagon2013/fepa/FIPA Orden 19marzo2015.pdf)
 
-Para realizar las tareas deberás utilizar la Orden del 18 de noviembre de 2008 \(BOA 03/12/2008\), del que quizá dispongas una copia en tu propio centro. Si te resulta más fácil, puedes obtener esta Orden en [este enlace](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&guiaeducativa=&strSeccion=PPI04&titpadre=Educaci%F3n+permanente&rrpadres=$Curr%EDculo+Ense%F1anzas+b%E1sicas+personas+adultas&arrides=$686&arridesvin=$&lngArbol=1741&lngArbolvinculado=).
+La **ESPA** se regula mediante la [ORDEN de 2 de julio de 2008, de la Consejera de Educación, Cultura y Deporte,](http://benasque.aragob.es:443/cgi-bin/BOAE/BRSCGI?CMD=VEROBJ&MLKOB=284788595953) por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón y la [CORRECCIÓN de errores de la Orden de 2 de julio de 2008, de la Consejera de Educación, Cultura y Deporte](http://benasque.aragob.es:443/cgi-bin/BOAE/BRSCGI?CMD=VEROBJ&MLKOB=287516792626) por la que se establece la organización y el currículo de la Educación secundaria para personas adultas en la Comunidad Autónoma de Aragón.
 
-> **tip**
->
-> ## Para saber más
->
-> El profesorado no funcionario que podrá impartir enseñanzas de Formación Inicial se autoriza según la siguiente normativa:
->
-> * [ORDEN de 10 de noviembre de 2014, de la Consejera de Educación, Universidad, Cultura y Deporte, por la que se modifica la Orden de 18 de noviembre de 2008, del Departamento de Educación, Cultura y Deporte, por la que se establece la organización y el currículo de la formación inicial para personas adultas en la Comunidad Autónoma de Aragón.](http://aularagon.catedu.es/materialesaularagon2013/fepa/FIPA Orden 10noviembre2014.pdf)
-> * [Resolución de 19 de Marzo de 2015, del Director General de Política Educativa y Educación Permanente, por el que se abre el proceso extraordinario de autorización establecido en la orden de 10 de noviembre de 2014, de la Consejera de Educación, Universidad, Cultura y Deporte.](http://aularagon.catedu.es/materialesaularagon2013/fepa/FIPA Orden 19marzo2015.pdf)
-
+Para realizar las tareas deberás utilizar estas normativas.
 
 

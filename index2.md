@@ -2,6 +2,8 @@
 
 ## **Introducción**
 
+Se consideran enseñanzas básicas en Educación de Personas Adultas aquellas que preparan o dan acceso a la titulación básica española, el título de Graduado en E.S.O.
+
 La Formación Inicial de Personas Adultas \(FIPA\) engloba un conjunto de ofertas educativas que abarcan desde la alfabetización hasta la adquisición de competencias que permitan el acceso a la Educación Secundaria para Personas Adultas \(ESPA\). Además, son pieza clave en otros procesos formativos, como  el aprendizaje del español como lengua nueva o  el acceso a procesos de cualificación profesional.
 
 La FIPA consta de dos niveles:
