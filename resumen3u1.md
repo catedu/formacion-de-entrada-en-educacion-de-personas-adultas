@@ -2,7 +2,7 @@
 
 Como síntesis de la unidad, y recordatorio de algunos aspectos fundamentales, puedes ver [esta presentación](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_3/ResumenU1_Marco_normativo_FIPA.pdf).
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRT4gD_3t7dqYDkUGN0rS35NUM6ZMxGVrPV9yzuq9z0EBjNar6LOSBCjGRQT1f5HdziVLaqxSIg6Oev/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRT4gD_3t7dqYDkUGN0rS35NUM6ZMxGVrPV9yzuq9z0EBjNar6LOSBCjGRQT1f5HdziVLaqxSIg6Oev/pub?embedded=true"width="100%" height="400px"></iframe>
 
 > **tip**
 >
