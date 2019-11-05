@@ -1,7 +1,5 @@
 # U2. Aproximación histórica
 
-
-
 > ### Introducción
 >
 > La educación es algo vivo que evoluciona a través de los siglos; la educación de personas adultas no va a ser una excepción. Es importante conocer **su génesis, sus cambios y transformaciones** para aprender. Un segundo bloque en esta Unidad te acercará a los **organismos internacionales** que tienen relación con la educación permanente.

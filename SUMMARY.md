@@ -74,7 +74,7 @@
   * [5.3. Propuesta de actividades con aprendizaje cooperativo](53_propuesta_de_actividades_con_aprendizaje_cooperativo.md)
   * [Resumen](resumen51.md)
 
-## Enseñanzas básicas en EPA
+## 3. Enseñanzas básicas en EPA
 
 * [Enseñanzas básicas en EPA](index2.md)
 * [U1. Currículos FIPA y ESPA](u1_marco_normativo.md)
@@ -85,22 +85,22 @@
 * [U3. Materiales para la FIPA](u3_materiales_para_la_fipa.md)
   * [Contenido](contenido.md)
   * [Resumen](resumen32.md)
-* [U4. Competencias Clave N2 y N3](u4_nivel_de_cualificacin_n2_y_n3.md)
-  * [4.1. Certificados de profesionalidad](41_certificados_de_profesionalidad.md)
-  * [4.2. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
-  * [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
-  * [Resumen](resumen42.md)
-
-## 4. Competencias Clave y acceso a FP
-
-* [4. Competencias Clave y acceso a la FP](index3.md)
-* [U1. La ESPA](u1_la_espa.md)
+* [U4. La ESPA](u1_la_espa.md)
   * [1.1. Concepto de adaptación](11_concepto_de_adaptacin.md)
   * [1.2. Perfil sociológico del alumnado](12_perfil_sociolgico_del_alumnado.md)
   * [1.3. Organización de las enseñanzas](13_organizacin_de_las_enseanzas.md)
   * [1.4. Un currículo basado en competencias](14_un_currculo_basado_en_competencias.md)
   * [1.5. Instrumentos de evaluación](15_instrumentos_de_evaluacin.md)
   * [1.6. Modalidades](16_modalidades.md)
+
+## 4. Competencias Clave y acceso a FP
+
+* [Competencias Clave y acceso a la FP](index3.md)
+* [U1. Competencias Clave N2 y N3](u4_nivel_de_cualificacin_n2_y_n3.md)
+  * [4.1. Certificados de profesionalidad](41_certificados_de_profesionalidad.md)
+  * [4.2. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
+  * [4.3. Cursos de preparación de las pruebas](43_cursos_de_preparacin_de_las_pruebas.md)
+  * [Resumen](resumen42.md)
 * [U2. Cursos de preparación a las pruebas de acceso a Ciclos Formativos](u2_cursos_de_preparacin_a_las_pruebas_de_acceso_a_ciclos_formativos.md)
   * [2.1. Normativa reguladora](21_normativa_reguladora.md)
   * [2.2. Modalidades](22_modalidades.md)
@@ -109,7 +109,7 @@
 
 ## 5. Español como nueva lengua
 
-* [5. Español como nueva lengua](index4.md)
+* [Español como nueva lengua](index4.md)
 * [U1. Explorando el terreno: las preguntas](u1_explorando_el_terreno_las_preguntas.md)
   * [Contenidos](contenidos.md)
   * [Resumen](resumenM5.md)

@@ -2,22 +2,22 @@ En octubre de 2014, se firmó un importante acuerdo por parte de la Comisión de
 
 Mediante este acuerdo se diseñó un curso de Introducción a la informática con las siguientes adaptaciones respecto a este mismo curso de Aula Mentor:
 
-*  Duración cuatrimestral con exámenes presenciales en las convocatorias de Aula Mentor de los meses de febrero y junio.
+* Duración cuatrimestral con exámenes presenciales en las convocatorias de Aula Mentor de los meses de febrero y junio.
 * Incorporación de dos sesiones presenciales a la semana.
 * Establecer como cuota un pago único de 20 € por curso. Esta cuota tendrá como finalidad atender los gastos de funcionamiento del Aula Mentor que imparta el curso.
 
-Los contenidos y resto de cuestiones organizativas y administrativas del curso quedan idénticas al curso homólogo de Aula Mentor.
+Los contenidos y resto de cuestiones organizativas y administrativas del curso quedan idénticas al curso homólogo de Aula Mentor.
 
-Para hacer posibles la creación e impartición de este curso, ambas partes se comprometieron:
+Para hacer posibles la creación e impartición de este curso, ambas partes se comprometieron:
 
-Por parte del Ministerio de Educación, Cultura y Deporte:
+Por parte del Ministerio de Educación, Cultura y Deporte:
 
-*  Adaptar la plataforma de Aula Mentor a las características organizativas específicas del curso.
+* Adaptar la plataforma de Aula Mentor a las características organizativas específicas del curso.
 * Impartir la formación de tutores del curso.
 
-Por parte del Departamento de Educación, Universidad, Cultura y Deporte:
+Por parte del Departamento de Educación, Universidad, Cultura y Deporte:
 
-*  Las Aulas Mentor de la Comunidad Autónoma de Aragón que ofrezcan este curso deberán contar con un tutor que haya realizado y superado la formación para tutores del curso Introducción a la Informática de Aula Mentor. Estos tutores deberán impartir el curso, tanto su parte presencial como a distancia. Por tanto,  estos cursos no generarán gastos tutoriales de Aula Mentor. 
+* Las Aulas Mentor de la Comunidad Autónoma de Aragón que ofrezcan este curso deberán contar con un tutor que haya realizado y superado la formación para tutores del curso Introducción a la Informática de Aula Mentor. Estos tutores deberán impartir el curso, tanto su parte presencial como a distancia. Por tanto,  estos cursos no generarán gastos tutoriales de Aula Mentor. 
 * Hacerse cargo del coste de la formación de los tutores del curso.
 
 Este curso semipresencial de Introducción a la informática constituye un éxito con más de 750 matrículas en el curso 2017/18, lo que supone más del 40% del total de matrículas de Aula Mentor en Aragón \(1795\) en ese curso escolar.
