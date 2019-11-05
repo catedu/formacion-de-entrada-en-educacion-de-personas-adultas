@@ -28,15 +28,11 @@
 
 * **Unidad 2. Breve aproximación histórica a la educación de personas adultas en España**; el papel de los organismos internacionales: UNESCO, OCDE, OEI y Unión Europea.
 
-* **Unidad 3. La educación de personas adultas en la CCAA de Aragón**: oferta formativa, destinatarios y red pública de centros. 
+* **Unidad 3. La educación de personas adultas en la CCAA de Aragón**: oferta formativa, destinatarios y red pública de centros.
 
-* **Unidad 4. Marco normativo** de la educación de personas adultas: Ley Orgánica de Educación, Ley de Educación Permanente de Aragón y otra normativa básica. 
+* **Unidad 4. Marco normativo** de la educación de personas adultas: Ley Orgánica de Educación, Ley de Educación Permanente de Aragón, Ley de Aprendizaje a lo largo de la vida adulta y otra normativa básica.
 
-* **Unidad 5. Instrucciones que regulan el funcionamiento** de la Educación Permanente en Aragón. 
+* **Unidad 5. Instrucciones que regulan el funcionamiento** de la Educación Permanente en Aragón.
 
 \(Tiempo de dedicación estimado: **10 horas**\).
-
-
-
-
 

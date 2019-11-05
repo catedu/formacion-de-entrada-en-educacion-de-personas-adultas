@@ -8,7 +8,7 @@
 
 1.3. La educación de personas adultas en la CCAA de Aragón: oferta formativa, destinatarios y red pública de centros.
 
-1.4. Marco normativo de la educación de personas adultas: Ley Orgánica de Educación, Ley de Educación Permanente de Aragón y otra normativa básica.
+1.4. Marco normativo de la educación de personas adultas: Ley Orgánica de Educación, Ley de Educación Permanente de Aragón, Ley de Aprendizaje a lo largo de la vida adulta y otra normativa básica.
 
 1.5. Instrucciones que regulan el funcionamiento de los Centros de Educación de Personas Adultas en Aragón.
 
