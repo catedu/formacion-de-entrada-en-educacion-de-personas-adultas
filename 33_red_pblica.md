@@ -13,8 +13,9 @@ La **LEY 16/2002, de 28 de junio, de educación permanente de Aragón**, especif
 - Podrán crearse Aulas de Educación Permanente cuya titularidad corresponda a otra Administración o entidad sin fines de lucro distinta de la Diputación General de Aragón. Estas Aulas de Educación Permanente estarán adscritas a un Centro público de Educación Permanente.
 - Con carácter complementario, podrán crearse, en los Institutos de Educación Secundaria, Secciones de Educación Permanente, que colaborarán en la ejecución de la planificación educativa del Centro público de adultos de su ámbito territorial.
 
-![](img/mapa.gif)
-<td valign="top" width="576">Mapa comarcal de Aragón y Red de Centros públicos de EPA (del Plan de Promoción para el Aprendizaje en Aragón, curso 2012-13, editado por el Departamento de Educación, Universidad, Cultura y Deporte del Gobierno de Aragón.)</td>
+![](/assets/mapa cpepas.jpg)
+
+Mapa comarcal de Aragón con la distribución de CPEPAs (del Plan de Aprendizaje Permanente de Aragón, curso 2018-19, editado por el Departamento de Educación, Cultura y Deporte del Gobierno de Aragón.)</td>
 
 >**info**
 >## Importante
