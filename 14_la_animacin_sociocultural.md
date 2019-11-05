@@ -1,4 +1,3 @@
-
 # 1.4. La animación sociocultural
 
 La animación sociocultural en Europa surge con carácter paliativo para reducir las desigualdades y compartir la cultura. El desarrollo más importante de la animación sociocultural se da en la segunda mitad del siglo XX a partir de los movimientos de educación popular.
@@ -23,37 +22,38 @@ La animación sociocultural intenta, entre otros valores, favorecer a las person
 
 ### 4.4. Valores que promueve la animación sociocultural
 
-- El pluralismo: tolerancia de multitud de opiniones.
-- La concientización: conocimiento crítico de la realidad social y disposición a la transformación de la misma.
-- La libertad: como impulso personal a la autorrealización.
-- La democracia: desarrollo individual desde el medio social en el que vive el hombre.
-- Las relaciones humanas: entre iguales, buscando una mayor calidad de vida.
+* El pluralismo: tolerancia de multitud de opiniones.
+* La concientización: conocimiento crítico de la realidad social y disposición a la transformación de la misma.
+* La libertad: como impulso personal a la autorrealización.
+* La democracia: desarrollo individual desde el medio social en el que vive el hombre.
+* Las relaciones humanas: entre iguales, buscando una mayor calidad de vida.
 
 ### 4.5. Relación de la animación sociocultural y conceptos afines
 
-**a) Animación sociocultural y educación permanente**
+**a\) Animación sociocultural y educación permanente**
 
 La educación permanente es un concepto muy amplio que engloba el resto de las modalidades educativas. La animación sociocultural y la educación permanente pueden considerarse como el anverso y reverso de una misma realidad, promoviendo ambas la democracia cultural.
 
-**b) Animación sociocultural y educación formal, no formal e informal.**
+**b\) Animación sociocultural y educación formal, no formal e informal.**
 
 La animación sociocultural es un proceso que puede y debe estar presente en cualquier proceso de aprendizaje, sea formal, no formal o informal.
 
-**c) Animación sociocultural y gestión cultural.**
+**c\) Animación sociocultural y gestión cultural.**
 
 Aunque con el mismo objetivo, difieren en métodos y procedimientos ya que la gestión se refiere básicamente a la realización de trámites y la resolución de problemáticas concretas, normalmente por agentes externos.
 
-**d) Animación sociocultural y educación de personas adultas.**
+**d\) Animación sociocultural y educación de personas adultas.**
 
-La expresión educación de personas adultasdesigna la totalidad de los procedimientos organizados de educación, sea cual sea el contenido, el nivel y el método, gracias a los cuales las personas consideradas como adultas desarrollan sus aptitudes, desarrollan sus conocimientos, mejoran sus competencias técnicas o profesionales buscando el enriquecimiento integral de las personas y la participación en el desarrollo socioeconómico de la sociedad a la que pertenecen.
+La expresión educación de personas adultas designa la totalidad de los procedimientos organizados de educación, sea cual sea el contenido, el nivel y el método, gracias a los cuales las personas consideradas como adultas desarrollan sus aptitudes, desarrollan sus conocimientos, mejoran sus competencias técnicas o profesionales buscando el enriquecimiento integral de las personas y la participación en el desarrollo socioeconómico de la sociedad a la que pertenecen.
 
 Ambos conceptos guardan una estrecha vinculación:
 
-- La animación sociocultural sirve de complemento a los procesos de educación de personas adultas.
-- La animación sociocultural constituye, en sí misma, una metodología específica de intervención en personas adultas.
+* La animación sociocultural sirve de complemento a los procesos de educación de personas adultas.
+* La animación sociocultural constituye, en sí misma, una metodología específica de intervención en personas adultas.
 
 Es fundamental que la animación sociocultural no sea considerada como un fin en sí misma, ni como un apartado más de un programa de actividades, sino como una herramienta metodológica de gran importancia que acompañe y fundamente los procesos de aprendizaje.
 
-**e) Animación sociocultural y desarrollo comunitario**
+**e\) Animación sociocultural y desarrollo comunitario**
 
 Se concibe el desarrollo comunitario como un instrumento de progreso que lleva a las comunidades a la consecución de una mejora generalizada y global en la calidad de vida.Por medio de la animación sociocultural los miembros de una comunidad adquieren identidad de pertenencia, de promoción colectiva de la comunidad y proceso participativo.
+

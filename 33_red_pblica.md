@@ -19,7 +19,7 @@ La **LEY 16/2002, de 28 de junio, de educación permanente de Aragón**, especif
 >**info**
 >## Importante
 >
->[**Plan de formación para el aprendizaje permanente de Aragón 2017-18**](http://www.educaragon.org/files/Plan_Aprendizaje_Permanente_2017_18.pdf).
+>[**Plan de formación para el aprendizaje permanente de Aragón 2018-19**](http://www.educaragon.org/FILES/Plan_Aprendizaje_Permanente_2018_19%20.pdf).
 
  
 
