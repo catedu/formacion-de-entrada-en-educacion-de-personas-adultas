@@ -1,7 +1,6 @@
+# 4.4. Un currículo basado en competencias
 
-# 1.4. Un currículo basado en competencias
-
-La Ley Orgánica de Educación de 2006 plantea el desarrollo curricular por competencias, siguiendo las directrices de la Unión Europea. Este nuevo enfoque didáctico resalta la capacidad para usar de forma eficiente o adecuada los conocimientos, destrezas y actitudes en una determinada situación. Así, podríamos definir competencia como el *conjunto de habilidades cognitivas, procedimentales y actitudinales que pueden y deben ser alcanzadas a lo largo de la educación obligatoria por la mayoría del alumnado y que resultan imprescindibles para garantizar el desenvolvimiento personal y social y la adecuación a las necesidades del contexto vital, así como para el ejercicio efectivo de los derechos y deberes ciudadanos*.
+La Ley Orgánica de Educación de 2006 plantea el desarrollo curricular por competencias, siguiendo las directrices de la Unión Europea. Este nuevo enfoque didáctico resalta la capacidad para usar de forma eficiente o adecuada los conocimientos, destrezas y actitudes en una determinada situación. Así, podríamos definir competencia como el _conjunto de habilidades cognitivas, procedimentales y actitudinales que pueden y deben ser alcanzadas a lo largo de la educación obligatoria por la mayoría del alumnado y que resultan imprescindibles para garantizar el desenvolvimiento personal y social y la adecuación a las necesidades del contexto vital, así como para el ejercicio efectivo de los derechos y deberes ciudadanos_.
 
 Siguiendo ese desarrollo, el currículo establecido por la Orden de 2 de julio de 2008, de la Consejera de Educación, Cultura y Deporte del Gobierno de Aragón está basado en competencias.
 
@@ -14,3 +13,4 @@ El elemento clave, desde el punto de vista didáctico, de este nuevo enfoque es 
 **Currículo multidisciplinar**: este enfoque curricular subraya las conexiones y relaciones entre las distintas materias del currículo.
 
 **Currículo globalizado**: parte de situaciones de la vida real donde deben aplicarse saberes y destrezas para resolverlas; no existen las materis. Las actividades de enseñanza-aprendizaje se desarrollan alrededor de un centro de inetrés, el motor y guía del aprendizaje.
+

@@ -1,4 +1,4 @@
-# 1.6. Modalidades
+# 4.6. Modalidades
 
 La ESPA en Aragón se desarrolla a través de dos modalidades, que conllevan dos modelos organizativos distintos:
 

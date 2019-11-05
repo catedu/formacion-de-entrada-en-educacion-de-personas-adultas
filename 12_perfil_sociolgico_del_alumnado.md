@@ -1,5 +1,5 @@
 
-# 1.2. Perfil sociológico del alumnado
+# 4.2. Perfil sociológico del alumnado
 
 La enseñanza básica para personas adultas, desde mediados del siglo XIX, fecha de su nacimiento, hasta hasta 1978, momento en el se consigue escolarizar total de la población de 6 a 14 años en España, cumplió la función de completar la formación básica, principalmente, de las personas que no habían podido ir a la escuela o que la habían tenido que abandonar de forma prematura. Tenían la función de compensar las deficiencias de la escolarización infantil.
 

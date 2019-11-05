@@ -1,5 +1,5 @@
 
-# 1.3. Organización de las enseñanzas
+# 4.3. Organización de las enseñanzas
 
 El Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación secundaria obligatoria, en su disposición Adicional primera referida a la Educación de Personas Adultas, establece la adaptación de la Educación Secundaria Obligatoria en una estructura de tres ámbitos (ámbito Social, ámbito de Comuncación y ámbito Científico-tecnológico) y dos niveles (correspondientes a dos cursos académicos), en los que se integran todas las materias de la Educación secundaria obligatoria, fijando un marco común para todo el Estado Español. Cada Comunidad Autónoma, en el ámbito de competencias, debe completar esta organización, pudiendo establecer sistemas multidisciplinares (más o menos globalizados) o modulares.
 
