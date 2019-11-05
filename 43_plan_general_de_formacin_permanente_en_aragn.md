@@ -1,4 +1,3 @@
-
 # 4.3. Plan General de Formación Permanente en Aragón.
 
 ## Actividad de lectura

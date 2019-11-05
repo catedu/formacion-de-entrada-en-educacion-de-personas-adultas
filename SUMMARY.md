@@ -35,9 +35,10 @@
 * [U4. Marco normativo](u4_marco_normativo.md)
   * [4.1. La Ley Orgánica de Educación](41_la_ley_orgnica_de_educacin.md)
   * [4.2. La Ley de Educación Permanente en Aragón](42_la_ley_de_educacin_permanente_en_aragn.md)
-  * [4.3. Plan General de Formación Permanente en Aragón.](43_plan_general_de_formacin_permanente_en_aragn.md)
-  * [4.4. Ley Orgánica de las Cualificaciones y de la Formación Profesional](44_ley_orgnica_de_las_cualificaciones_y_de_la_formacin_profesional.md)
-  * [4.5. Otra normativa básica](45_otra_normativa_bsica.md)
+  * [4.3. La Ley de Aprendizaje a lo largo de la vida adulta](ley.md)
+  * [4.4. Plan General de Formación Permanente en Aragón.](43_plan_general_de_formacin_permanente_en_aragn.md)
+  * [4.5. Ley Orgánica de las Cualificaciones y de la Formación Profesional](44_ley_orgnica_de_las_cualificaciones_y_de_la_formacin_profesional.md)
+  * [4.6. Otra normativa básica](45_otra_normativa_bsica.md)
   * [Resumen](resumen4.md)
 * [U5. Instrucciones de funcionamiento](u5_instrucciones_de_funcionamiento.md)
   * [5.1. Instrucciones que regulan la organización y funcionamiento de los Centros de Personas Adultas](51_instrucciones_que_regulan_la_organizacin_y_funcionamiento_de_los_centros_de_personas_adultas.md)
@@ -144,7 +145,7 @@
 * [U2. Perfil del alumnado](2_perfil_del_alumnado.md)
 * [U3. Contenidos y características de los cursos](4_contenidos_cursos.md)
 
-## 7.  Enseñanzas de la modalidad a distancia
+## 7.  Enseñanzas de la modalidad a distancia y semipresenciales
 
 * [Enseñanzas a distancia y semipresenciales](index6.md)
 * [U1. Moodle Aularagón](u1_aularagn_y_el_aula_de_autoaprendizaje.md)

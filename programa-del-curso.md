@@ -12,8 +12,6 @@
 
 1.5. Instrucciones que regulan el funcionamiento de los Centros de Educación de Personas Adultas en Aragón.
 
- 
-
 **2. Intervención en el aula**
 
 2.1. El aprendizaje en la edad adulta.
@@ -26,23 +24,15 @@
 
 2.5. El trabajo cooperativo en EPA.
 
- 
+**3. Enseñanzas FIPA y ESPA**
 
-**3. Enseñanzas FIPA y Competencias Clave**
-
-3.1. Marco normativo de las enseñanzas iniciales.
+3.1. Currículos de FIPA y ESPA.
 
 3.2. Características psicosociales del alumnado.
 
 3.3. Estrategias didácticas de intervención. Materiales para la FIPA.
 
-3.4. Competencias Clave N2 y N3.
-
- 
-
-**4. ESPA y Acceso a Ciclos de la FP**
-
-4.1. La ESPA.
+3.4. La ESPA.
 
 * Concepto de adaptación
 * Perfil sociológico del alumnado
@@ -51,13 +41,20 @@
 * Instrumentos de evaluación
 * Modalidades
 
+**4. Competencias Clave y Acceso a Ciclos de la FP**
+
+4.1. Competencias Clave N2 y N3.
+
+* Certificados de Profesionalidad
+* Acceso a los Certificados de Profesionalidad
+* Cursos de preparación de las Pruebas Libres.
+
 4.2. Cursos de preparación a las pruebas de acceso a Ciclos Formativos
 
 * Normativa reguladora
 * Modalidades
 * Perfil de los participantes
 * El futuro próximo
- 
 
 **5. Español como lengua nueva**
 
@@ -69,31 +66,30 @@
 
 5.4. Construyendo puentes: los objetivos.
 
- 
-
 **6. Cursos de Promoción y Extensión Educativa y Cursos de Formación para el Empleo**
 
-6.1. Breve indagación histórica.
+6.1. Un poco de historia
 
-6.2. Características psicosociales del alumnado y sus necesidades educativas.
+6.2. Perfil del alumnado.
 
-6.3. Contenido de los cursos de Promoción y Extensión Educativa.
+6.3. Contenido y características de los cursos.
 
-6.4. Normativa reguladora.
+**7.  Enseñanzas de la modalidad a distancia y semipresenciales**
 
-6.5. Panorama actual de las enseñanzas no regladas en los Centros Públicos de EPA.
+7.1. Moodle Aularagón
 
- 
+* Los inicios de Aularagón
+* Oferta educativa
+* Mesa de trabajo y mensajería
+* Centros de Educación a distancia
 
-**7.  Enseñanzas de la modalidad a distancia**
+7.2. Aula Mentor
 
-7.1. Aularagón y el Aula de Autoaprendizaje. Oferta educativa y estrategias de intervención educativa
-
-7.2. Cursos de formación libre y a distancia: proyecto Mentor. Marco institucional, organización de las enseñanzas y estrategias de intervención educativa
-
-7.3. La enseñanza del español en Internet: Aula Virtual Cervantes. Marco institucional, organización de las enseñanzas y estrategias de intervención educativa.
-
- 
+* Los inicios de Aula Mentor
+* Matrícula, mesa de trabajo y mensajería
+* Oferta educativa
+  * Cursos semipresenciales
+* Administradores y tutores
 
 **8.  El Sistema de Gestión de Calidad de los Centros de EPA**
 
@@ -104,3 +100,4 @@
 8.3. Procesos de prestación del servicio.
 
 8.4. Procesos de apoyo.
+
