@@ -24,5 +24,5 @@ Para la realización de las pruebas, cada Comunidad Autónoma dictará las  dire
 
 En febrero de 2017 la Directora Gerente del Instituto Aragonés de Empleo dictó [Instrucción relativa a las equivalencias laborales académicas con el título de graduado en Educación Secundaria Obligatoria, a efectos de acceso a la formación de los Certificados de Profesionalidad](https://github.com/catedu/formacion-de-entrada-en-educacion-de-personas-adultas/blob/master/InstruccionesEquivalencias_2017.pdf).
 
-Dichas equivalencias se especifican en el Anexo de la mencionada Instrucción, cabe destacara la equivalencia del Certificado de Estudios Primarios y del Graduado Escolar, que anteriormente no se contemplaban.
+Dichas equivalencias se especifican en el Anexo de la mencionada Instrucción, cabe destacar la equivalencia del Certificado de Estudios Primarios y del Graduado Escolar, que anteriormente no se contemplaban.
 

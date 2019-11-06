@@ -1,5 +1,5 @@
 
-# 1.3. Cursos de preparación de las pruebas
+# 1.4. Cursos de preparación de las pruebas
 
 **Cursos de preparación de las pruebas para la obtención del Certificado de superación de las competencias clave necesarias para el acceso a los certificados de profesionalidad**
 
