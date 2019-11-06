@@ -17,5 +17,7 @@ El CAPITULO II de instrumentos de actuación administrativa se refería al Plan 
 
 ## Importante
 
-Texto completo de la [Ley de Educación Permanente en Aragón](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/Ley_EPA_Aragon.pdf).
+Texto completo de la [Ley de Educación Permanente en Aragón](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/Ley_EPA_Aragon.pdf). 
+
+_NO OLVIDES QUE ESTA LEY ESTÁ DEROGADA_
 
