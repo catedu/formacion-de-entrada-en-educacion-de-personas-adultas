@@ -1,4 +1,4 @@
-# 1.2. Acceso a los certificados de profesionalidad
+# 1.3. Acceso a los certificados de profesionalidad
 
 Para que una persona adulta pueda acceder a la formación de los módulos formativos de los certificados de profesionalidad, en los niveles de cualificación profesional 2 y 3, deberá cumplir alguno de los requisitos siguientes:
 

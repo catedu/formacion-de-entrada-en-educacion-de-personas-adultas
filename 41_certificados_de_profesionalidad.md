@@ -1,5 +1,5 @@
 
-# 1.1. Certificados de profesionalidad
+# 1.1. Certificados de profesionalidad: algo de historia
 
 En el año 2002 se redactó la Ley Orgánica 5/2002 de las Cualificaciones y la Formación Profesional que tenía como finalidad:
 

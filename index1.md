@@ -32,5 +32,4 @@
 
 * **Unidad 4. Orientación y tutoría**: Ámbitos de actuación desde la orientación. Plan de Acción Tutorial del centro. Propuesta de actividades de orientación y tutoría por enseñanzas.
 
-* **Unidad 5. Trabajo cooperativo**: definición, elementos y puesta en funcionamiento con ejemplificación en distintas enseñanzas. 
-(Tiempo de dedicación estimado: **10 horas**).
+* **Unidad 5. Trabajo cooperativo**: definición, elementos y puesta en funcionamiento con ejemplificación en distintas enseñanzas.

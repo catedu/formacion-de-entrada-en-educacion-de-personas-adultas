@@ -34,5 +34,5 @@
 
 * **Unidad 5. Instrucciones que regulan el funcionamiento** de la Educación Permanente en Aragón.
 
-\(Tiempo de dedicación estimado: **10 horas**\).
+
 

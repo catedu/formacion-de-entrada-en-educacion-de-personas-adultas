@@ -22,11 +22,13 @@ Este módulo contiene dos partes diferenciadas:
 
 **Unidad 1: Competencias Clave N2 y N3. **
 
-1.1. Certificados de Profesionalidad
+1.1. Certificados de Profesionalidad: algo de historia
 
-1.2. Acceso a los Certificados de Profesionalidad.
+1.2. Certificados de Profesionalidad en CPEPAs
 
-1.3. Cursos de preparación de las pruebas libres.
+1.3. Acceso a los Certificados de Profesionalidad.
+
+1.4. Cursos de preparación de las pruebas libres.
 
 Resumen
 
@@ -39,6 +41,4 @@ Resumen
 2.3. Perfil de los participantes.
 
 2.4. El futuro próximo.
-
-\(Tiempo de dedicación estimado: **10 horas**\).
 

@@ -28,15 +28,9 @@ Tu participación en el foro tras la lectura de cada Unidad y la realización de
 
 **Unidad 1. Explorando el terreno: las preguntas.** “La historia de Khalia y Mombo”.
 
-**Unidad 2. Buscando respuestas: la investigación.** ¿Cómo se adquiere una nueva lengua? ¿Cómo se enseña una nueva lengua? ¿Cómo se gestiona un grupo de enseñanza del español? 
+**Unidad 2. Buscando respuestas: la investigación.** ¿Cómo se adquiere una nueva lengua? ¿Cómo se enseña una nueva lengua? ¿Cómo se gestiona un grupo de enseñanza del español?
 
 **Unidad 3. Enseñando una nueva lengua: las destrezas.** La comprensión oral. La expresión oral. La comprensión escrita. La expresión escrita. Actividades para favorecer el aprendizaje de la lectoescritura.
 
-**Unidad 4. Construyendo puentes: los objetivos**. ¿Qué objetivos tendrán los cursos de español? Marco de la enseñanza del español como segunda lengua. Marco normativo de la Educación de Personas Adultas. 
-
-\(Tiempo de dedicación estimado: **10 horas**\).
-
-
-
-
+**Unidad 4. Construyendo puentes: los objetivos**. ¿Qué objetivos tendrán los cursos de español? Marco de la enseñanza del español como segunda lengua. Marco normativo de la Educación de Personas Adultas.
 

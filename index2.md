@@ -40,5 +40,5 @@ Las tareas propuestas debes hacerlas en un fichero de texto y remitirlas al tuto
 
 * **Unidad 4. La ESPA**
 
-\(Tiempo de dedicación estimado: **10 horas**\).
+
 

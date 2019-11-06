@@ -19,9 +19,7 @@ Tu participación en el foro tras la lectura de cada Unidad y la realización de
 
 **Unidad 1. Un poco de historia. Antecedentes de la formación no reglada. Actualización del catálogo de cursos.**
 
-**Unidad 2. Perfil del alumnado.** 
+**Unidad 2. Perfil del alumnado.**
 
 **Unidad 3. Contenidos y características de los cursos.**
-
-\(Tiempo de dedicación estimado: **10 horas**\).
 

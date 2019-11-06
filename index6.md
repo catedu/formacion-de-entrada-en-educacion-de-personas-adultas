@@ -29,5 +29,5 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
 * **Unidad 2. Aula Mentor**: Oferta educativa, funciones del administrador, administrador de aula auxiliar y tutor, modalidades de cursos Mentor, mesa de trabajo, descarga y envío de actividades, mensajería, orientación y motivación. Formación del profesorado.
 
-\(Tiempo de dedicación estimado: **10 horas**\).
+
 

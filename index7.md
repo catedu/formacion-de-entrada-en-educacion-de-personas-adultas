@@ -44,9 +44,5 @@ La realización de las tareas obligatorias te posibilitará acceder a los **test
 
 * **Unidad 4. Procesos de apoyo. **
 
-\(Tiempo de dedicación estimado: **10 horas**\).
-
-
-
 
 
