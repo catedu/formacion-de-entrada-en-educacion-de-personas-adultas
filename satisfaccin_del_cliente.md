@@ -1,6 +1,6 @@
 # Encuestas de satisfacción
 
-El Sistema de Gestión de Calidad exige medir la satisfacción de los miembros de la comunidad educativa, pare ello se pasan cuestionarios a todos sus miembros en diciembre para alumnado y personal de curso completo y en abril para nuevo alumnado y personal de nueva incorporación.
+El Sistema de Gestión de Calidad exige medir la satisfacción de los miembros de la comunidad educativa, pare ello se pasan cuestionarios a todos sus miembros en diciembre para alumnado de actividades anuales y a realizar en el primer cuatrimestre y personal de curso completo y en abril para alumnado de actividades a realizar en el segundo cuatrimestre y personal de nueva incorporación.
 
 Todos los cuestionarios parten de unas preguntas comunes a todos los centros establecidas por el Comité de Calidad y cada centro puede añadir preguntas específicas.
 
