@@ -30,19 +30,10 @@ Estas cualificaciones pueden ser  adquiridas
 y permiten su correspondencia con los títulos de formación profesional del sistema educativo.
 
 Las cualificaciones se agrupan en 26 **familias profesionales y cinco niveles**:
-
 <table style="width: 100%;" border="1" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td>
+
 <p align="center"><strong>Familias Profesionales</strong></p>
-</td>
-<td>
-<p align="center"><strong>Niveles de Cualificación</strong></p>
-</td>
-</tr>
-<tr>
-<td width="40%">
+
 <ul>
 <li>Agraria</li>
 <li>Marítimo-Pesquera</li>
@@ -70,48 +61,28 @@ Las cualificaciones se agrupan en 26 **familias profesionales y cinco niveles**:
 <li>Hostelería y Turismo</li>
 <li>Actividades Físicas y Deportivas</li>
 <li>Artes y Artesanías</li>
-</ul>
-</td>
-<td valign="top" width="60%">
-<table style="width: 100%;" border="1" cellspacing="0" cellpadding="0">
-<tbody>
+<tr>
+<p align="center"><strong>Niveles de Cualificación</strong></p>
 <tr>
 <td width="10%">&nbsp;Nivel 1</td>
 <td width="89%">
 <p>Competencia en un conjunto reducido de actividades simples, dentro de procesos normalizados.<br> Conocimientos y capacidades limitados.</p>
-</td>
-</tr>
 <tr>
 <td width="10%">&nbsp;Nivel 2</td>
 <td width="89%">
 <p align="left">Competencia en actividades determinadas que pueden ejecutarse con autonomía.<br> Capacidad de utilizar instrumentos y técnicas propias.&nbsp;<br> Conocimientos de fundamentos técnicos y científicos de la actividad del proceso.</p>
-</td>
-</tr>
 <tr>
 <td width="10%">&nbsp;Nivel 3</td>
 <td width="89%">
 <p>Competencia en actividades que requieren dominio de técnicas y se ejecutan con autonomía.<br> Responsabilidad de supervisión de trabajo técnico y especializado.<br> Comprensión de los fundamentos técnicos y científicos de las actividades y del proceso.</p>
-</td>
-</tr>
 <tr>
 <td width="10%">&nbsp;Nivel 4</td>
 <td width="89%">
 <p>Competencia en un amplio conjunto de actividades complejas.<br> Diversidad de contextos con variables técnicas científicas, económicas u organizativas.<br> Responsabilidad de supervisión de trabajo y asignación de recursos.<br> Capacidad de innovación para planificar acciones, desarrollar proyectos, procesos, productos o servicios.</p>
-</td>
-</tr>
 <tr>
 <td width="10%">&nbsp;Nivel 5</td>
 <td width="89%">
 <p>Competencia en un amplio conjunto de actividades muy complejas ejecutadas con gran autonomía.&nbsp;<br> Diversidad de contextos que resultan, a menudo, impredecibles.&nbsp;<br> Planificación de acciones y diseño de productos, procesos o servicios.<br> Responsabilidad en dirección y gestión.<br> &nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 
 (fuente INCUAL)
 
