@@ -1,4 +1,4 @@
-# Contenido
+# Los _tradicionales_
 
 A finales de los años 70 se produce un movimiento de renovación pedagógica en Sudamérica ligado a las campañas de alfabetización. En Brasil, Paulo Freire vincula la alfabetización con el proceso de toma de conciencia de la realidad y la actuación para transformarla. Este movimiento pedagógico pretende que el adulto que se alfabetiza no sólo aprenda la mecánica de la lectoescritura sino que también la utilice como herramienta de transformación de su propia realidad. Freire contrapone el aprendizaje bancario con un aprendizaje que promueva el cambio. Como él mismo decía: “Jamás acepté que la práctica educativa debería limitarse sólo a la lectura de la palabra, a la lectura del texto, sino que debería incluir la lectura del contexto, la lectura del mundo.”
 
