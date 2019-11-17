@@ -88,7 +88,6 @@
   * [Resumen](resumen32.md)
 * [U4. La ESPA](u1_la_espa.md)
   * [4.1. Concepto de adaptación](11_concepto_de_adaptacin.md)
-  * [4.2. Perfil sociológico del alumnado](12_perfil_sociolgico_del_alumnado.md)
   * [4.3. Organización de las enseñanzas](13_organizacin_de_las_enseanzas.md)
   * [4.4. Un currículo basado en competencias](14_un_currculo_basado_en_competencias.md)
   * [4.5. Instrumentos de evaluación](15_instrumentos_de_evaluacin.md)
