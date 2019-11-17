@@ -89,10 +89,10 @@
   * [Resumen](resumen32.md)
 * [U4. La ESPA](u1_la_espa.md)
   * [Adaptación](11_concepto_de_adaptacin.md)
-  * [4.3. Organización de las enseñanzas](13_organizacin_de_las_enseanzas.md)
-  * [4.4. Un currículo basado en competencias](14_un_currculo_basado_en_competencias.md)
-  * [4.5. Instrumentos de evaluación](15_instrumentos_de_evaluacin.md)
-  * [4.6. Modalidades](16_modalidades.md)
+  * [Organización de las enseñanzas](13_organizacin_de_las_enseanzas.md)
+  * [Currículo basado en competencias](14_un_currculo_basado_en_competencias.md)
+  * [Instrumentos de evaluación](15_instrumentos_de_evaluacin.md)
+  * [Modalidades](16_modalidades.md)
 
 ## 4. Competencias Clave y acceso a FP
 

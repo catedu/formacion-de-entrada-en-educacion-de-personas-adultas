@@ -1,4 +1,4 @@
-# 4.4. Un currículo basado en competencias
+# Currículo basado en competencias
 
 La Ley Orgánica de Educación de 2006 plantea el desarrollo curricular por competencias, siguiendo las directrices de la Unión Europea. Este nuevo enfoque didáctico resalta la capacidad para usar de forma eficiente o adecuada los conocimientos, destrezas y actitudes en una determinada situación. Así, podríamos definir competencia como el _conjunto de habilidades cognitivas, procedimentales y actitudinales que pueden y deben ser alcanzadas a lo largo de la educación obligatoria por la mayoría del alumnado y que resultan imprescindibles para garantizar el desenvolvimiento personal y social y la adecuación a las necesidades del contexto vital, así como para el ejercicio efectivo de los derechos y deberes ciudadanos_.
 
