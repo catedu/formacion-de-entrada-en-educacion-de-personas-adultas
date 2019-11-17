@@ -1,6 +1,8 @@
 # U4. La ESPA
 
-La Educación Secundaria para Personas Adultas permite a las personas adultas conseguir el título de Graduado en Educación Secundaria, la titulación básica en nuestro país. De ahí su importancia social y con seguridad la enseñanza más importante en los Centros Públicos de EPA.
+La Educación Secundaria para Personas Adultas permite a las personas adultas conseguir el título de Graduado en Educación Secundaria Obligatoria, la titulación básica en nuestro país.
+
+Además, da acceso a los Certificados de Profesionalidad de nivel 2, los Ciclos Formativos de Grado Medio y el Bachillerato.
 
 ![](img/espa.jpg)
 

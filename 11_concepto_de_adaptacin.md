@@ -1,4 +1,4 @@
-# 4.1. Concepto de adaptación
+# Adaptación
 
 La enseñanza en sus primeros años cumple una función mucho más amplia que la de transmitir contenidos o capacitar de competencias técnicas, teniendo gran importancia la socialización y adquisición de competencias sociales. Dado que esa socialización se ha adquirido en la adultez, se hace necesaria implantar una adaptación de los estudios equivalentes a la formación básica obligatoria para las personas adultas que por la circunstancia que fuere no se hayan en posesión de la titulación básica.
 
@@ -11,5 +11,5 @@ La Ley 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo \(L
 
 La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el artículo 68.1 mantiene igualmente la adaptación de la enseñanza obligatoria a las personas adultas.
 
-La adaptación de las enseñanzas de Educación Secundaria Obligatoria para las personas adultas supone integrar las materias de los cuatro cursos en tres ámbitos de conocimientos \(ámbito Social, ámbito de Comuncación y ámbito Científico-tecnológico\) en dos niveles o cursos.
+**La adaptación** de las enseñanzas de Educación Secundaria Obligatoria para las personas adultas **supone integrar las materias de los cuatro cursos en tres ámbitos de conocimientos** \(ámbito Social, ámbito de Comuncación y ámbito Científico-tecnológico\) **en dos niveles o cursos**.
 

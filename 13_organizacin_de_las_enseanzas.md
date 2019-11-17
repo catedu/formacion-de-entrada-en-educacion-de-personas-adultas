@@ -1,9 +1,9 @@
 
-# 4.3. Organización de las enseñanzas
+# Organización de las enseñanzas
 
-El Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación secundaria obligatoria, en su disposición Adicional primera referida a la Educación de Personas Adultas, establece la adaptación de la Educación Secundaria Obligatoria en una estructura de tres ámbitos (ámbito Social, ámbito de Comuncación y ámbito Científico-tecnológico) y dos niveles (correspondientes a dos cursos académicos), en los que se integran todas las materias de la Educación secundaria obligatoria, fijando un marco común para todo el Estado Español. Cada Comunidad Autónoma, en el ámbito de competencias, debe completar esta organización, pudiendo establecer sistemas multidisciplinares (más o menos globalizados) o modulares.
+El Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, en su disposición Adicional primera referida a la Educación de Personas Adultas, establece la adaptación de la Educación Secundaria Obligatoria en una estructura de tres ámbitos (ámbito Social, ámbito de Comuncación y ámbito Científico-tecnológico) y dos niveles (correspondientes a dos cursos académicos), en los que se integran todas las materias de la ESO, fijando un marco común para todo el Estado Español. Cada Comunidad Autónoma, en el ámbito de competencias, debe completar esta organización, pudiendo establecer sistemas multidisciplinares (más o menos globalizados) o modulares.
 
-La Comunidad Autónoma de Aragón, mediante la Orden de 2 de julio de 2008, de la Consejera de Educación, Cultura y Deporte, establece como organización un sistema modular cuatrimestral. De este modo, la Educación Secundaria para Personas Adultas puede completarse en dos años (cuatro cuatrimestre), equivaliendo un curso de la ESO a un bloque de módulos cuatrimestral.
+La Comunidad Autónoma de Aragón, mediante la Orden de 2 de julio de 2008, de la Consejera de Educación, Cultura y Deporte, establece como organización un sistema modular cuatrimestral. De este modo, la Educación Secundaria para Personas Adultas puede completarse en dos años (cuatro cuatrimestres), equivaliendo un curso de la ESO a un bloque de módulos cuatrimestral.
 
 **DURACIÓN Y DISTRIBUCIÓN HORARIA DE LOS MÓDULOS DE LA **
 
