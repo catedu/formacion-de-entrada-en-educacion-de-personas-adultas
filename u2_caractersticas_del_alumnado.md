@@ -1,4 +1,4 @@
-# U2. Características del alumnado
+# U2. El alumnado de FIPA
 
 ## **Introducción**
 

@@ -81,7 +81,7 @@
 * [U1. Currículos FIPA y ESPA](u1_marco_normativo.md)
   * [Resumen](resumen3u1.md)
   * [Intervención reflexiva en el foro](intervencin_reflexiva_en_el_foro.md)
-* [U2. Características del alumnado](u2_caractersticas_del_alumnado.md)
+* [El alumnado de FIPA](u2_caractersticas_del_alumnado.md)
   * [Resumen](resumen22.md)
 * [U3. Materiales para la FIPA](u3_materiales_para_la_fipa.md)
   * [Contenido](contenido.md)
