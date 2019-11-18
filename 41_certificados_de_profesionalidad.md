@@ -92,10 +92,4 @@ La vinculación de las cualificaciones profesionales y los sistemas de Formació
 
 ![](img/cuadro_INCUAL.jpg)
 
-Los niveles que más vinculación tienen con las actuaciones en los Centros Públicos de Educación de Personas Adultas son los niveles 1,2,3. Y la procedencia del alumnado es la siguiente:
-
-1. En la Educación Secundaria Obligatoria: los Programas de Cualificación Profesional Inicial PCPI, la Formación Profesional Básica FPB: Nivel 1 del CNCP.
-1. En Formación Profesional: título de Técnico, Formación Profesional, en Secundaria: Nivel 2.
-1. En Formación Profesional: título de Técnico Superior, Formación Profesional, en Terciaria: Nivel 3.
-1. En enseñanzas deportivas: título de Técnico Deportivo, en Secundaria: Nivel 2.
-1. En enseñanzas deportivas: título de Técnico Deportivo Superior, en Terciaria: Nivel 3
+Los niveles que tienen vinculación con las actuaciones en los Centros Públicos de Educación de Personas Adultas son los niveles 1,2,3. 

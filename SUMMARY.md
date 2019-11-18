@@ -97,11 +97,11 @@
 ## 4. Competencias Clave y acceso a FP
 
 * [Competencias Clave y acceso a la FP](index3.md)
-* [U1. Competencias Clave N2 y N3](u4_nivel_de_cualificacin_n2_y_n3.md)
+* [U1. Competencias Clave N2 y N3 y Certificados de Profesionalidad](u4_nivel_de_cualificacin_n2_y_n3.md)
   * [1.1. Certificados de profesionalidad: algo de historia](41_certificados_de_profesionalidad.md)
   * [1.2. Certificados de Profesionalidad en los CPEPA](certificados-de-profesionalidad-en-cpepas.md)
   * [1.3. Acceso a los certificados de profesionalidad](42_acceso_a_los_certificados_de_profesionalidad.md)
-  * [1.4. Cursos de preparación de las pruebas libres](43_cursos_de_preparacin_de_las_pruebas.md)
+  * [1.4. Pruebas libres de Competencias Clave](43_cursos_de_preparacin_de_las_pruebas.md)
   * [Resumen](resumen42.md)
 * [U2. Cursos de preparación a las pruebas de acceso a Ciclos Formativos](u2_cursos_de_preparacin_a_las_pruebas_de_acceso_a_ciclos_formativos.md)
   * [2.1. Normativa reguladora](21_normativa_reguladora.md)

@@ -3,7 +3,7 @@
 
 Como síntesis de la unidad, y recordatorio de algunos aspectos fundamentales, puedes ver en [esta presentación](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_3/Resumen_u4.pdf).
 
->**tip**
+>***
 >## Para saber más
 >
 >Para conocer en profundidad el Instituto Nacional de Cualificaciones (INCUAL) , visita su web:
