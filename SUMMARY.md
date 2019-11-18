@@ -107,7 +107,6 @@
   * [2.1. Normativa reguladora](21_normativa_reguladora.md)
   * [2.2. Modalidades](22_modalidades.md)
   * [2.3. Perfil de los participantes](23_perfil_de_los_participantes.md)
-  * [2.4. El futuro próximo](24_el_futuro_prximo.md)
 
 ## 5. Español como nueva lengua
 

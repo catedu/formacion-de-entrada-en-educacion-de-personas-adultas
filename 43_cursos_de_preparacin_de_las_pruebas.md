@@ -19,7 +19,7 @@ Tendrán preferentemente una organización cuatrimestral. En función de las nec
 
 **En la modalidad a distancia**:
 
-- El curso se desarrollará a través de la plataforma Moodle Aularagón. Para lo que el alumnado realizará la matrícula a través del las Aulas de autoaprendizaje  de los Centros Públicos de Educación de Personas Adultas.
+- El curso se desarrollará a través de la plataforma Moodle Aularagón y es tutorizado por profesorado del [CPEPA Casa del Canal](http://casacanal.es/). Para lo que el alumnado realizará la matrícula a través del las Aulas de autoaprendizaje  de los Centros Públicos de Educación de Personas Adultas.
 
 Cualquiera de estas dos modalidades tienen como objetivo que el alumnado esté en condiciones de superar exitosamente la prueba que acredite tener las competencias clave.
 
