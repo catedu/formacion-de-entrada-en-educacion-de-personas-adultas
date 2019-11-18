@@ -1,4 +1,4 @@
-# 1.2. Certificados de profesionalidad en CPEPAs
+# 1.2. Certificados de profesionalidad en los CPEPA
 
 Los CPEPAs solicitan en el mes de marzo-abril los Certificados de Profesionalidad \(o módulos de los mismos\) que quieren impartir al curso siguiente a través de GACEPA, dentro de los que ya tienen autorizados impartir por INAEM, o bien realizan la solicitud de autorización a INAEM para poder impartir otros nuevos certificados si cumplen con todos los requisitos que INAEM marca.
 
