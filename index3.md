@@ -39,6 +39,3 @@ Resumen
 2.2. Modalidades.
 
 2.3. Perfil de los participantes.
-
-2.4. El futuro próximo.
-
