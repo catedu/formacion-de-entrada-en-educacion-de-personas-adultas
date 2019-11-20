@@ -13,7 +13,7 @@ El estudio de este módulo te permitirá responder a estas y otras preguntas.
 * Conocer la legislación y normativa referida a las enseñanzas de CCN2, Certificados de Profesionalidad y de los cursos de preparación a las pruebas de acceso a Ciclos Formativos.
 * Familiarizarse con el perfil del alumnado que cursa estas enseñanzas.
 * Saber cómo se organizan estas enseñanzas.
-* Reflexionar sobre de estas enseñanzas.
+* Reflexionar sobre estas enseñanzas.
 
 
 ## Actividad de lectura
