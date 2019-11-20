@@ -6,7 +6,7 @@
 
 El estudio de este módulo te permitirá responder a estas y otras preguntas.
 
-![](img/adultossomontano.jpg)
+![](/assets/estética.jpg)
 
 ## Objetivos
 
