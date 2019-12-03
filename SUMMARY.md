@@ -162,7 +162,7 @@
   * [2.4. Administradores y Tutores](22_funciones_del_administrador.md)
   * [Para saber más](resumen26.md)
 
-## 8: El Sistema de Gestión de Calidad de los CPEPA de Aragón
+## 8. El Sistema de Gestión de Calidad de los CPEPA de Aragón
 
 * [El Sistema de Gestión de Calidad de los CPEPA de Aragón](index7.md)
 * [U1. Manual de Calidad](manual_de_calidad.md)
@@ -180,4 +180,9 @@
   * [Documentación y extraescolares](alcance/documentacion-y-extraescolares.md)
 * [U4. Procesos de apoyo](u3-procesos-de-prestacion-del-servicio.md)
 * [Créditos](crditos.md)
+
+## 9. Difusión e innovación
+
+* Difusión e innovación
+  * Difusión e innovación
 
