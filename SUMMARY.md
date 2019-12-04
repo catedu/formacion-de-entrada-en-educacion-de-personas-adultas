@@ -179,10 +179,11 @@
   * [Formación](alcance/formacion.md)
   * [Documentación y extraescolares](alcance/documentacion-y-extraescolares.md)
 * [U4. Procesos de apoyo](u3-procesos-de-prestacion-del-servicio.md)
-* [Créditos](crditos.md)
 
 ## 9. Difusión e innovación
 
-* Difusión e innovación
-  * Difusión e innovación
+* [Difusión e innovación](difusion-innovacion.md)
 
+---
+
+* [Créditos](crditos.md)
