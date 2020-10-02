@@ -1,5 +1,8 @@
 # Introducción
 
+>**danger**
+>Curo actualmente en revisión
+
 Este curso va destinado al profesorado que se incorpora por primera vez al Programa de Educación de Personas Adultas en los diferentes ámbitos provinciales, ya sea personal funcionario, contratado de Entidades Locales o Asociaciones de iniciativa social.
 
 Actualmente no existe una especialidad de maestro/a-profesor/a en educación de personas adultas, sin embargo se trata de un ámbito educativo diferenciado que requiere de una formación y tratamiento específico, por lo que es necesario plantear un curso de formación de entrada para el profesorado que se incorpora a este tipo de enseñanzas.
