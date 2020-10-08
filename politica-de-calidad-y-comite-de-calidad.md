@@ -1,17 +1,17 @@
 # Política de Calidad y Comité de Calidad
 
-El Director General de Innovación, Equidad y Participación define la Política de Calidad con el compromiso de hacer del Plan de Aprendizaje Permanente un modelo a seguir.
+El Director/a General de la Dirección General competente en materia de Educación Permanente define la Política de Calidad con el compromiso de hacer del Plan de Aprendizaje Permanente un modelo a seguir.
 
 La Política de Calidad se elabora en los Servicios Centrales del Departamento de Educación, Cultura y Deporte, la firma el Director General de Innovación, Equidad y Participación y se remite a los CPEPA en el mes de septiembre.
 
 El Comité de Calidad garantiza el mantenimiento y actualización del Sistema de Gestión de Calidad. Está constituido, al menos, por:
 
-* Presidente: Director General de Innovación, Equidad y Participación.
+* Presidente: Director/a General de la Dirección General competente en materia de Educación Permanente.
 * Secretaria: Jefa de Servicio de Equidad e Inclusión.
 * Dos personas del Servicio de Equidad e Inclusión.
 * Un/a representante de los CPEPA por provincia.
 * Persona encargada de la Educación de Personas Adultas de cada servicio provincial.
-* Un/a inspector/a de cada provincia, designado por el/la Director/a del servicio provincial.
+* Un/a inspector/a de cada provincia, designado por el/la Director/a de cada servicio provincial.
 
 El Comité de Calidad se reunirá, al menos, una vez al año y sus funciones serán:
 
