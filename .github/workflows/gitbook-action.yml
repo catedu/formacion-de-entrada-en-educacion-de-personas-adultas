@@ -15,8 +15,8 @@ jobs:
         token: ${{ secrets.PERSONAL_TOKEN_GITBOOK_ACTION }}
         source_dir: .
         gitbook_pdf: true
-        gitbook_pdf_name: formacion-de-entrada-en-educacion-de-personas-adultas
+        gitbook_pdf_name: feepa
         gitbook_epub: true
-        gitbook_epub_name: formacion-de-entrada-en-educacion-de-personas-adultas
+        gitbook_epub_name: feepa
         gitbook_mobi: true
-        gitbook_mobi_name: formacion-de-entrada-en-educacion-de-personas-adultas
+        gitbook_mobi_name: feepa
