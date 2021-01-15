@@ -6,7 +6,7 @@ En la elección o creación de un material para enseñanzas iniciales interviene
 >
 > ## Para saber más
 >
-> Si necesitas refrescar tus conocimientos sobre metodologías, puedes acceder al [curso de metodologías activas de Aularagón](https://catedu.gitbooks.io/metodologias-activas-didactica-y-evaluacion/content/).
+> Si necesitas refrescar tus conocimientos sobre metodologías, puedes acceder al [curso de metodologías activas de Aularagón](https://catedu.github.io/metodologias-activas-didactica-y-evaluacion/).
 
 
 
