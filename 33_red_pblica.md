@@ -20,8 +20,4 @@ Mapa comarcal de Aragón con la distribución de CPEPAs (del Plan de Aprendizaje
 >**info**
 >## Importante
 >
->[**Plan de formación para el aprendizaje permanente de Aragón 2018-19**](http://www.educaragon.org/FILES/Plan_Aprendizaje_Permanente_2018_19%20.pdf).
-
- 
-
- 
+>[**Plan de formación para el aprendizaje permanente de Aragón 2018-19**](https://educa.aragon.es/documents/20126/437667/Plan_Aprendizaje_Permanente_2017_18.pdf/68c16bcc-46e8-f7ca-c616-c56cc83275f1?t=1573563796408).

@@ -24,7 +24,7 @@
 >
 > 1. La Ley Orgánica de Educación.
 > 2. La Ley de Educación Permanente en Aragón.
-> 3. [Plan de formación para el aprendizaje permanente de Aragón](http://www.educaragon.org/files/Plan_Aprendizaje_Permanente_2017_18.pdf)
+> 3. [Plan de formación para el aprendizaje permanente de Aragón](https://educa.aragon.es/documents/20126/437667/Plan_Aprendizaje_Permanente_2017_18.pdf/68c16bcc-46e8-f7ca-c616-c56cc83275f1?t=1573563796408)
 > 4. Ley Orgánica de las Cualificaciones y de la Formación Profesional y los Certificados de Profesionalidad.
 > 5. Otra normativa básica.
 

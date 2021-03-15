@@ -75,10 +75,10 @@ Los Centros que oferten enseñanzas en la Modalidad a Distancia, incorporarán a
 >
 >En esta página se recoge la oferta de educación permanente en Aragón y puedes consultar la referida a la educación a distancia:
 >
->- [http://epa.educa.aragon.es/educapermanente/](http://epa.educa.aragon.es/educapermanente/)
+>- [https://epa.educa.aragon.es/educapermanente/](https://epa.educa.aragon.es/educapermanente/)
 >
->La página de [Educaragón](http://www.educaragon.org/) te ofrece, por otra parte, más información relativa a la regulación y normativa de estos estudios que, no obstante, serán objeto de un estudio más profundo y pormenorizado en el Módulo 7 de este curso.
+>La página de [Educaragón](https://educa.aragon.es/en/centros-epa) te ofrece, por otra parte, más información relativa a la regulación y normativa de estos estudios que, no obstante, serán objeto de un estudio más profundo y pormenorizado en el Módulo 7 de este curso.
 
 #### 3. Enseñanzas autorizadas por las Instrucciones
 
-Los Centros Públicos de Educación de Personas Adultas podrán impartir cualquiera de las enseñanzas que contemplan las instrucciones que regulan su funcionamiento y que se publican cada curso escolar. Accede al siguiente enlace para conocer la OFERTA EDUCATIVA que corresponde al curso actual:[Instrucciones para la organización y funcionamiento de los Centros Públicos y Privados de Personas Adultas](http://www.educaragon.org/guiaeducativa/guia_educativa_permanente.asp?sepRuta=Sistema+Educativo%2F%3Ca+href%3D%27%2Feducacion%5Fno%5Funi%2Easp%27%3EEnse%F1anza+no+Universitaria%3C%2Fa%3E%2F&amp;guiaeducativa=&amp;strSeccion=PPI04&amp;titpadre=Educaci%F3n+permanente&amp;arrpadres=&amp;arrides=&amp;arridesvin=&amp;lngArbol=80&amp;lngArbolvinculado=)
+Los Centros Públicos de Educación de Personas Adultas podrán impartir cualquiera de las enseñanzas que contemplan las instrucciones que regulan su funcionamiento y que se publican cada curso escolar. Accede al siguiente enlace para conocer la OFERTA EDUCATIVA que corresponde al curso actual:[Instrucciones para la organización y funcionamiento de los Centros Públicos y Privados de Personas Adultas](http://www.adultosh.educa.aragon.es/normativa/instrucciones.html)
