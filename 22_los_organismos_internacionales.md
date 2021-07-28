@@ -28,7 +28,7 @@ El Marco de Acción Belem hace hincapié en la necesidad de reforzar la cooperac
 >
 > Conoce la VI Conferencia Internacional de Educación de Adultos celebrada en Belem \(Brasil\) en 2009.
 >
-> * [VI Conferencia Internacional de Educación de Adultos](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/CONFITEA%20VI%20revisión%202017.pdf)
+> * [VI Conferencia Internacional de Educación de Adultos](assets/confitea-2017-revision.pdf)
 
 ### 2.2. La Organización de Cooperación y Desarrollo Económico \(OCDE\)
 
@@ -84,9 +84,5 @@ Otros agentes intervinientes en EPA son Asociaciones sin ánimo de lucro, Organi
 >
 > ## Para saber más
 >
-> Hoy en la educación permanente participan distintos agentes; lee, para ampliar tus conocimientos, el punto 1.2. pág. 184, del Anuario de Pedagogía “[Siete principios, siete destinatarios y siete recursos de la educación permanente](http://aularagon.catedu.es/materialesaularagon2013/fepa/zips/Modulo_1/siete_principios.pdf)”.
-
-## 
-
-
+> Hoy en la educación permanente participan distintos agentes; lee, para ampliar tus conocimientos, el punto 1.2. pág. 184, del Anuario de Pedagogía “[Siete principios, siete destinatarios y siete recursos de la educación permanente](assets/siete_principios.pdf)”.
 
