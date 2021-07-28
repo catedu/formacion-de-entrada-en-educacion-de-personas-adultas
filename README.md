@@ -1,7 +1,7 @@
 # Introducción
 
 >**danger**
->Curo actualmente en revisión
+>Curso actualmente en revisión
 
 Este curso va destinado al profesorado que se incorpora por primera vez al Programa de Educación de Personas Adultas en los diferentes ámbitos provinciales, ya sea personal funcionario, contratado de Entidades Locales o Asociaciones de iniciativa social.
 
