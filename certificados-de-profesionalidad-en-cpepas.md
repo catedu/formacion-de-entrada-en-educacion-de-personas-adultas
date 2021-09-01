@@ -16,5 +16,5 @@ La gestión y documentación de los Certificados varía dependiendo del tipo de 
 
 Los Centros de EPA no sólo imparten los módulos teóricos, sino que gestionan y coordinan también los módulos de prácticas, que, en general, se realizan en organizaciones, empresas, etc... externas al propio Centro y con quienes hay que firmar un convenio de colaboración previo a que el alumnado pueda realizar ahí dichas prácticas. Es importante destacar que se dan casos en los que el alumnado puede estar exento de realizar dichos módulos de formación práctica, dependiendo fundamentalmente de su experiencia profesional anterior relacionada con el Certificado que quiere cursar.
 
-Toda la información relativa a requisitos de acceso a los certificados de profesionalidad, la exención de la realización del módulo de formación práctica, etc... se encuentra en [este enlace](https://inaem.aragon.es/como-obtener-un-certificado-de-profesionalidad).
+Toda la información relativa a requisitos de acceso a los certificados de profesionalidad, la exención de la realización del módulo de formación práctica, etc... se encuentra en [este enlace](https://bit.ly/3DBL5Ef).
 
