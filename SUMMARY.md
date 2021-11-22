@@ -10,6 +10,7 @@
 * [Programa del curso](programa-del-curso.md)
 * [Evaluación](evaluacion.md)
 
+{::comment}
 <!-––
 ## 1. Marco institucional de la EPA
 
