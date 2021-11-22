@@ -10,6 +10,7 @@
 * [Programa del curso](programa-del-curso.md)
 * [Evaluación](evaluacion.md)
 
+<!––
 ## 1. Marco institucional de la EPA
 
 * [Marco institucional de la EPA](index0.md)
@@ -45,7 +46,7 @@
   * [5.2. Instrucciones relacionadas con la formación para el empleo](52_instrucciones_relacionadas_con_la_formacin_para_el_empleo.md)
   * [5.3. Instrucciones que regulan las pruebas libres y de acceso para personas adultas](53_instrucciones_que_regulan_las_pruebas_libres_y_de_acceso_para_personas_adultas.md)
   * [Resumen](resumen5.md)
-
+––>
 ## 2. Intervención en el aula
 
 * [Intervención en el aula](index1.md)
